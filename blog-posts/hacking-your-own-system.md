@@ -22,7 +22,7 @@ That last question turned out to be one of the most important ones I asked.
 
 ## The Wrong Metric
 
-Early on I made a classic mistake. I was watching the scale.  Weight seemed like the obvious measure of progress. It's concrete. It's immediate. It changes every day.  It's one of the metrics my doctor used to get my attention, among others.  I cam to find out it was the wrong metric for the long-term.
+Early on I made a classic mistake. I was watching the scale.  Weight seemed like the obvious measure of progress. It's concrete. It's immediate. It changes every day.  It's one of the metrics my doctor used to get my attention, among others.  I came to find out it was the wrong metric for the long-term.
 
 Over time I learned that the real measure wasn't what I weighed — it was what I was made of. Building lean muscle mass was the goal, and muscle weighs more than fat. The scale was actually lying to me about my progress. When I shifted my focus to the right metric, everything changed. I started seeing progress I had been missing.
 
