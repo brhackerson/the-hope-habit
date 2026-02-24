@@ -1,9 +1,5 @@
 # Hacking Your Own System: How I Finally Built a Hope Habit That Stuck
 
-*By Brian Hackerson*
-
----
-
 I want to be honest with you about something.
 
 This didn't happen on the first try. Or the second. Or the fifth.
@@ -13,8 +9,6 @@ For years I knew what I should do. I had the information. I had the intention. I
 What finally changed wasn't my willpower. It was my approach.
 
 I stopped trying to follow someone else's system and started treating myself like a system worth understanding.
-
----
 
 ## What Hacking Your System Actually Means
 
@@ -26,21 +20,13 @@ Agile Best Self Principle 12 says to reflect at regular intervals on how to beco
 
 That last question turned out to be one of the most important ones I asked.
 
----
-
 ## The Wrong Metric
 
-Early on I made a classic mistake. I was watching the scale.
-
-Weight seemed like the obvious measure of progress. It's concrete. It's immediate. It changes every day.
-
-But it was the wrong signal.
+Early on I made a classic mistake. I was watching the scale.  Weight seemed like the obvious measure of progress. It's concrete. It's immediate. It changes every day.  It's one of the metrics my doctor used to get my attention, among others.  I cam to find out it was the wrong metric for the long-term.
 
 Over time I learned that the real measure wasn't what I weighed — it was what I was made of. Building lean muscle mass was the goal, and muscle weighs more than fat. The scale was actually lying to me about my progress. When I shifted my focus to the right metric, everything changed. I started seeing progress I had been missing.
 
 This is something I see in hope habits broadly. We often measure the wrong thing — the number, the outcome, the external validation — when the real signal is something quieter and harder to see. The question isn't always "what's the number?" It's "am I measuring what actually matters?"
-
----
 
 ## You Can't Hack It Alone
 
