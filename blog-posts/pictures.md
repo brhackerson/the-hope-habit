@@ -1,10 +1,5 @@
 # Pictures: How One Word Became My Hope Habit
 
-*By Brian Hackerson | Published February 22, 2026*
-*Tags: habit, hope, pictures, Principle 1, Principle 3, Principle 7, Principle 12*
-
----
-
 A few months ago, I turned 60. Somewhere in the months leading up to that milestone, I made a decision — not a resolution, not a vague intention, but a real, committed decision — to give myself a gift, and my family too.
 
 That decision became the most challenging and rewarding personal journey of my life.
@@ -60,3 +55,6 @@ You don't have to have it all figured out. You just need a keyword. A single wor
 Find that word. Write it down. Return to it.
 
 That's where the hope habit starts.
+
+*By Brian Hackerson | Published February 22, 2026*
+*Tags: habit, hope, pictures, Principle 1, Principle 3, Principle 7, Principle 12*
