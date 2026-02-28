@@ -1,5 +1,5 @@
 # Sources & References
-## Hope is Not a Feeling: A Practice Worth Building
+## Hope is Not a Feeling: It's a Practice Worth Building
 *By Brian Hackerson*
 
 ---
