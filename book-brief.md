@@ -10,7 +10,7 @@ Brian Hackerson
 Hope is not a feeling — it is something you do. It is a practice, a habit, a series of small actions taken consistently in the direction of something that matters deeply to you. Hope requires action.
 
 ## Author's Definition of Hope
-*"Hope is the feeling that comes when self-discipline meets adversity and wins."*
+*"Hope is what happens when self-discipline meets adversity and wins."*
 — Brian Hackerson
 
 ## Origin Story
@@ -55,7 +55,22 @@ Inspirational and motivational with a research backbone. Personal stories illust
 - Principle 7: Investing time in yourself is the primary measure of progress
 - Principle 12: At regular intervals, reflect on how to become your best self, then tune and adjust
 
-## Research to Explore
+## Faith Dimension
+The book is not a faith book but faith is an important and authentic element of Brian's story and framework. It should be present without being central — woven in naturally rather than foregrounded.
+
+Key notes:
+- Brian comes from a Lutheran tradition
+- The journey began on Epiphany Sunday 2025 — a moment of faith that sparked everything
+- The word "hope" arrived in a church context, as a gift, on a holy day
+- The Psalms as a model — honest, raw, sometimes despairing, always returning. A hope practice journal in ancient form.
+- The definition holds in a faith context: self-discipline meets adversity and wins. In faith, the discipline is prayer, practice, showing up before God even when — especially when — you feel nothing.
+- Faith traditions understand hope as active, not passive — this aligns directly with the book's thesis
+- The book is wide enough to hold faith without requiring it — the definition works for people of faith and people of no faith equally
+- Luther's own theology was forged in adversity — faith as active, not passive; grace received through practice
+
+*The faith thread should surface naturally in the personal stories — especially the Introduction (Epiphany Sunday), Chapter 13 (Hope Forward — parents, legacy, stewardship), and the Conclusion.*
+
+
 - C.R. Snyder — *The Psychology of Hope: You Can Get There from Here*
 - New Testament hope passages (to be identified)
 - Neuroscience of hope
@@ -84,8 +99,14 @@ Inspirational and motivational with a research backbone. Personal stories illust
 - Upcoming Orlando/Clearwater vacation March 22 — theme parks and beach, first major trip post-transformation
 - Golf — 50+ year relationship with the game, competitive through college, goal to break 80 consistently in retirement
 
-## Status
-- [x] Title confirmed: *Hope is Not a Feeling: A Practice Worth Building*
+## Planned Feedback Steps
+- [ ] Share book brief and outline with a pastor for feedback on faith dimension, theological accuracy, and overall framework
+  - Consider: personal pastor (knows Brian's story) vs. pastor who reads cold (reader experience)
+  - Goal: ensure faith thread is authentic, appropriately weighted, and theologically sound
+  - Timing: while structure is still flexible enough to respond to feedback
+
+
+- [x] Title confirmed: *Hope is Not a Feeling: It's a Practice Worth Building*
 - [x] Audience defined
 - [x] Tone defined
 - [x] Core thesis defined
