@@ -40,8 +40,152 @@ URL: https://www.psychologytoday.com/us/blog/everyday-resilience/202512/holding-
 
 ---
 
-### Sutherland, Jeff, and Ken Schwaber
-**The Scrum Guide: The Definitive Guide to Scrum — The Rules of the Game**
+### Robbins, Mel
+**The 5 Second Rule: Transform Your Life, Work, and Confidence with Everyday Courage**
+Savio Republic, 2017
+- Brian has read this book ✓
+- Brian actively uses this tool in the gym to initiate movement in the weight room
+- Key concepts relevant to the book:
+  - The 5-4-3-2-1 countdown as a mechanism to move from intention to action before the inner critic intervenes
+  - Directly connects to Snyder's pathways — a concrete tool for activating agency in real time
+  - The hesitation window — the brain will talk you out of anything if you give it enough time
+  - Courage as a habit, not a feeling — you act first, confidence follows
+  - Connects to the 5am alarm story — the moment between the alarm and getting up is exactly where the 5 second rule lives
+  - A practical tool that belongs in the hope practice toolkit
+- **Notes:** Brian's specific application in the weight room to be woven into relevant chapter
+- **Status:** Read by Brian ✓ — actively applied
+
+
+**Wisdom at Work: The Making of a Modern Elder**
+Currency, 2018
+- Brian has read this book ✓
+- Key concepts relevant to the book:
+  - The Modern Elder — someone who combines the wisdom of experience with the curiosity of a beginner
+  - Aging as an asset, not a liability — directly relevant to Brian's story at 60
+  - Mentorship and being mentored simultaneously — giving and receiving wisdom
+  - Emotional intelligence deepens with age — experience as a competitive advantage
+  - Reframing the second half of life as a season of purpose and contribution, not decline
+  - Directly connects to the hope forward / legacy chapters — what you're building at 60 matters more, not less
+  - Relevant to the golf story — returning to a high level of play in the next chapter of life
+- **Notes:** Specific insights and connections to hope practice to be added
+- **Status:** Read by Brian ✓
+
+: A Book About Hope**
+HarperOne, 2019
+- Brian has read this book ✓
+- Key concepts relevant to the book:
+  - Hope requires honest confrontation with reality — not positive thinking or wishful optimism
+  - The loss of ability to tolerate discomfort destroys hope
+  - The Thinking Brain vs. the Feeling Brain — and why feelings alone can't sustain hope
+  - Values as the foundation of a meaningful life — you need something worth hoping for
+  - Directly relevant to the thesis — hope is not a feeling, it requires action and honest self-assessment
+- **Notes:** Specific insights and connections to hope practice to be added
+- **Status:** Read by Brian ✓
+
+### McGonigal, Jane
+**Imaginable: How to See the Future Coming and Feel Ready for Anything — Even Things That Seem Impossible Today**
+Spiegel & Grau, 2022
+- Brian has not yet read this book — recommended for reading before manuscript is complete
+- McGonigal is a future forecaster, game designer, and NYT bestselling author
+- Key concepts relevant to the book:
+  - "Urgent optimism" — an activated sense of agency about the future, closely related to hope as practice
+  - Future simulation as a tool for building resilience and reducing anxiety
+  - Neuroscience research: the brain treats your future self as a stranger — vividly imagining future scenarios builds connection to that future self
+  - Thought experiments and games as practical tools for engaging the future before it arrives
+- **Differentiation notes:**
+  - Overlap is real and worth taking seriously — both books argue hope is actively created, not passively received, and both are grounded in neuroscience
+  - McGonigal's mechanism: future simulation (imagining scenarios 10 years out)
+  - Brian's mechanism: daily practice in the present moment (showing up today, again and again)
+  - McGonigal writes for people navigating an uncertain world; Brian writes for people who have lost hope in their own personal journey
+  - Her "urgent optimism" and Brian's "self-discipline meets adversity" are different engines pointing in a similar direction
+  - Interesting convergence: "Pictures" is essentially a personal future simulation — McGonigal's neuroscience research supports why the keyword mechanism works
+  - Not competing books — in conversation with each other, different audiences, different tools
+- **Status:** Not yet read — add to reading list before manuscript complete ⬜
+
+### Manson, Mark
+**The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life**
+HarperOne, 2016
+- Brian has read this book ✓
+- Key concepts relevant to the book:
+  - Choosing what matters — the hope practice requires radical clarity about what deserves your energy
+  - Embracing struggle and discomfort as part of a meaningful life
+  - Values-based decision making — what you're willing to suffer for defines you
+  - The counterintuitive idea that accepting limitations is the path to freedom — connects to intentional reduction
+- **Notes:** Specific insights and connections to hope practice to be added
+- **Status:** Read by Brian ✓
+
+
+**Meditation for Fidgety Skeptics: A 10% Happier How-to Book**
+Spiegel & Grau, 2017
+- Brian has read this book ✓
+- Key concepts relevant to the book:
+  - Practical, skeptic-friendly approach to meditation — no woo, just practice
+  - Mindfulness as a tool for noticing thoughts without being hijacked by them
+  - The inner critic quieted through consistent practice — directly connects to inner critic / inner advocate framework
+  - Agency at its most fundamental — the ability to observe your own mind and choose your response
+  - Iterative, experiment-based approach to building a meditation practice mirrors the hope practice framework
+  - Connects to Agile Best Self Principle 6 — be mindful and intentional
+- **Notes:** Specific insights and connections to hope practice to be added
+- **Status:** Read by Brian ✓
+
+: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead**
+Gotham Books, 2012
+- Brian has read this book ✓
+- Key concepts relevant to the book:
+  - Vulnerability as courage — not weakness but the willingness to show up and be seen
+  - The arena — showing up even when the outcome is uncertain
+  - Shame resilience — recognizing and moving through shame rather than being defined by it
+  - Wholehearted living — engaging with life from a place of worthiness
+  - Directly relevant to the blog post series — sharing the health journey publicly is an act of daring greatly
+  - Connects to the inner critic / inner advocate framework — shame is what the inner critic weaponizes
+  - Building a hope practice requires the courage to be seen — imperfect, struggling, and still showing up
+- **Notes:** Specific insights and connections to hope practice to be added
+- **Status:** Read by Brian ✓
+
+
+**Drive: The Surprising Truth About What Motivates Us**
+Riverhead Books, 2009
+- Brian has read this book ✓
+- Key concepts relevant to the book:
+  - Intrinsic motivation — autonomy, mastery, purpose as the three elements
+  - The limitations of external rewards for sustained motivation
+  - Purpose as the most powerful motivator — directly connects to the "Pictures" concept and finding your why
+- **Notes:** Specific insights and connections to hope practice to be added by Brian
+- **Status:** Read by Brian ✓
+
+
+**The First Rule of Mastery: Stop Worrying About What People Think of You**
+Harvard Business Review Press, 2023
+- Brian has read this book ✓
+- Brian also listened extensively to Gervais's podcast and found guest insights valuable
+- Brian took a Gervais course on personal philosophy (name and year TBD — Brian to confirm)
+- Key concepts relevant to the book:
+  - FOPO — Fear of Other People's Opinions — and how it limits performance and hope (Chapter 5)
+  - Mastering the inner voice — directly connects to inner critic / inner advocate framework
+  - Performance under pressure and building a personal philosophy
+  - **Three criteria for a personal philosophy** (from Gervais course — relevant to Chapter 6):
+    1. 25 words or less — shorter is better
+    2. Must be speakable under duress
+    3. When you speak it with others, you feel it somewhere in your body — activation, release of brain chemicals
+  - "Pictures" meets all three criteria exactly — one word, speakable at 5am or mid-rep, viscerally felt when discussed
+  - These criteria explain WHY the keyword mechanism works, not just that it works
+  - Connects to Gupta (Keep Sharp) — the physical sensation is neuroscience, not metaphor
+- **Citation note:** The three criteria come from the "Finding Your Best" course by Gervais and Pete Carroll, Compete to Create, circa 2017-2018 (still available at competetocreate.net). Ideas cannot be copyrighted — cite clearly: "In his Finding Your Best course, Gervais offers three criteria..." The companion Audible Original — *Finding Your Best: A Conversation on High Performance Mindset* (Audible Originals, 2019) — is the preferred citation as Brian has read it and it is a published work.
+- **Status:** Book (First Rule of Mastery) read ✓ — podcast extensively followed ✓ — Finding Your Best course completed circa 2017-2018 ✓ — Finding Your Best Audible Original read ✓
+
+### Gupta, Sanjay
+**Keep Sharp: Build a Better Brain at Any Age**
+Simon & Schuster, 2021
+- Brian has read this book ✓
+- Gained specific insights that fueled his health transformation journey
+- Key concepts relevant to the book:
+  - Brain health through exercise, sleep, nutrition, and social connection
+  - Science behind why the hope practice works at a biological level
+  - Lifelong cognitive resilience
+- **Notes:** Specific insights that fueled Brian's journey to be added
+- **Status:** Read by Brian ✓
+
+: The Definitive Guide to Scrum — The Rules of the Game**
 Scrumguides.org, 2020 (most recent edition)
 - Brian has read this ✓
 - Free and publicly available at https://scrumguides.org
@@ -143,6 +287,34 @@ Avery, 2018
 ## Books Referenced but Not Yet Reviewed
 
 ### Brown, Brené
+**Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.**
+Random House, 2018
+- Brian has read this book ✓
+- Key concepts relevant to the book:
+  - Rumbling with vulnerability — the courage to engage with uncertainty and discomfort
+  - Values-driven leadership — knowing what you stand for and leading from that place
+  - Armored leadership vs. daring leadership — the walls we build that keep us from hope
+  - Grounded confidence — not armor, but clarity about who you are and what matters
+  - BRAVING inventory — the elements of trust, relevant to building your trusted circle
+  - Connects to the hope practice — leading yourself requires the same courage as leading others
+- **Notes:** Specific insights and connections to hope practice to be added
+- **Status:** Read by Brian ✓
+
+### Brown, Brené
+**Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead**
+Gotham Books, 2012
+- Brian has read this book ✓
+- Key concepts relevant to the book:
+  - Vulnerability as courage — not weakness but the willingness to show up and be seen
+  - The arena — showing up even when the outcome is uncertain
+  - Shame resilience — recognizing and moving through shame rather than being defined by it
+  - Wholehearted living — engaging with life from a place of worthiness
+  - Sharing the health journey publicly is an act of daring greatly
+  - Shame is what the inner critic weaponizes — connects to inner critic / inner advocate framework
+- **Notes:** Specific insights and connections to hope practice to be added
+- **Status:** Read by Brian ✓
+
+### Brown, Brené
 **The Gifts of Imperfection**
 - References Snyder's Hope Theory
 - **Status:** To be reviewed for relevant passages
@@ -154,7 +326,20 @@ Avery, 2018
 
 ---
 
-## Frameworks & Systems
+## Videos & Speeches
+
+### Lawson, Kara
+**"Handle Hard Better"**
+Duke Women's Basketball, posted via Duke Athletics social media channels, circa 2022
+- Over 8 million views across platforms
+- Lawson is head coach of Duke Women's Basketball, NCAA All-American, Olympic gold medalist, WNBA champion, former ESPN broadcaster, former Boston Celtics assistant coach, and incoming Team USA head coach for 2028 LA Olympics
+- Key concept: life never gets easier — what changes is your capacity to handle hard
+- Directly relevant to "Meets Adversity" section of the hope definition
+- Complements the hope practice thesis: adversity doesn't go away, you get better at meeting it
+- URL: available on YouTube via Duke Women's Basketball channel
+- **Status:** Brian has seen the video ✓
+
+
 
 ### Hackerson, Brian and Gardner, Michaele
 **Agile Best Self — 12 Principles**

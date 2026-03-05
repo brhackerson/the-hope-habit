@@ -105,3 +105,43 @@ When asked if there's a specific person who puts a face on that reader, Brian sa
 *Notes for writing: This is one of the most important moments in the story prompts. The book is written for the person who has lost hope — and the face on that person is Brian's father, who can no longer read it. That grief and that love are part of what drives the writing. It also reframes the legacy chapter — Brian is writing for his father, and for everyone who is still here and still can be reached. Handle with care. This may be the emotional center of the book.*
 
 ---
+
+## Wildcard — Mom's Kindness Practice
+
+*Captured conversationally — not tied to a specific prompt yet. To be placed when the right moment in the book reveals itself.*
+
+In the later stages of her life, Brian's mother made kindness her mission. After losing her husband to Alzheimer's, she chose to spend her remaining years bringing something gentle into the world. She did this in two main ways.
+
+First, she knitted small stuffed animals — monkeys, bunnies, chicks — and donated them to a local charity in her town. She never knew exactly where they went. Then one day, already starting to decline, she found herself in an ambulance and noticed one of her monkeys in the back. She asked the driver where it came from. He didn't know. She smiled through the pain and said: I made that. The thing she had sent out into the world had found its way to her in one of her hardest moments.
+
+Second, she made handmade embroidered dish towels. These became her kindness currency. If someone treated her well — at the store, the gas station, even her lawyer — she would come back with a dish towel. No money. Just a handmade thing given as a small act of grace. And if someone cut her off in traffic or was unkind at the store, she had a response for that too: "No dish towel for you."
+
+Brian wants this story in the book as a way to honor his mother and to show what hope looks like when it turns outward — not the internal practice of self-discipline meeting adversity, but what comes out the other side of that work. Kindness as a practice, not a feeling. Hope expressed as generosity. She couldn't control much in her final years. She could control whether she brought something handmade to the person who treated her right.
+
+*Notes for writing: This may connect to Chapter 13 (Hope Forward) or the Conclusion — the hope practice doesn't end with you, it ripples. Her monkey finding its way back to her in the ambulance is one of the most cinematic moments in the entire book. "No dish towel for you" is a line that will make readers laugh and then cry. Handle with love.*
+
+---
+
+## Wildcard — The Text Message
+
+*Captured conversationally — not tied to a specific prompt yet. Likely belongs in Chapter 6 (Pictures/keyword) or Chapter 11 (the ritual). Also used in the "Why Pictures Works" blog post.*
+
+Two days after returning to strength training following hernia surgery — the first session back after three weeks of restrictions — Brian finished the workout and sat with a moment of reflection and unexpected emotion. Relief, gratitude, and something harder to name. The procedure was behind him. The constraints were over. He had made it through.
+
+At that exact moment, a text came in from a good friend. It was a photograph — Brian, two years earlier, on a guys trip, in his former body.
+
+The timing was unplanned. The friend didn't know what Brian was feeling. He was just sharing a memory. But "Pictures" — the word Brian had chosen months earlier to anchor his hope practice — had just arrived literally and physically in his hand, at the exact moment he needed it most.
+
+The word found him back.
+
+*Notes for writing: This is one of the most cinematic moments in the entire book. The convergence of the first post-surgery workout, the unexpected emotion, and the photograph arriving unprompted is almost too perfect — but it's real. "The word finds you back" is a line worth keeping. Connects directly to McGonigal's EFT research — the future simulation Brian had been running for months materialized as a literal photograph. Also connects to Snyder's agency — the practice had built enough momentum that even an outside signal reinforced it. Handle with joy.*
+
+---
+
+## Addendum — The Text Message (friend context)
+
+The friend who sent the photograph is one of Brian's closest supporters on this journey. He is a recently retired corporate fitness executive who has followed Brian's progress closely and understands both the physical and mindset dimensions of what Brian has been building. Whether or not the timing of the text was intentional, it was not random — it came from someone inside the trusted circle who knew exactly what the journey meant.
+
+*Notes for writing: This detail elevates the story. It connects to Chapter 9 (You Can't Build It Alone) and the trusted circle principle. The photograph wasn't just a coincidence — it was the trusted circle showing up at exactly the right moment, in exactly the right form. Agile Best Self Principle 4 in action.*
+
+---
