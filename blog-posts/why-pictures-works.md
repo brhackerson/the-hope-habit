@@ -1,19 +1,15 @@
 # Why "Pictures" Works
-### I chose the word intuitively. The research explains why it was exactly right.
+### I chose this keyword intuitively. The research explains why it was exactly right.
 
-*By Brian Hackerson*
-
----
-
-A few weeks into my health journey, I needed something I didn't have a name for yet.
+A few weeks into my 2025 health journey, I needed something I didn't have a name for yet.
 
 The inner critic was loud in those early mornings. Not dramatically loud — just persistently, quietly loud. Stay in bed. You're tired. One day won't matter. I needed something that could cut through that noise in seconds. Not a motivational poster. Not a complicated system. One word, accessible instantly, that could reset me before the critic won.
 
 I landed on *Pictures*.
 
-The story behind that word is simple. I have a lot of life still ahead — kids graduating, getting married, building families of their own. Every one of those moments will be captured in photographs that will outlive me. What will my kids tell their grandchildren when they look at those pictures? What story will my presence — or absence, or health — tell across generations?
+The story behind that keyword is simple. I have a lot of life still ahead — weddings, retirement, our kids starting to build families of their own. Every one of those moments will be inevitably captured in photographs that will outlive me. What will my kids tell their grandchildren when they look at those pictures? What story will my presence — or absence, or health — tell across generations?
 
-That's the word. That's why it works.
+That's the keyword. That's why it works.
 
 Or so I thought. What I've discovered since is that the research had already explained it — long before I stumbled onto it. Four different bodies of work, from four different researchers, all pointing at the same thing from different angles.
 
@@ -23,13 +19,13 @@ Psychologist C.R. Snyder spent decades studying hope and concluded it has two en
 
 Neither of those is passive. Both require action. Hope, in Snyder's framework, is not a mood. It's a cognitive skill — something you practice, not something that visits you.
 
-"Pictures" serves both engines simultaneously. It activates agency — I have a reason to move — and it opens a pathway — this is what I'm moving toward. When the inner critic says stay in bed, the word reconnects me to both the will and the direction. In under a second.
+"Pictures" serves both engines simultaneously. It activates agency — I have a reason to move — and it opens a pathway — this is what I'm moving toward. When the inner critic is opting for comfort - stay in bed - the word reconnects me to both the will and the direction. In under a second.
 
-## What Michael Gervais Discovered
+## What Dr. Michael Gervais Discovered
 
-Performance psychologist Michael Gervais — who has worked with Olympians, NFL teams, and world-class performers of every kind — teaches that an effective personal philosophy needs to meet three criteria. It must be 25 words or less, shorter is better. It must be speakable under duress. And when you speak it with others, you must feel it somewhere in your body — an activation, a physical response, a release of something real.
+Performance psychologist Dr. Michael Gervais — who has worked with Olympians, NFL teams, and world-class performers of every kind — teaches that an effective personal philosophy needs to meet three criteria. It must be 25 words or less, shorter is better. It must be speakable under duress. And when you speak of it with others, you must feel it somewhere in your body — an activation, a physical response, a release of something real.
 
-"Pictures" passes all three. It's one word. It's speakable at 5am when I'm half asleep and the critic is winning. And when I talk about what it means — the photographs, the grandchildren, the legacy — I feel it. Not as a metaphor. As a genuine physical response.
+"Pictures" passes all three. It's one word. It's speakable at 5 am when I'm half asleep and the critic is winning. And when I talk about what it means — the photographs, the grandchildren, the legacy — I feel it. Not as a metaphor. As a genuine physical response.
 
 That third criterion is not poetic language. It's neuroscience. Which brings me to the next researcher.
 
@@ -49,15 +45,15 @@ James Clear makes a similar argument in *Atomic Habits* — that the most effect
 
 The fact that Gervais's thinking helped shape Principle 8, and Principle 8 helped shape the keyword, and the keyword is now validated by Gervais's own criteria — that loop matters to me. It means the framework is coherent. The pieces weren't assembled randomly. They point at the same truth from different angles.
 
-## What Sanjay Gupta Confirmed
+## What Dr. Sanjay Gupta Confirmed
 
 In his research on brain health, neurosurgeon and CNN chief medical correspondent Dr. Sanjay Gupta documents how the brain responds to meaningful purpose. Exercise, sleep, nutrition, and social connection all contribute to cognitive resilience — but so does having a reason that matters. Purpose activates the brain differently than obligation does. The physical sensation Gervais describes when you speak your keyword with conviction — that's your brain releasing the neurochemistry of meaning.
 
-"Pictures" isn't just a memory aid. Every time it works, it's also a small act of brain training. Reaching for the word, feeling the activation, choosing to get up anyway — that's the practice at the biological level.
+"Pictures" isn't just a memory aid. Every time it works, it's also a small act of brain training. Reaching for the keyword, feeling the activation, choosing to get up anyway — that's the practice at the biological level.
 
-## What Jane McGonigal Proved
+## What Dr. Jane McGonigal Proved
 
-This is the one that surprised me most. Future forecaster and game designer Jane McGonigal, in her book *Imaginable*, draws on neuroscience research showing something counterintuitive: when you imagine your future self, your brain treats that person as a stranger. Literally. MRI studies show the neural patterns are similar to imagining someone you've never met.
+This is the one that surprised me most. Future forecaster and game designer Dr. Jane McGonigal, in her book *Imaginable*, draws on neuroscience research showing something counterintuitive: when you imagine your future self, your brain treats that person as a stranger. Literally. MRI studies show the neural patterns are similar to imagining someone you've never met.
 
 This is why it's so easy to make decisions today that harm the person you'll be tomorrow. Your future self doesn't feel real enough to protect.
 
@@ -65,7 +61,7 @@ McGonigal calls the solution Episodic Future Thinking — the practice of mental
 
 "Pictures" is a personal future simulation compressed into a single word. When I say it, I'm not thinking abstractly about health. I'm seeing specific photographs. Specific faces. Specific moments I want to be present for. My future self stops being a stranger and becomes someone worth getting out of bed for.
 
-McGonigal found this in her research. I found it at 5am without knowing her name.
+McGonigal found this in her research. I found it at 5 am without knowing her name.
 
 ## What This Means for You
 
@@ -77,20 +73,16 @@ The research points toward the same thing from four directions: the keyword that
 
 I got a reminder of this just a couple of days ago.
 
-I had just finished my first strength training session after surgery — three weeks of restrictions, a procedure I'm glad is behind me, and a morning that was more emotional than I expected. There's something about getting back under the bar after being kept away from it. I was sitting with that feeling, somewhere between relief and gratitude and something harder to name, when my phone buzzed.
+I had just finished my first strength training session after minor surgery — three weeks of restrictions, a procedure I'm glad is behind me, and a morning that was more emotional than I expected. There's something about getting back under the bar after being kept away from it. I was sitting with that feeling, somewhere between relief and gratitude and something harder to name, when my phone buzzed.
 
 A text from a good friend — a recently retired corporate fitness executive who has been one of my biggest supporters on this journey, someone who understands both the physical and the mindset dimensions of what I've been building. A photograph. Me, two years ago, on a guys trip — in my former body.
 
 I sat with that for a long moment.
 
-The timing wasn't planned. My friend didn't know what I was feeling in that moment. He was just sharing a memory. But "Pictures" — the word I had chosen months earlier to anchor my hope practice — had just arrived in my hand, literal and real, at the exact moment I needed it most.
+The timing wasn't planned. My friend didn't know what I was feeling in that moment. He was just sharing a memory. But "Pictures" — the keyword I had chosen months earlier to anchor my hope practice — had just arrived in my hand, literal and real, at the exact moment I needed it most.
 
-That's not mysticism. That's not coincidence, exactly either. That's what happens when you build a practice around something real enough to feel. The word finds you back.
+That's not mysticism. That's not coincidence, exactly either. That's what happens when you build a practice around something real enough to feel. The keyword finds you back.
 
-Find your word. Make it specific. Make it vivid. Make sure it passes the test — short enough to access, connected to someone you love, felt somewhere in your body when you say it out loud.
+Find your keyword. Make it specific. Make it vivid. Make sure it passes the test — short enough to access, connected to someone you love, felt somewhere in your body when you say it out loud.
 
-Then show up for it tomorrow morning. That's where your hope practice starts.
-
----
-
-*Brian Hackerson is building a hope practice and writing about it. He is the co-creator of the Agile Best Self framework and the author of the forthcoming book* Hope is Not a Feeling: It's a Practice Worth Building.
+Then show up for it tomorrow morning.
