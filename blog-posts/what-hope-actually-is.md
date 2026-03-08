@@ -1,46 +1,42 @@
 # What Hope Actually Is
 
-*A definition I didn't plan to write — and why it might change how you think about everything*
+*A way of seeing hope I didn't plan to write — and why it changes how you think about it*
 
-*By Brian Hackerson*
+I didn't sit down one day and decide to describe what hope is.
 
----
+It happened unexpectedly. This is how the best things in the recent phase of my journey have occurred. It was in the middle of something else. Someone asked me a question about how I stay hopeful when the world feels heavy. Before I even thought it through, something surprising came out of my mouth.
 
-I didn't sit down one day and decide to define hope.
-
-It happened the way the best things in this journey have happened — unexpectedly, in the middle of something else. Someone asked me a question about how I stay hopeful when the world feels heavy, and before I could think about it, something came out of my mouth that surprised me.
-
-*Hope is what happens when self-discipline meets adversity and wins.*
+***Hope is what happens when self-discipline meets adversity and wins.***
 
 I sat with that for a while. The more I turned it over, the more I believed it.
 
-It's not a definition you'll find in a dictionary. It's not academic language — though it's consistent with the research. Psychologist C.R. Snyder spent decades studying hope and concluded it has two engines: the belief that you can move forward, and the ability to find a route when the obvious one is blocked. It came from a year of living it, and from a question that deserved a real answer.
+It's not language you'll find in a dictionary. It's not academic language — though it's consistent with the research. Psychologist C.R. Snyder spent decades studying hope. He concluded it has two engines. The engines are the belief that you can move forward. It's also the ability to find a route when the obvious one is blocked. It came from a year of living it, and from a question that deserved a real answer.
 
 I want to unpack it with you — word by word — because I think each piece matters.
 
-## "What Happens"
+## What Happens
 
 Notice what this phrase doesn't say. It doesn't say hope is a feeling you have. It doesn't say hope is a gift some people are born with. It doesn't say hope arrives when conditions are right.
 
 It says hope is what *happens* — an outcome, a result, something that emerges from a process.
 
-This matters more than it might seem. If hope is a feeling, you're at the mercy of your mood, your circumstances, your neurochemistry on any given morning. If hope is what happens — a byproduct of something you do — then it's within reach every single day, regardless of how you feel when the alarm goes off.
+This matters more than it seems. If hope is a feeling, you're at the mercy of your mood, your circumstances, your neurochemistry on any given morning. If hope is what happens, it is a byproduct of something you do. Then it's within reach every single day. This is true regardless of how you feel when the alarm goes off.
 
 That shift changed everything for me. I stopped waiting for hope to show up and started doing the things that produce it.
 
-## "Self-Discipline"
+## Self-Discipline
 
 This is the walk — the practice, the showing up.
 
-Self-discipline gets a bad reputation. It sounds punishing, restrictive, joyless. But I've come to think of it differently — as the most generous thing you can do for your future self.
+Self-discipline gets a bad reputation. It sounds punishing, restrictive, joyless. I've come to think of it differently as the most generous thing you can do for your future self.
 
-Every morning, I get up before I want to. Every workout I show up for when part of me would rather not. Every meal I have with intention instead of convenience. Every time I choose what I'm building over what would be easy — that's self-discipline, and it doesn't feel like deprivation. It feels like loyalty to the person I decided to become on the day I made that decision.
+Every morning, I get up before I want to. Every workout I show up for when part of me would rather not. Every meal I enjoy with intention instead of convenience. Every time I choose what I'm building over what would be easy, I practice self-discipline. It doesn't feel like deprivation. It feels like loyalty to the person I decided to become on the day I made that decision.
 
 Here's the other thing about self-discipline — it's personal. What discipline looks like for your journey won't look like mine. For someone rebuilding after loss, discipline might be getting out of bed and going outside. For someone in recovery, it might be making the call. For someone caring for a sick parent, it might be five minutes a day that belongs only to them.
 
-The form changes but the function is the same. You show up for the thing that matters, consistently, even when you don't feel like it — especially when you don't feel like it.
+The form changes but the function is the same. You show up consistently for what matters. You do this even when you don't feel like it, especially during those times.
 
-## "Meets Adversity"
+## Meets Adversity
 
 This is the part that makes hope different from optimism.
 
@@ -48,19 +44,19 @@ Optimism says things will work out. It's a disposition — warm, helpful, but ul
 
 Hope meets adversity. It steps toward it, looks it in the eye and says: I see you, you're real, and I'm not stopping.
 
-Duke women's basketball coach Kara Lawson captured something close to this in a talk she gave her players that went viral — over 8 million views and counting. Her message was simple and eye-opening in the best way: we all wait for life to get easier, but it never does. What changes is you. You handle hard better.
+Duke women's basketball coach Kara Lawson captured something close to this in a talk. She gave her players a message that went viral. It has over 8 million views and counting. Her message was simple. It was also eye-opening in the best way. We all wait for life to get easier, but it never does. What changes is you. You handle hard better.
 
-That's exactly right. Adversity doesn't go away. You get better at meeting it. In my experience, the meeting — the act of showing up with self-discipline when the hard thing is right in front of you — is precisely where hope is made.
+That's exactly right. Adversity doesn't go away. You get better at meeting it. In my experience, the meeting is precisely where hope is made. It involves showing up with self-discipline when the hard thing is right in front of you.
 
-The adversity in my life these past few years has been real. A doctor's visit that made things very clear. The slow loss of my father to Alzheimer's over a decade. The recent passing of my mother. A body that had accumulated years of choices I wished I'd made differently. And there's more. I can't forget to acknowledge a world that — if I'm being honest — hasn't always made it easy to feel hopeful.
+The adversity in my life these past few years has been real. A doctor's visit that made things very clear. The slow loss of my father to Alzheimer's over a decade. The recent passing of my mother. A body that had accumulated years of choices I wished I'd made differently. And there's more. I can't forget to acknowledge today's world that — if I'm being honest — hasn't always made it easy to feel hopeful.
 
 I don't think you get to real hope without real adversity. The cheap version, the kind that pretends everything is fine, isn't hope. It's avoidance with better branding.
 
 The hope that holds — the kind worth building — is forged in the hard things. Not despite them. Because of them.
 
-## "And Wins"
+## And Wins
 
-This is where I want to be careful. Because "wins" doesn't mean what you might think.
+This is where I want to be careful. Because "wins" doesn't mean what you think.
 
 It doesn't mean the adversity disappears. It doesn't mean you achieve the goal, hit the number, cross the finish line. It doesn't mean the hard thing stops being hard.
 
@@ -70,15 +66,15 @@ Some of my biggest wins this past year looked like nothing from the outside. A m
 
 Those are wins — small ones, but they compound. They add up to a hope practice that is deeper and more durable than anything I've had before.
 
-Self-discipline meets adversity and wins — not once, in some dramatic moment of triumph, but again and again, in the small unglamorous moments that nobody else sees.
+Self-discipline meets adversity and wins. It doesn't happen once in some dramatic moment of triumph. It happens again and again in the small, unglamorous moments that nobody else sees.
 
-## A Definition Wide Enough For Everyone
+## Wide Enough For Everyone
 
-Here's what I love most about this definition. It doesn't tell you what your adversity must be, or what your self-discipline must look like, or what winning means for your journey.
+Here's what I love most about this expression of hope. It doesn't tell you what your adversity must be. It doesn't define what your self-discipline must look like. It doesn't specify what winning means for your journey.
 
-It works in a gym, in a grief group, in a recovery program, in a faith community, in a hospital room, in a living room at 3am when everything feels impossible.
+It works in a gym. It works in a grief group. It works in a recovery program. It works in a faith community. It works in a hospital room. It also works in a living room at 3 am when everything feels impossible.
 
-It works because it describes a dynamic, not a prescription. You bring your life to it. The definition holds whatever you bring.
+It works because it describes a dynamic, not a prescription. You bring your life to it. This expression of hope holds whatever you bring.
 
 What is your adversity right now? What would self-discipline look like in the face of it? What would winning mean — not eventually, but tomorrow morning?
 
@@ -86,4 +82,4 @@ That's where your hope practice starts.
 
 ---
 
-*Brian Hackerson is building a hope practice and writing about it. He is the co-creator of the Agile Best Self framework and the author of the forthcoming book* Hope is Not a Feeling: It's a Practice Worth Building.
+*Copyright © 2018 – 2026 Michaele Gardner and Brian Hackerson*
