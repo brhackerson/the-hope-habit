@@ -58,11 +58,19 @@ Hope practice works the same way. The habits, the keyword, the daily routine are
 
 ---
 
-## Personal Story Needed
+## Personal Story — Captured March 8, 2026
 
-Brian needs to identify a specific memory of working with the Scrum Values on a team — or a moment where one of the values showed up (or failed to show up) in a way that connects to hope practice. That story separates this post from a think piece anyone could write.
+**Respect** is the Scrum value that comes most naturally to Brian. It was foundational to how he was raised and how he raised his own kids. Deeply wired — not a conscious effort but a default way of showing up.
 
-Brian noted: "I will need to think about it."
+**Courage** is harder — and more personal than the standard Scrum definition suggests.
+
+In Scrum, courage typically means speaking hard truths and tackling difficult problems in a team setting. That's external-facing. What the hope practice required was a different kind entirely — internal courage. The courage to be patient with yourself. To trust a process when results are invisible. To keep showing up through plateaus without the validation of visible progress.
+
+There is also a shadow side to respect that connects directly to courage. Respect runs so deep that it sometimes tips into self-erasure — putting others first to the point of putting yourself last. Avoiding conflict at all costs. Wanting to stay out of the way. The hope practice — the decision to invest in himself, to put his own health at the center — required courage that cut against that pattern. Showing up for yourself when your default is to defer is not a small act.
+
+Some days courage looked like fighting through a plateau with nothing to show for it. Some days it looked like getting up anyway when the inner critic had every rational argument on its side.
+
+**Still needed:** A specific memory of working with the Scrum Values on a team — a moment where one of the values showed up (or failed to) in a professional setting. Brian is still thinking about this.
 
 ---
 

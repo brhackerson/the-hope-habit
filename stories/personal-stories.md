@@ -145,3 +145,51 @@ The friend who sent the photograph is one of Brian's closest supporters on this 
 *Notes for writing: This detail elevates the story. It connects to Chapter 9 (You Can't Build It Alone) and the trusted circle principle. The photograph wasn't just a coincidence — it was the trusted circle showing up at exactly the right moment, in exactly the right form. Agile Best Self Principle 4 in action.*
 
 ---
+
+## Wildcard — Hope as Renewable Fuel
+
+*A single insight captured conversationally. Likely belongs in Chapter 13 (Hope Forward / the infinite game). May be the thesis of that chapter.*
+
+"Hope is the renewable fuel in the infinite game."
+
+In Sinek's infinite game framework, the goal is not to win but to keep playing — to outlast, to stay in it, to keep the just cause alive. What runs out for most people isn't talent or strategy. It's the will to keep going. Hope — as a practice, not a feeling — is what replenishes that will. Not found once and spent down, but generated again and again through the daily work of self-discipline meeting adversity. The practice is the fuel source. Renewable by design.
+
+*Notes for writing: "Renewable fuel" is a precise and powerful metaphor — it implies that hope is not a fixed quantity but something actively produced. Connects directly to Sinek (The Infinite Game), to Brian's definition (self-discipline meets adversity and wins), and to the book's overall arc. The practice doesn't end — it fuels what comes next. Strong candidate for the opening or closing line of Chapter 13.*
+
+---
+
+## Wildcard — Hope as a Decision / "Surely" in Scripture
+
+*Captured after attending an NDSU choir concert. Two connected insights. Likely belongs in Introduction or Chapter 1 — the reframing of what hope actually is.*
+
+**Hope is a decision.**
+
+Before the practice, before the self-discipline, there is a moment where you choose. The decision precedes everything that follows. This may be the missing first step in the framework — hope doesn't begin with the habit, it begins with the choice to believe the practice is worth doing.
+
+**"Surely" as an expression of hope in scripture.**
+
+In the Bible, the word "surely" appears frequently at the front of declarations — and it carries weight beyond simple emphasis. It feels like an expression of confident, active hope. Not wishful thinking, but expectation grounded in something trustworthy. Hope spoken aloud as declaration rather than feeling. Examples from scripture to be researched and added later to illustrate this point.
+
+*Notes for writing: These two insights are connected — hope as decision and hope as declaration are two sides of the same coin. "Surely" is the verbal form of the decision. Research specific Bible passages using "surely" that carry this hopeful, covenant-grounded weight — Psalms are a likely source, possibly also the Gospels. Connects to the faith dimension and Lutheran thread. Brian to flag passages as he finds them. Strong candidate for Introduction or Chapter 1 framing.*
+
+---
+
+## Wildcard — Scrum Values: Respect and Courage (For Scrum Values Post and Chapter 4/5)
+
+*Captured March 8, 2026 in conversation. Connected to the "Five Scrum Values Were Always About Hope" post idea and relevant to Chapter 4 (foundation) and Chapter 5 (inner critic / courage).*
+
+**Respect comes easiest.**
+
+Respect is the Scrum value that comes most naturally. It was a foundational part of how Brian was raised and how he raised his own kids. It is deeply wired — not a conscious effort but a default way of showing up in the world. The hope practice didn't teach him respect. It confirmed that respect was already there as a foundation to build on.
+
+**Courage is harder — and more personal than the Scrum definition suggests.**
+
+In Scrum, courage typically means speaking hard truths, tackling difficult problems, doing the right thing in a team setting. That's external-facing courage. What the hope practice required was a different kind entirely — internal courage. The courage to be patient with yourself. To trust a process when results are invisible. To keep showing up through plateaus without the validation of visible progress.
+
+There is also a shadow side to respect that connects to courage. Respect runs so deep that it sometimes tips into self-erasure — putting others first to the point of putting yourself last. Avoiding conflict at all costs. Wanting to stay out of the way. Too much respect for others, not enough for yourself. The hope practice — specifically the decision to give himself a gift, to invest in himself, to put his own health at the center — required a kind of courage that cut against that pattern. Showing up for yourself, consistently, when part of you wants to defer and disappear, is not a small act.
+
+Some days courage looked like fighting through a plateau with nothing to show for it. Some days it looked like getting up anyway when the inner critic had every rational argument on its side. The practice did not make courage easier. It made courage a daily requirement — and that is what built it over time.
+
+*Notes for writing: The contrast between external Scrum courage (speaking truth to teams) and internal hope courage (trusting the process, showing up through invisible progress) is a genuinely new angle. The shadow side of respect — self-erasure, conflict avoidance — makes the courage required for the hope practice more personal and more honest. The decision to invest in yourself when your default is to defer is itself an act of courage. Strong material for the Courage section of the Scrum Values post and for Chapter 5 (inner critic / silencing what holds you back).*
+
+---
