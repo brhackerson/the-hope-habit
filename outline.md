@@ -18,6 +18,8 @@ The story of Epiphany Sunday 2025. A word arrives — hope — and it feels like
 
 This book is not a prescription. It is a personal framework and a generous invitation. Here is what I learned. Here are the principles underneath it. Now go find what works for you.
 
+The missing first step — before the practice, before the self-discipline, there is a moment of choice. Hope is a decision. The decision precedes everything. Without it, the practice never starts. This insight, captured from a quiet moment at an NDSU choir concert, may be the most important sentence in the book.
+
 The Agile and Scrum mindset as foundational context — inspect and adapt, empiricism, the sprint retrospective — not the subject of the book but the scaffolding that made building a hope practice possible. You don't build a hope practice from scratch. You build it from where you are.
 
 *Key sources:* Sutherland (Scrum values), Agile Best Self principles
@@ -70,6 +72,10 @@ You don't build a hope practice from scratch. You build it from where you are �
 
 The Scrum values — commitment, focus, openness, respect, courage — as the bedrock of how Brian approaches everything. These weren't adopted for this journey. They were already there, waiting to be applied to the most personal project of his life.
 
+The historical context matters: the Scrum Values were not part of Scrum from the beginning. Dr. Sutherland and Schwaber added them in the 2016 revision of the Scrum Guide — because the mechanics of Scrum alone were not enough. The human dimension had to be named explicitly. Hope practice works the same way. The habits, the keyword, the daily routine are the mechanics. The values are what make the practice sustainable at a human level. Each value maps directly to a dimension of the hope practice: courage to meet adversity, commitment as self-discipline in action, focus as the keyword doing its work, openness as Principle 12 (inspect and adjust), and respect starting with yourself — the foundation a hope practice collapses without.
+
+A critical historical note: the Scrum Values were not part of Scrum from the beginning. Dr. Jeff Sutherland and Ken Schwaber added them in the 2016 revision of the Scrum Guide — because the mechanics of Scrum alone were not enough. The human dimension had to be named explicitly. Hope practice works the same way. The habits, the keyword, the daily routine are the mechanics. The values are what make the practice sustainable at a human level. Each value maps directly to a dimension of hope practice: courage to meet adversity, commitment as self-discipline, focus as the keyword in action, openness as Principle 12 made daily, respect starting with yourself. They work as a system — you do not pick two and skip three.
+
 The Agile Best Self framework as the jumping off point — 12 principles co-created with Michaele Gardner that had already established the habit of reflection, self-investment, and iterative improvement. When the crisis arrived, the scaffolding was already in place.
 
 Conley's Modern Elder framing — you don't arrive at 60 empty. You arrive with wisdom, experience, perspective, and hard-won self-knowledge that younger people simply don't have yet. The hope practice at 60 is built on a deeper foundation than it could have been at 30. That's not a consolation. That's an asset.
@@ -102,17 +108,19 @@ Hope requires courage. The Scrum value of courage shows up here — the willingn
 ### Chapter 6: Purpose — Find Your Why and Make It a Keyword
 Sinek's Start With Why as the foundation — people don't sustain what they do, they sustain why they do it. Purpose is not decoration. It is the engine.
 
+Gervais's three criteria for a personal philosophy as the framework for the keyword mechanism — a word or phrase that is 25 words or less (shorter is better), speakable under duress, and felt somewhere in the body when spoken with others. These criteria explain why the keyword works, not just that it works. The physical sensation is neuroscience — Gupta's Keep Sharp in action.
+
 The keyword mechanism as purpose made operational — a single word that in your hardest moment reconnects you to your deepest why in seconds. Not a motivational poster. Not a complicated system. One word, accessed instantly, at 5am when every part of you wants to stay in bed.
 
-How "Pictures" became the reset trigger. The legacy frame — what story will your presence tell across generations? The photographs that will outlive you. What will your kids tell their grandchildren when they look at those pictures?
+How "Pictures" became the reset trigger — and how it passes all three of Gervais's criteria exactly. One word. Speakable at 5am or mid-rep. And viscerally felt when you talk about what it means. The legacy frame — what story will your presence tell across generations? The photographs that will outlive you. What will your kids tell their grandchildren when they look at those pictures?
 
 Manson's values framework from *The Subtle Art* — what are you willing to suffer for? The keyword is your answer to that question made concrete and portable. It must be worth the suffering. It must survive your worst moments.
 
-How to find your own keyword. What makes a keyword work. Why specificity matters more than inspiration.
+How to find your own keyword. What makes a keyword work. Why specificity matters more than inspiration. How to test it against Gervais's three criteria.
 
 *Story woven in:* The keyword "Pictures." 5am alarms. The moments the word saved the morning. The future photographs already worth living for — graduations, weddings, grandchildren.
 
-*Key sources:* Sinek (Start With Why), Manson (Subtle Art), Pink (Drive — purpose), Snyder
+*Key sources:* Sinek (Start With Why), Gervais (First Rule of Mastery — personal philosophy criteria, course), Manson (Subtle Art), Pink (Drive — purpose), Snyder, Gupta (Keep Sharp)
 
 ### Chapter 7: Autonomy — The System Nobody Else Can Build For You
 Pink's autonomy principle — the hope practice must be yours, not someone else's prescription. No formula. No program. No one else's system transplanted into your life.
@@ -201,6 +209,10 @@ The most powerful hope is the hope that reaches beyond your own lifetime.
 
 Legacy as a hope practice. What the photographs will say long after you are gone. The father lost to Alzheimer's after a decade of slow departure. The mother who gave you the word on Epiphany Sunday and then left in December. What it means to be the oldest of four children — the family steward, the keeper of the story.
 
+Hope expressed outward becomes kindness. The mother's kindness practice — knitting stuffed animals for charity, the handmade embroidered dish towels as a quiet currency of care, the monkey found in an ambulance ("I made that") — is what hope looks like when it turns outward toward others. This thread runs through the book and finds its fullest expression here: the hope practice you build for yourself eventually becomes something you give away.
+
+Hope expressed outward becomes kindness as practice — the thread that honors Brian's mother directly. The knitted stuffed animals donated to charity. The monkey found in an ambulance. The handmade embroidered dish towels as kindness currency — "no dish towel for you." These were not random acts of generosity. They were a hope practice turned outward, a daily discipline of making the world a little warmer for strangers. This is what hope looks like when it reaches beyond the self and into the lives of others.
+
 Brown's wholehearted living — engaging with life from a place of worthiness, daring greatly not just for yourself but for the people who will come after you. Vulnerability in service of legacy.
 
 Sinek's infinite game at its deepest level — a just cause that outlives the player. The hope practice you build today is a gift to people who haven't been born yet. That is not vanity. That is legacy.
@@ -255,4 +267,4 @@ Hope is not a feeling. It's a practice worth building. And it starts wherever yo
 *Total estimated chapters: 14 + Introduction + Conclusion*
 *Estimated length: 200-300 pages*
 *Status: Third draft — to be revised as personal stories and additional sources are incorporated*
-*Last updated: February 28, 2026*
+*Last updated: March 8, 2026*
