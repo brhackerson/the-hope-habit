@@ -193,3 +193,44 @@ Some days courage looked like fighting through a plateau with nothing to show fo
 *Notes for writing: The contrast between external Scrum courage (speaking truth to teams) and internal hope courage (trusting the process, showing up through invisible progress) is a genuinely new angle. The shadow side of respect — self-erasure, conflict avoidance — makes the courage required for the hope practice more personal and more honest. The decision to invest in yourself when your default is to defer is itself an act of courage. Strong material for the Courage section of the Scrum Values post and for Chapter 5 (inner critic / silencing what holds you back).*
 
 ---
+
+## Wildcard — Positive Intelligence Saboteur Profile (Shirzad Chamine Framework)
+
+*Captured March 10, 2026. Relevant to Chapter 5 (inner critic / silencing what holds you back) and the Scrum Values post (Courage section).*
+
+Brian completed the Positive Intelligence saboteur assessment. Results:
+
+- Hyper Vigilant: 8
+- Pleaser: 8
+- Hyper Achiever: 6
+- Avoider: 5
+- Stickler: 4
+- Hyper Rational: 3
+- Victim: 3
+- Controller: 2
+- Restless: 1
+
+**Top saboteurs are Hyper Vigilant and Pleaser** — consistent with the patterns already named in personal stories: conflict avoidance, self-erasure, putting others first, wanting to stay out of the way. The Pleaser at 8 maps directly to the shadow side of respect — giving so much to others that there is nothing left for yourself.
+
+**Hyper Achiever at 6 is the sneaky one.** It doesn't look like a saboteur from the outside — it looks like drive and ambition. But it quietly ties self-worth to performance and output, which makes plateaus and slow progress feel like personal failure rather than a normal part of the process. This is the inner critic that shows up not as "you can't do this" but as "you're not doing this well enough."
+
+**Low Controller and Restless scores** — Brian is not someone who needs to dominate situations or constantly chase the next new thing. The patience and trust-the-process quality of the hope practice aligns with this profile.
+
+*Notes for writing: The Pleaser / Hyper Vigilant combination is the clinical language behind the courage story — the self-erasure, the conflict avoidance, the respect that tips into putting yourself last. The Hyper Achiever is the saboteur most relevant to the inner critic chapter — it is the voice that makes a plateau feel like a moral failure. All three are worth naming in Chapter 5. The Positive Intelligence framework (Shirzad Chamine) should be added to sources.md.*
+
+---
+## Wildcard — Kindness as a Way of Life (Sister's Image / Mom)
+
+*Captured March 10, 2026. Connected to the mom's kindness practice thread and the book's thematic arc — hope expressed outward becomes kindness.*
+
+Brian's sister shared an image on social media. The text read: "Shoutout to people whose kindness isn't a strategy, but a way of life."
+
+She shared it presumably thinking about their mother.
+
+The parallel to hope is exact. Hope practiced daily is not a strategy either — it is a way of life. When that hope turns outward, it becomes kindness. Brian's mother is the proof of both. The knitted animals. The embroidered dish towels. The kindness economy she ran quietly for decades. Not calculated. Not strategic. Just who she was.
+
+The phrase "kindness isn't a strategy, it's a way of life" mirrors the book's central argument about hope — and connects the two themes in a way that honors her on both counts.
+
+*Notes for writing: This image and the sister's gesture of sharing it are themselves an act of kindness — hope and kindness passing between siblings after loss. Strong candidate for Chapter 13 (Hope Forward / legacy) or the Conclusion. The parallel between hope as practice and kindness as practice is thematically central to the book and deserves a named moment somewhere in the manuscript.*
+
+---
