@@ -106,6 +106,34 @@ When asked if there's a specific person who puts a face on that reader, Brian sa
 
 ---
 
+## Wildcard — Sandra's Article About Mom (Background Document)
+
+*Added March 15, 2026. Source: email chain from August 26, 2025. Sandra Mighell wrote this article for the Owatonna Peoples Press, coordinating with Deborah Fearn at Community Pathways. She did not ask Mom's permission — intended as a surprise.*
+
+**Key facts from the article:**
+
+- Mom's name: Susan Hackerson
+- Family moved from Twin Cities to Owatonna in 1979 — dad's lumber and millwork sales region, also for a strong school system and music program
+- Mom was a former teacher, later librarian at Owatonna High School
+- Proficient knitter and embroidery maven — annual entries at the Steele County Fair
+- Donates homemade sock monkeys, bunnies, and embroidered dish towels to local charities
+- At age 83: gifting 12-15 knitted monkeys and bunnies monthly to Community Pathways in Owatonna
+- Services coordinator Deborah Fearn distributes them — many recipients are adults, not just children
+- Estimated 500+ monkeys and bunnies gifted over the years, plus countless dish towels
+- Always accompanied by a bow of her head and "thank you for your kindness"
+
+**The EMT story:** An EMT who transported Mom for emergency back pain told her that his daughter had one of those monkeys — and had no idea where it came from. The kindness had already left Mom's hands and was doing its work in the world without her knowledge. Sandra called it "the magic and synchronicity of the ripple effect."
+
+**Sandra's framing:** She proposed giving Mom the honorary title of "Ambassador For Kindness in Owatonna, MN."
+
+**Closing quote Sandra chose (Lao Tzu):** *"Our highest good is like water. It gives life to the ten thousand things and does not strive."*
+
+**Family response in the email chain:** Andy — "words cannot describe how excellent this is." Charles — "Love this!"
+
+*Notes for writing: The EMT story is extraordinary — the monkey had traveled so far that the origin was unknown, yet it found its way to someone who needed it. That's hope expressed outward in its purest form: you release it and it keeps going. Sandra's Lao Tzu quote is the perfect theological and philosophical frame for Mom's practice — kindness not as strategy or effort, but as nature. The "Ambassador For Kindness" framing is worth honoring in the book. Strong material for Chapter 13 (Hope Forward / legacy) and the Conclusion.*
+
+---
+
 ## Wildcard — Mom's Kindness Practice
 
 *Captured conversationally — not tied to a specific prompt yet. To be placed when the right moment in the book reveals itself.*
