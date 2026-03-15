@@ -272,6 +272,22 @@ Portfolio/Penguin, 2019
 
 ## Books Read by Brian
 
+### Perkins, Bill
+**Die With Zero: Getting All You Can from Your Money and Your Life**
+Mariner Books, 2020
+- Brian has read this book ✓ — recommended to several people
+- Key concepts relevant to the book:
+  - Every investment in health has a measurable ROI in terms of enjoying life, especially in retirement years — framed similarly to financial investment
+  - Health spending (time, effort, discipline) is capital that compounds over time and pays dividends in the quality of future experiences
+  - Delaying health investment is like leaving money on the table — the return diminishes the longer you wait
+  - Directly relevant to Brian's golf story — breaking 80 in retirement is the ROI on everything being built now
+- **Differentiation notes:**
+  - Perkins writes primarily about financial and life planning — how to spend your money and time to maximize life experiences before you die
+  - Brian's book is about the hope practice that makes those future experiences worth pursuing and possible to reach
+  - Perkins gives you the vision of what to invest toward; Brian gives you the daily practice that gets you there healthy enough to enjoy it
+  - The health ROI concept is a supporting idea in Brian's book, not the central thesis — but it's a compelling frame for Chapter 12 (Hope Has a Target) and Chapter 13 (Hope Forward)
+- **Status:** Read by Brian ✓ — recommended widely
+
 ### Clear, James
 **Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones**
 Avery, 2018
@@ -365,4 +381,67 @@ Duke Women's Basketball, posted via Duke Athletics social media channels, circa 
 
 ---
 
-*Last updated: February 28, 2026*
+## Referred Sources — Resilience & Hope in Adversity
+*Referred by Sandra Mighell via Ellen Dovre, March 10, 2026. Brian has read some of these as a student but has not read them in the context of this book. Not yet incorporated into the manuscript.*
+
+### Wiesel, Elie
+**Night**
+Hill and Wang, 1960 (English translation)
+- Romanian-born writer, professor, political activist, Nobel laureate
+- Memoir bearing witness to the Holocaust; Wiesel described as a "conscience of the world"
+- Co-founded the US Holocaust Memorial Museum
+- **Status:** Referred — not read in context of this book
+
+---
+
+### Frank, Anne
+**The Diary of a Young Girl**
+Doubleday, 1952 (English translation)
+- Personal diary written while hiding from the Nazis, 1942-1944
+- Iconic symbol of Holocaust victims; worldwide phenomenon
+- **Status:** Referred — not read in context of this book
+
+---
+
+### Frankl, Viktor E.
+**Man's Search for Meaning**
+Beacon Press, 1959 (English translation)
+- Austrian psychiatrist and Holocaust survivor
+- Developed logotherapy — finding meaning in suffering
+- Key argument: meaning is the primary motivational force in human beings
+- Highly relevant to the book's hope-as-practice thesis
+- **Status:** Referred — not read in context of this book; high priority to read before manuscript
+
+---
+
+### Levi, Primo
+**If This Is a Man** (also published as *Survival in Auschwitz*)
+Orion Press, 1959 (English translation)
+- Italian chemist and writer; Holocaust survivor
+- Profound reflections on survival and the human condition in Auschwitz
+- **Status:** Referred — not read in context of this book
+
+---
+
+### Eger, Edith
+**The Choice: Embrace the Possible**
+Scribner, 2017
+- Hungarian-American psychologist and Holocaust survivor (1927–2023)
+- Focus on inner freedom and resilience; recommended by Ellen Dovre's friend Karen (who passed from Parkinson's disease)
+- **Status:** Referred — not read in context of this book
+
+---
+
+### Bonhoeffer, Dietrich
+**Letters and Papers from Prison**
+Touchstone, 1997 (expanded edition)
+- German Lutheran theologian executed by the Nazis on April 9, 1945 — weeks before the end of the war
+- Wrote these letters during 18 months of imprisonment at Tegel Prison after arrest by the Gestapo in April 1943
+- Was involved in the German resistance, including a plot to assassinate Hitler; aided in smuggling Jewish people to safety
+- Also relevant: *The Cost of Discipleship* (1937), *Life Together* (1939), *Ethics*
+- Faith dimension and Lutheran thread in the book makes Bonhoeffer especially relevant
+- **Status:** Referred — not read in context of this book; strong candidate given Lutheran thread
+
+---
+
+*Last updated: March 15, 2026*
