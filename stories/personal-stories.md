@@ -106,7 +106,25 @@ When asked if there's a specific person who puts a face on that reader, Brian sa
 
 ---
 
-## Wildcard — Sandra's Article About Mom (Background Document)
+## Wildcard — Mom's Last Months (December 2025)
+
+*Captured March 15, 2026. Connected to Chapter 13 (Hope Forward), the "win" language issue raised by the Lutheran pastor/Mayo Clinic chaplain director, and the honest limits of hope practice in impossible situations.*
+
+When Brian would visit his mother in December 2025, hope was not evident. It didn't feel helpful — or honest — to try to insert hope into the situation. She was in pain. The struggle with hospice to control that pain was real. Hope as a concept would have felt hollow in that room. Maybe even cruel.
+
+He didn't try to bring it in. He just sat with her. He could see it hurt.
+
+And yet — she was still Susan Hackerson. Still the woman who made the monkeys. Still the woman who bowed her head and said thank you for your kindness. The practice was in her, deeper than the pain. She didn't need him to bring hope into the room. She was still carrying it herself, in the only way she could.
+
+About a week after she passed, on Epiphany Sunday 2025, Brian received the word "hope" serendipitously from someone else in the communion line. It arrived through a stranger, as if she had sent it anyway.
+
+*Notes for writing: This story belongs in Chapter 13 — not as inspiration, but as truth. The most honest thing the book can say about hope in impossible situations: it doesn't always look like forward momentum. Sometimes it looks like a woman in pain who still bows her head and says thank you. Sometimes the person who needs hope most is the one watching — and finding it in her, even when she couldn't name it herself. This story also speaks directly to the "win" language concern raised by the Lutheran pastor at Mayo Clinic. Hope in the hardest situations is not a win. It is a presence. It is what Susan Hackerson carried to the end.*
+
+*Also note: the struggle with hospice to control her pain is part of the story. It was real and it was hard. The book should not sanitize it.*
+
+---
+
+
 
 *Added March 15, 2026. Source: email chain from August 26, 2025. Sandra Mighell wrote this article for the Owatonna Peoples Press, coordinating with Deborah Fearn at Community Pathways. She did not ask Mom's permission — intended as a surprise.*
 
