@@ -14,7 +14,7 @@
 
 ## Introduction: The Word I Didn't Know I Needed
 
-The story of Epiphany Sunday 2025. A word arrives — hope — and it feels like a gift from a mother who is leaving. A doctor's visit that makes things very clear. A 60th birthday approaching. The decision that becomes a journey. And the discovery that changes everything: hope is not a feeling. It's a practice worth building.
+The story of Epiphany Sunday 2025. A doctor's visit that makes things very clear. A 60th birthday approaching. The decision on the long drive home — to BE different. The practice already underway. Then December, and Mom's last month. Then, about a week after she passed, the word "hope" arrives serendipitously in the communion line on Epiphany Sunday — spoken by a stranger, received as if from her. It didn't start the practice. It named what was already happening. Eventually that word inspired the central expression of the book. And the discovery that changes everything: hope is not a feeling. It's a practice worth building.
 
 This book is not a prescription. It is a personal framework and a generous invitation. Here is what I learned. Here are the principles underneath it. Now go find what works for you.
 
@@ -210,7 +210,7 @@ Pink's purpose at its fullest expression — the infinite game version of a life
 ### Chapter 13: Hope Forward
 The most powerful hope is the hope that reaches beyond your own lifetime.
 
-Legacy as a hope practice. What the photographs will say long after you are gone. The father lost to Alzheimer's after a decade of slow departure. The mother who gave you the word on Epiphany Sunday and then left in December. What it means to be the oldest of four children — the family steward, the keeper of the story.
+Legacy as a hope practice. What the photographs will say long after you are gone. The father lost to Alzheimer's after a decade of slow departure. The mother who passed away, and whose spirit arrived a week later in a stranger's word — "hope" — spoken in a communion line on Epiphany Sunday. What it means to be the oldest of four children — the family steward, the keeper of the story.
 
 Hope expressed outward becomes kindness. The mother's kindness practice — knitting stuffed animals for charity, the handmade embroidered dish towels as a quiet currency of care, the monkey found in an ambulance ("I made that") — is what hope looks like when it turns outward toward others. This thread runs through the book and finds its fullest expression here: the hope practice you build for yourself eventually becomes something you give away.
 

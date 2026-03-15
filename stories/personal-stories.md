@@ -106,7 +106,25 @@ When asked if there's a specific person who puts a face on that reader, Brian sa
 
 ---
 
-## Wildcard — Mom's Last Months (December 2025)
+## Wildcard — The Last Smile (The House Closing)
+
+*Captured March 15, 2026. Central story for the mom post and Chapter 13.*
+
+In Mom's last month, the family had pushed hard to get her house sold. It was a stress she carried — she was very concerned about it.
+
+The day of the closing, Brian stopped to see her afterward. The pain level was high. It was clear. She was barely able to speak.
+
+He told her what he had witnessed at the closing. The young buyers — their first home. The wife's first thought was to set up the Christmas tree. The husband shared it was the only house they really wanted after seeing many others.
+
+When he finished, Mom smiled. The last smile he would see from her.
+
+A tear leaked from her left eye. He knew she had heard him. A stress she had been carrying — she could let go of it now.
+
+*Notes for writing: This moment is the heart of the mom post and belongs in Chapter 13. It is not a hope story in the conventional sense — she was not winning anything. But something was released. A burden lifted. Peace arrived, briefly, through a story about a young family's joy in her home. That is hope expressed in the only way available to her in that moment — not forward momentum, but release. The tear is the receipt. This story also speaks directly to the "win" language concern. The win here was not hers. It was theirs — and she got to feel it one last time.*
+
+---
+
+
 
 *Captured March 15, 2026. Connected to Chapter 13 (Hope Forward), the "win" language issue raised by the Lutheran pastor/Mayo Clinic chaplain director, and the honest limits of hope practice in impossible situations.*
 
@@ -204,7 +222,21 @@ In Sinek's infinite game framework, the goal is not to win but to keep playing �
 
 ---
 
-## Wildcard — Hope as a Decision / "Surely" in Scripture
+## Wildcard — Epiphany Sunday: The Word That Named What Was Already Happening
+
+*Captured March 15, 2026. Corrects earlier versions that implied the word "hope" was the starting point of the journey.*
+
+The hope practice had already begun before Epiphany Sunday. The doctor's visit, the medication, the two-hour drive home, the decision to BE different — all of that came first, in early 2025. The practice was already underway.
+
+About a week after Mom passed away in December 2025, Brian was in the communion line on Epiphany Sunday. The word "hope" arrived serendipitously — spoken by someone else, received as if from her, through a stranger. It didn't start anything. It named what was already happening. It put words on a practice that had been building for months without a name.
+
+Eventually that word inspired the central expression: *Hope is what happens when self-discipline meets adversity and wins.* The word arrived first. The expression came later, as the practice deepened.
+
+*Notes for writing: The sequence matters — the practice preceded the word. Epiphany Sunday was not the ignition. It was the naming. This distinction makes the story more honest and more interesting: he was already doing the thing before he had language for it. The word his mother sent through a stranger gave the practice its identity. Strong material for the Introduction.*
+
+---
+
+
 
 *Captured after attending an NDSU choir concert. Two connected insights. Likely belongs in Introduction or Chapter 1 — the reframing of what hope actually is.*
 
