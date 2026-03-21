@@ -17,6 +17,31 @@ You don't need a standing ovation. You need enough signal to keep going.
 
 ---
 
+## Three Honest Tensions for This Post
+
+**1. Claiming credit vs. enabling**
+It would feel arrogant to claim credit for someone else's practice. The post needs to be careful here. The goal is not to say "I helped them." The goal is to say "I put something out there and trusted it would find who needed it." The credit belongs to the person who picked it up and did the work. That distinction matters and should be named explicitly in the post.
+
+**2. Why this work matters at scale**
+This is why the book and Substack exist. The ideas are important and need to get out — not for recognition, but because someone out there needs them and doesn't have them yet. Scale is not vanity. Scale is the infinite game in action.
+
+**3. Dad as an eternal optimist**
+Brian's father described himself as an eternal optimist. He rarely saw the negative. He saw the good in things and in people. He would not likely have connected strongly with the hope practice concept as framed — but he would have been supportive, and he would have been honored to know how his lesson #7 contributed to his oldest son's practice forty years later. The distinction between optimism and hope runs through the book. Dad embodied one. Brian built the other. Both matter. Neither cancels the other out.
+
+---
+
+## Confirmation — The Practice Is Already Reaching People
+
+A family member dealing with a serious, long-term health condition has been reading the Substack posts. She has been inspired by them — asking deeper questions and applying the learnings to her own journey on her own terms.
+
+Brian did not know she was in the room when he wrote those posts. He just kept making the monkeys.
+
+This is the argument of the post confirmed in real life. The practice reached someone facing permanent adversity. It met her where she was. It didn't need to be adapted or explained. It just held.
+
+*This is private. The person and condition are not to be named or written about in the book or blog.*
+
+---
+
 ## Critical Connection — How It Ties to the Central Expression
 
 The central expression: *hope happens when self-discipline meets adversity and wins.*
