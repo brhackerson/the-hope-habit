@@ -108,11 +108,17 @@ When asked if there's a specific person who puts a face on that reader, Brian sa
 
 ## Wildcard — The Last Smile (The House Closing)
 
-*Captured March 15, 2026. Central story for the mom post and Chapter 13.*
+*Captured March 15, 2026. Central story for the mom post and Chapter 13. Room scene details added March 17, 2026.*
 
 In Mom's last month, the family had pushed hard to get her house sold. It was a stress she carried — she was very concerned about it.
 
-The day of the closing, Brian stopped to see her afterward. The pain level was high. It was clear. She was barely able to speak.
+When Brian would visit the assisted living facility, the TV would usually be on. She would be lying in her bed or sitting in her chair. Those visits had a rhythm — lots of TV, conversation, and monkeys.
+
+The day of the closing was different.
+
+He found her lying on her back, covered with a blanket, mouth slightly open, barely able to comprehend that he was there. The TV was off. The room was quiet. Very quiet. Very sad compared to how it had been.
+
+But she greeted him by name. She knew who he was. She was still in there.
 
 He told her what he had witnessed at the closing. The young buyers — their first home. The wife's first thought was to set up the Christmas tree. The husband shared it was the only house they really wanted after seeing many others.
 
@@ -120,7 +126,7 @@ When he finished, Mom smiled. The last smile he would see from her.
 
 A tear leaked from her left eye. He knew she had heard him. A stress she had been carrying — she could let go of it now.
 
-*Notes for writing: This moment is the heart of the mom post and belongs in Chapter 13. It is not a hope story in the conventional sense — she was not winning anything. But something was released. A burden lifted. Peace arrived, briefly, through a story about a young family's joy in her home. That is hope expressed in the only way available to her in that moment — not forward momentum, but release. The tear is the receipt. This story also speaks directly to the "win" language concern. The win here was not hers. It was theirs — and she got to feel it one last time.*
+*Notes for writing: The contrast matters — the usual visits with the TV on, the chair, the monkeys, the rhythm of life still present. And then that day: the quiet room, the stillness, the mouth slightly open. But she said his name. That detail is essential — she was still present enough to receive the gift he was about to give her. The smile and the tear are the receipt. This story speaks directly to the "win" language concern — the win here was not hers in any conventional sense. It was a burden released. Peace arriving through someone else's joy. That is still hope. It just looks completely different. The TV off. The monkeys put away. And still — hope.*
 
 ---
 
@@ -150,7 +156,7 @@ About a week after she passed, on Epiphany Sunday 2025, Brian received the word 
 
 - Mom's name: Susan Hackerson
 - Family moved from Twin Cities to Owatonna in 1979 — dad's lumber and millwork sales region, also for a strong school system and music program
-- Mom was a former teacher, later librarian at Owatonna High School
+- Mom was a former elementary school teacher, later librarian at Owatonna High School
 - Proficient knitter and embroidery maven — annual entries at the Steele County Fair
 - Donates homemade sock monkeys, bunnies, and embroidered dish towels to local charities
 - At age 83: gifting 12-15 knitted monkeys and bunnies monthly to Community Pathways in Owatonna
@@ -219,6 +225,161 @@ The friend who sent the photograph is one of Brian's closest supporters on this 
 In Sinek's infinite game framework, the goal is not to win but to keep playing — to outlast, to stay in it, to keep the just cause alive. What runs out for most people isn't talent or strategy. It's the will to keep going. Hope — as a practice, not a feeling — is what replenishes that will. Not found once and spent down, but generated again and again through the daily work of self-discipline meeting adversity. The practice is the fuel source. Renewable by design.
 
 *Notes for writing: "Renewable fuel" is a precise and powerful metaphor — it implies that hope is not a fixed quantity but something actively produced. Connects directly to Sinek (The Infinite Game), to Brian's definition (self-discipline meets adversity and wins), and to the book's overall arc. The practice doesn't end — it fuels what comes next. Strong candidate for the opening or closing line of Chapter 13.*
+
+---
+
+## Wildcard — Dad's Letter (July 3, 1985)
+
+*Captured March 18, 2026. Source document saved in repo as July_3__1985.png. Permission to use freely across book and blog.*
+
+On July 3, 1985, Brian's dad typed a letter to his children titled "Things I Have Learned (Sometimes at Great Expense) Over the Past 22 Plus Years of Married Life." Eleven lessons. Signed, Love, Dad.
+
+**The eleven lessons:**
+1. Material things are only window dressing. The REAL things are items purchased or received at a time that had meaning — hang on to them as long as they retain their value.
+2. There is no substitute for quality. Cheap prices eventually cost more. There are no "deals," but there are good values. Weigh price vs. value.
+3. Laugh at yourself. It's the first sign of maturity.
+4. Listen to your spouse. Angry words are often said out of frustration, not directed at you.
+5. Respect your elders. They've traveled many of the same paths. Pick out the pearls of wisdom — but don't pick your elders apart.
+6. Hang onto simple pleasurable things, but don't try to achieve the ultimate pleasure. The simple things always win in the end.
+7. Prepare yourself for new challenges. As long as I was prepared, the next day usually went like a breeze. Prepare yourself for the challenge and it will go much easier.
+8. Set aside some time for yourself each day. It will help settle the dust and keep the inner peace.
+9. Listen to your children. They have ideas and thoughts that are truly real.
+10. A wet bird never flies at night.
+11. A pregnant squirrel seldom climbs.
+
+**Key connections to the book:**
+- **#7 (Preparation)** — The foundation of the friction audit, the backup earbuds, the clothes laid out the night before. Also connects to "Pictures" — you prepare yourself for the great things still coming. Dad taught this in 1985. Brian applied it in 2025 without realizing where it came from.
+- **#8 (Time for yourself)** — Anticipates Agile Best Self Principle 7 and Principle 8 by four decades.
+- **#3 (Laugh at yourself)** — The Bless Its Heart spirit. Grace for the inner critic.
+- **#5 (Respect your elders)** — Connects to the Modern Elder framing (Conley) and to the wisdom Brian carries into the hope practice at 60.
+
+*Notes for writing: This letter has uses across multiple chapters — Introduction (foundation), Chapter 4 (the foundation you're already standing on), Chapter 5 (grace and self-compassion), Chapter 11 (ritual and preparation), and the Conclusion. #10 and #11 are pure character — they tell you who he was without a single explanation. Use them whenever lightness is needed. The image of the letter itself (typewritten, signed "Love, Dad") is a powerful visual for the book.*
+
+---
+
+## Wildcard — Dad's Letter (July 3, 1985)
+
+*Captured March 18, 2026. Primary source — use freely across posts and book chapters.*
+
+On July 3, 1985, Brian's dad typed a letter to his children titled "Things I Have Learned (Sometimes at Great Expense) Over the Past 22 Plus Years of Married Life." Eleven lessons. Signed, Love, Dad.
+
+**Full text:**
+
+1. Material things are only window dressing. The REAL things are items that were purchased or received at a time in your life that had meaning to you; hang on to them as long as they retain their value to you.
+
+2. There is no substitute for quality. Products or services that you get at a "cheap" price will eventually cost you more. There are no "deals", but there are good values. It's up to you to weigh price vs. value.
+
+3. Laugh at yourself. It's the first sign of maturity.
+
+4. Listen to your spouse. There will be many times when angry words are spoken and are not directed at you, but are said out of frustration. I'm not totally sure sometimes, but I'm always evaluating. I'm not perfect, but I think I'm getting better.
+
+5. Respect your elders. They have been down many of the same paths that you have, or that you are going to travel. Maybe their thinking or ideas are not contemporary, but somewhere in the words they express are a few pearls of wisdom. Pick them out, but don't pick your elders apart.
+
+6. Hang onto simple pleasurable things, but don't try to achieve the ultimate pleasure. You'll find you will always come back to the simple things. Each purchase you make or new adventure that you try will bring you closer to the reality that the simple things count.
+
+7. Prepare yourself for new challenges. I can't remember how many times I've agonized the night before an important exam, meeting or decision. As long as I was prepared, the next day usually went like a breeze. Prepare yourself for the challenge and it will go much easier.
+
+8. Set aside some time for yourself each day. It will help settle the dust and keep the inner peace.
+
+9. Listen to your children. They have ideas and thoughts that are truly real.
+
+10. A wet bird never flies at night.
+
+11. A pregnant squirrel seldom climbs.
+
+*Notes for writing: Number 7 (preparation) is the direct connection to the hope practice — the friction audit, the backup earbuds, the gym bag packed the night before. Number 8 (set aside time for yourself each day) maps directly to ABS Principle 7 and Principle 8 — written forty years before either existed. Number 3 (laugh at yourself) and numbers 10 and 11 reveal his character and humor. The letter has many uses across the book — Introduction, Chapter 4 (foundation), Chapter 9 (trusted circle), Chapter 13 (legacy), and the Conclusion. The image of the letter (photo.jpeg in the repo) is a potential book photo.*
+
+---
+
+## #94 — A Moment Where You Saw Hope Practiced in Your Community
+
+*Captured April 2026. February 2026 context — Twin Cities news cycle, ICE activity in the region.*
+
+In February 2026, Brian's church organized a small meeting — fewer than 20 people — to talk about how the congregation could respond to what was happening in the community. Neighbors were being targeted by ICE. People were afraid. The meeting was framed as a conversation, not a rally.
+
+Brian's son suggested they go. Brian was hesitant — he's not a natural protester. The concern about ending up in the wrong place at the wrong time is real for him. But they went.
+
+What happened in that room was not what he expected. It became a small, ad hoc community. People shared stories about quiet acts — packing food at food shelves, showing up in small ways. They talked about how those acts made them feel. The takeaway Brian left with: it doesn't matter what you do. Do what is in your heart. Do something that aligns with who you are.
+
+The star word — HOPE — was only weeks old at that point. Sitting in that room, listening to people talk about quiet acts of presence and contribution in the face of real adversity, something shifted. The inspiration arrived: what if acting on HOPE meant writing? What if exploring the practice publicly — naming it, building it out — could help someone who was struggling to feel hopeful in the face of real adversity on the ground in our cities?
+
+That meeting is what started the exploration. The Substack. The posts. The book. All of it traces back to a room of fewer than 20 people on a cold February night in 2026, an ad hoc community pointing in the same direction, doing what was in their hearts.
+
+*Notes for writing: This is the origin story of the Substack and the book that hasn't been told yet. The star word arrived on Epiphany Sunday. The practice had already begun before that. But the decision to write publicly — to make the practice a contribution to community — was crystallized in that church meeting. This belongs in the Introduction or Chapter 13. It also belongs in the community post as the anchor story: a small community, fewer than 20 people, that changed the direction of the work. No names. The context (ICE activity, Twin Cities) can be named at whatever level of specificity feels right. The political dimension should be handled carefully — the post is about community response to adversity, not about taking a political position.*
+
+---
+
+*Captured March 18, 2026. Timing: March/April 2025 — early in the journey.*
+
+There was a period where body weight was dropping but lean muscle mass was dropping too. The inner critic had something to say about that. Progress was visible on one metric and moving the wrong way on another. Frustrating. Confusing. The kind of moment where the practice feels like it might not be working.
+
+A quick consultation with a Life Time trainer — no money spent — surfaced something Brian hadn't known. At over 50, the body loses lean muscle mass quickly. Creatine can help reverse that. Brian was skeptical. So he took it to his doctor and asked directly: is creatine something that could safely help me?
+
+The response came fast. A resounding yes.
+
+Within a month the lean muscle mass curve started bending the other way. Body weight continued dropping at the same pace. Two curves moving in the right direction at the same time.
+
+That was the moment the inner advocate started showing up regularly. The inner critic got relegated to the back seat — not gone, but quieter. Less in charge. The data had answered the doubt. The circle had delivered the answer — a trainer who taught him something, a doctor who confirmed it was safe, a tracking system that showed the result.
+
+*Notes for writing: This is the opening story for the supporting team post. It has everything — a moment of doubt, the inner critic with ammunition, the circle delivering the answer from multiple directions, and a measurable result that fed the inner advocate. The pivot from skepticism (creatine?) to confirmation (doctor: yes) to result (LMM curve bending) is a clean three-beat story. The inner advocate showing up regularly after this moment is the emotional payoff. This is also a good example of the circle working without a single hero — trainer, doctor, tracking app, and the data all played a role.*
+
+---
+
+## Wildcard — The Harness (Universal Epic Universe, March 2026)
+
+*Captured March 22, 2026. Vacation — recharge week.*
+
+At Universal's Epic Universe theme park, Brian rode a roller coaster. The harness snapped in with room to spare.
+
+On a previous visit, it hadn't closed.
+
+That's the receipt. That's the Pictures moment made real — not a photograph yet, but a physical, undeniable confirmation that the person who showed up at the theme park today is different from the person who showed up before.
+
+Full circle. Win.
+
+*Notes for writing: This moment belongs in the book — likely Chapter 12 (Hope Has a Target) or Chapter 14 (The Practice Never Ends). It is the kind of tangible, specific, visceral win that makes the practice real for a reader. The harness is the dumbbell ritual's cousin — something you feel in your body that no spreadsheet can capture. "The harness that wouldn't close before — closing with room to spare today." Simple. Earned. Real.*
+
+---
+
+*Captured March 18, 2026. For the supporting team post.*
+
+Life Time offered more than a facility. Brian took advantage of resources available without spending money on a personal trainer — staff guidance around supplement strategy and suggested exercises. Smart use of what was already available. Another form of environment design: the right place, with the right resources, used intentionally.
+
+Prior professional context: Brian had worked with personal trainers at 3M's corporate gym. He arrived at Life Time with a working understanding of how to build a full body strength plan. That foundation got adapted over time as the practice progressed and results informed the next phase.
+
+Brian's doctor was also part of the supporting team in ways that went beyond the initial visit. He gave specific advice on cardio — focus on interval training over straight cardio workouts, because the heart rate going up and coming back down is good for the heart. He also advised on supplements. Practical, specific guidance that shaped the practice directly.
+
+*Notes for writing: This fits the supporting team post under the "those who taught me" thread — some of whom taught him years before the 2025 journey began. The 3M trainers are an example of support that preceded the practice by years but fed directly into it. Life Time staff filled in current gaps without a formal engagement. The structural knowledge was already his — they helped him refine it. Connects to the idea that the circle of support is wider and longer than it first appears.*
+
+---
+
+## Wildcard — "One Boring Win at a Time"
+
+*Captured March 15, 2026.*
+
+"One boring win at a time."
+
+Brian's phrase for how the practice actually works. Not dramatic. Not visible. Just consistent, unglamorous, repeated action in the direction of something that matters. The wins compound. The critic runs out of material. The practice deepens.
+
+*Notes for writing: This phrase belongs in the book — likely Chapter 11 (The Ritual That Found Me), Chapter 14 (The Practice Never Ends), or the Conclusion. It is the most honest summary of what a hope practice looks like from the inside. Consider using it as a section header or a standalone line.*
+
+---
+
+## Wildcard — The Star Word (Epiphany Sunday 2025)
+
+*Captured March 15, 2026. Photo of the star saved in repo as photo.jpeg.*
+
+On Epiphany Sunday 2025, about a week after Mom passed away, Brian participated in a star word tradition at church. A star word is a single word printed on a paper star, handed out randomly to each person in the communion line. The tradition invites the recipient to sit with that word throughout the year — to notice where it shows up, what it means, what it asks.
+
+Brian did not know what a star word was before that morning. The stars were handed out randomly. His family members received other words.
+
+His word was HOPE.
+
+He did not choose it. He could not have arranged it. Out of all the words on all the stars, he received HOPE — a week after losing her.
+
+The star still exists. A photo has been taken of it — a white paper star with a black outline, the word HOPE printed in the center.
+
+*Notes for writing: The randomness is essential. If he had chosen it, it would be intention. Because it was handed to him, it feels like something else — like she still had one more thing to say. This is the receipt he didn't ask for. The photo of the star belongs in the book and in the mom post. It is tangible, visual proof of the moment the word arrived. The star word tradition itself is worth a brief explanation for readers unfamiliar with it — it is an Epiphany practice in many Lutheran and mainline Protestant churches. Strong material for the Introduction and Chapter 13.*
 
 ---
 
