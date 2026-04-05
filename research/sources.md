@@ -372,7 +372,21 @@ Duke Women's Basketball, posted via Duke Athletics social media channels, circa 
 
 ---
 
-## To Research
+### Howes, Lewis
+**The Greatness Mindset: Unlock the Power of Your Mind and Live Your Best Life Today**
+Hay House, 2023
+- 3x New York Times bestselling author
+- Key themes: mindset shifts for reaching full potential, moving from what you want to who you want to become, identity transformation, overcoming limiting beliefs
+- Directly relevant to the identity-over-outcomes argument (Clear), the being-over-doing principle (ABS Principle 8), and the book's central theme of hope as an active practice of becoming
+- Relevant quote encountered March 2026: "When you're outgrowing who you've been, you might feel like everything is falling apart. In reality everything is really just coming together for your highest good."
+- **Status:** Brian owns this book — not yet read. High priority before manuscript is complete.
+- **Possible relevance:** Chapter 2 (What Hope Actually Is), Chapter 4 (The Foundation You're Already Standing On), Chapter 12 (Hope Has a Target), recovery post
+- **LinkedIn note:** Widely followed — worth tagging in relevant posts for amplification
+
+**The School of Greatness** (2015) — foundational book, legacy thread connects to "Pictures"
+**The Mask of Masculinity** (2017) — explores masks men wear that prevent vulnerability; relevant to privilege/access note and courage section
+
+---
 
 - Neuroscience of hope — sources TBD
 - Hope vs. optimism vs. resilience — academic distinctions, sources TBD
@@ -442,6 +456,51 @@ Touchstone, 1997 (expanded edition)
 - Faith dimension and Lutheran thread in the book makes Bonhoeffer especially relevant
 - **Status:** Referred — not read in context of this book; strong candidate given Lutheran thread
 
+### Gupta, Sanjay
+**Keep Sharp: Build a Better Brain at Any Age**
+Simon & Schuster, 2021
+- Five pillars of brain health: Move, Discover, Relax, Nourish, Connect
+- Chapter 8: "Connection for Protection" — the case for social connection and relationships as essential to brain health; as important as exercise, sleep, and nutrition
+- Key argument: social isolation is on the rise; meaningful relationships protect brain health and cognitive resilience
+- Extension for community post: community is the environment where social connection forms and sustains naturally
+- **Status:** Brian has read this book. Chapter 8 confirmed.
+- **Possible relevance:** Community posts (Posts 2 and 3), Chapter 3 (Neuroscience of Hope), Chapter 9 (Trusted Circle)
+
+---
+**The First Rule of Mastery: Stop Worrying About What People Think of You**
+Harvard Business Review Press, 2023
+- Central argument: FOPO (Fear of Other People's Opinions) is the greatest constrictor of human potential
+- Key quote for community post (p. 151): "We are not individuals who have learned to be social. We are social animals who have learned to identify as separate selves."
+- Directly relevant to Post 2 of the community series — community is not an add-on to the hope practice, it's a return to what we actually are
+- Also relevant: belonging as a foundational human need; modern individualism as a force that pulls us away from our social nature
+- **Status:** Brian has read this book. Page 151 verified by Brian.
+- **Possible relevance:** Community posts (Posts 2 and 3), Chapter 4 (Foundation), Chapter 9 (Trusted Circle)
+
 ---
 
-*Last updated: March 15, 2026*
+### Snyder, C. R.
+**"Hope Theory: Rainbows in the Mind"**
+*Psychological Inquiry*, 13(4), 249–275. Taylor & Francis, 2002.
+- Foundational paper establishing Hope Theory — the two engines of hope: agency (goal-directed energy and will to move forward) and pathways (ability to find or create routes when blocked)
+- Hope defined as a cognitive skill, not a feeling — something practiced and built, not waited for
+- Higher hope consistently related to better outcomes in academics, athletics, physical health, psychological adjustment, and psychotherapy
+- Original framework focused on the individual — the social/community dimension was extended by later research
+- **Status:** Core source — referenced throughout the book and blog. Not read in full by Brian but well-documented in the literature.
+- **Possible relevance:** Introduction, Chapters 1, 2, 4, community posts
+
+---
+
+### Colla, R., Williams, P., Oades, L. G., & Camacho-Morles, J.
+**"'A New Hope' for Positive Psychology: A Dynamic Systems Reconceptualization of Hope Theory"**
+*Frontiers in Psychology*, 13, Article 809053. 2022.
+- Extends Snyder's original two-factor model (agency + pathways) with two additional dimensions:
+- **Why Power** — the meaning dimension: hope is fueled by goals aligned with personal identity and purpose, something larger than self-interest. Social connectedness is a key source of that meaning.
+- **We Power** — the interpersonal/community dimension: hope emerges from and is sustained by social resources, shared connections, and the dynamic interplay between people and their communities. High-hope people seek connections, support others in their goals, and welcome help in return.
+- Key argument: hope is not purely individual. Community is one of the mechanisms through which hope emerges and sustains itself.
+- **Status:** Referenced — not read in full by Brian. Summary drawn from search results and abstract.
+- **Possible relevance:** Community posts (Posts 2 and 3), Chapter 9 (Trusted Circle), Chapter 13 (Hope Forward)
+- **URL:** https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.809053/full
+
+---
+
+*Last updated: April 4, 2026*
