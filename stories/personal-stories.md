@@ -291,21 +291,83 @@ On July 3, 1985, Brian's dad typed a letter to his children titled "Things I Hav
 
 ---
 
+## Wildcard — Senator Raphael Warnock, Easter Sermon, Ebenezer Baptist Church, April 5, 2026
+
+*Captured April 5, 2026. Shared by Brian's sister-in-law, who has been reading the Substack. CNN video, approximately one minute.*
+
+Senator Raphael Warnock, Easter Sunday 2026, from the pulpit of Ebenezer Baptist Church — the church of Martin Luther King Jr. — in Atlanta. His message:
+
+- The story of the Resurrection is the story of hope amidst despair.
+- He does not like to talk much about optimism. Too milquetoast. Optimism denies the tragedy of the human experience.
+- Hope recognizes there is tragedy. A crucifixion. A tomb.
+- The Resurrection reminds us that the tomb does not get the last word.
+- There is human possibility. There can be new human possibility.
+
+*Notes for writing: This is one of the most powerful external validations of the book's central argument that has arrived yet. Warnock explicitly distinguishes hope from optimism — and his language mirrors the book's exactly. Optimism floats above adversity. Hope meets it. The Resurrection framing is profound: hope doesn't pretend the crucifixion didn't happen. It says the crucifixion is not the end of the story. That is exactly what "hope happens when self-discipline meets adversity and wins" means in the faith dimension. The tomb does not get the last word. That is the win.*
+
+*This also connects to the "win" language concern raised by the Mayo Clinic chaplain director. In Warnock's framing, the win is not the absence of the tomb. The win is that the tomb does not get the last word. That is wide enough for everyone.*
+
+*The fact that a sitting U.S. Senator preached this from MLK's pulpit on Easter Sunday 2026 — and that Brian's sister-in-law, a Substack reader, sent it to him — is itself a second-level impact moment. The community is already working.*
+
+*Strong candidate for the Introduction, Chapter 1, or the Conclusion. Attribution: Senator Raphael Warnock, Easter sermon, Ebenezer Baptist Church, Atlanta, April 5, 2026.*
+
+---
+
+## Wildcard — The Mural (From Sandra, April 5, 2026)
+
+*Captured April 5, 2026. Sent by Sandra Mighell.*
+
+A photograph of a mural on a brick wall. A large painted flower — a coneflower, purple and brown — with three lines of text painted beneath it:
+
+*Joy is resistance.*
+*Hope is discipline.*
+*Love is courage.*
+
+Sandra sent this on April 5, 2026 — the same day The Biology of Belonging published.
+
+"Hope is discipline" is exactly the central argument of the book. Not hope as a feeling. Not hope as a wish. Hope as something you practice with intention, every day, whether you feel like it or not. A stranger painted it on a wall somewhere, and a sister sent it to her brother who has been building exactly that for over a year.
+
+*Notes for writing: This mural belongs in the book — likely the Introduction or the Conclusion. It is the most compact and beautiful summary of the book's thesis that exists outside the book itself. "Hope is discipline" could be a chapter epigraph, a section header, or simply a moment the reader encounters and stops. The photo itself is worth including in the book if permissions allow — or describing vividly if they don't. Sandra continues to be a source of unexpected gifts.*
+
+---
+
+*Captured April 2026. Attended with Debby — part of vacation/recovery week.*
+
+Bruce Springsteen closed his concert in Minneapolis on March 31, 2026 with remarks about hope, community, and the current moment in America. Brian was in the audience.
+
+Key lines worth capturing for the book and blog:
+
+On distance and community: "The hardest part about all of this is feeling the distance between your neighbors, your fellow citizens, and that distance… well, it can darken your soul."
+
+On common humanity: "We can argue about what course we thought the country should take while recognizing our common humanity, our dignity and, yes, our unity."
+
+On action: "Find a way to take aggressive, peaceful action to defend our country's ideals."
+
+On John Lewis: "Go out and get into some good trouble. Say something. Do something. Help. Sing something."
+
+On why the E Street Band was there: "This is a tour that was not planned. We're here tonight because we need to feel your hope and your strength. And we want to bring some hope and some strength for you."
+
+*Notes for writing: Springsteen named exactly what the book is building toward — distance darkening the soul, community as the antidote, hope as something you bring to each other. The John Lewis quote is pure agency and pathways — Snyder in four words. "We need to feel your hope and your strength" is a community showing up for the people in the room. No need to explain the broader context of the concert — readers will know. Handle with care and respect. Strong material for Post 1 of the community series and possibly the Introduction or Chapter 13. Do not reproduce the full speech — paraphrase and attribute.*
+
+---
+
 ## #94 — A Moment Where You Saw Hope Practiced in Your Community
 
 *Captured April 2026. February 2026 context — Twin Cities news cycle, ICE activity in the region.*
 
 In February 2026, Brian's church organized a small meeting — fewer than 20 people — to talk about how the congregation could respond to what was happening in the community. Neighbors were being targeted by ICE. People were afraid. The meeting was framed as a conversation, not a rally.
 
+Brian was still carrying significant heaviness from the loss of his mother, only weeks earlier. The grief was fresh and present.
+
 Brian's son suggested they go. Brian was hesitant — he's not a natural protester. The concern about ending up in the wrong place at the wrong time is real for him. But they went.
 
 What happened in that room was not what he expected. It became a small, ad hoc community. People shared stories about quiet acts — packing food at food shelves, showing up in small ways. They talked about how those acts made them feel. The takeaway Brian left with: it doesn't matter what you do. Do what is in your heart. Do something that aligns with who you are.
 
-The star word — HOPE — was only weeks old at that point. Sitting in that room, listening to people talk about quiet acts of presence and contribution in the face of real adversity, something shifted. The inspiration arrived: what if acting on HOPE meant writing? What if exploring the practice publicly — naming it, building it out — could help someone who was struggling to feel hopeful in the face of real adversity on the ground in our cities?
+The star word — HOPE — was only weeks old at that point. Sitting in that room, carrying grief, listening to people talk about quiet acts of presence and contribution in the face of real adversity, something shifted. The grief made him more open to what the room was offering. And what the room offered met him exactly where he was. The inspiration arrived: what if acting on HOPE meant writing? What if exploring the practice publicly — naming it, building it out — could help someone who was struggling to feel hopeful in the face of real adversity on the ground in our cities?
 
 That meeting is what started the exploration. The Substack. The posts. The book. All of it traces back to a room of fewer than 20 people on a cold February night in 2026, an ad hoc community pointing in the same direction, doing what was in their hearts.
 
-*Notes for writing: This is the origin story of the Substack and the book that hasn't been told yet. The star word arrived on Epiphany Sunday. The practice had already begun before that. But the decision to write publicly — to make the practice a contribution to community — was crystallized in that church meeting. This belongs in the Introduction or Chapter 13. It also belongs in the community post as the anchor story: a small community, fewer than 20 people, that changed the direction of the work. No names. The context (ICE activity, Twin Cities) can be named at whatever level of specificity feels right. The political dimension should be handled carefully — the post is about community response to adversity, not about taking a political position.*
+*Notes for writing: This is the origin story of the Substack and the book that hasn't been told yet. The grief context is essential — it explains why the meeting landed differently than it might have otherwise. The star word arrived on Epiphany Sunday. The practice had already begun before that. But the decision to write publicly was crystallized here. This belongs in the Introduction or the community post as the anchor story. The political dimension (ICE activity) should be handled carefully — the post is about community response to adversity, not about taking a political position. No names needed.*
 
 ---
 
