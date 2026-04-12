@@ -501,6 +501,25 @@ Harvard Business Review Press, 2023
 - **Possible relevance:** Community posts (Posts 2 and 3), Chapter 9 (Trusted Circle), Chapter 13 (Hope Forward)
 - **URL:** https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.809053/full
 
+### Frost, Robert
+**"The best way out is always through."**
+- Source: widely attributed to Robert Frost; arrived via Arnold Schwarzenegger's Pump Club daily email, April 2026
+- Connects directly to the hope practice's central argument: hope doesn't float above adversity, it walks through it
+- Seven words that say what the book takes chapters to build
+- Possible uses: Chapter 1 epigraph, Introduction, optimism vs. hope distinction, social post
+- **Status:** Quote confirmed. Original poem source to verify before book publication.
+
 ---
 
-*Last updated: April 4, 2026*
+### Schwarzenegger, Arnold
+**Be Useful: Seven Tools for Life**
+Penguin Press, 2023
+- Seven rules for a useful life built around self-discipline, hard work, and showing up regardless of how you feel
+- Overlap with the hope practice: doing the work before motivation arrives, identity-based commitment, the long game
+- Brian reads Schwarzenegger's Pump Club daily email — a consistent source of useful material
+- **Status:** Brian has read this book. Worth mining for specific passages relevant to self-discipline and the practice.
+- **Possible relevance:** Chapter 4 (Foundation), Chapter 7 (Autonomy), Chapter 14 (Practice Never Ends)
+
+---
+
+*Last updated: April 10, 2026*
