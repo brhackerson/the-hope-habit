@@ -182,3 +182,105 @@ Answer as much or as little as feels right for each question. Some will unlock a
 *Total questions: 88*
 *Status: First draft — to be refined as the book develops*
 *Last updated: February 28, 2026*
+
+---
+
+## New Questions — Added March 2026
+
+*These emerged from conversations after the initial prompts were created.*
+
+### The Definition
+
+97. The definition — "Hope is what happens when self-discipline meets adversity and wins" — arrived unexpectedly in conversation. Can you describe that moment? What did it feel like when you heard yourself say it?
+98. How has sharing the definition with people you trust changed how you think about it? What feedback has surprised you?
+
+### Mom's Kindness Practice
+
+99. Tell the full story of your mother's knitted animals — when did she start, how many did she make, where did they go, and what happened the day she saw one in the ambulance?
+100. Describe the dish towel economy in detail. Who received one? Was there a moment that captured what it meant to her?
+101. "No dish towel for you" — what does that phrase mean to you now that she's gone?
+102. How do you see kindness and hope connecting in your own life? Is kindness something you practice, or does it arrive naturally as a byproduct of the hope practice?
+
+### The Text Message
+
+103. Tell the full story of the text message — the surgery, the return to training, the emotion you didn't expect, and the photograph that arrived at exactly the right moment.
+104. What did you feel when you saw that photograph of yourself from two years ago?
+105. Your friend is a recently retired corporate fitness executive who has followed your journey closely. What has his support meant to you, and has there been a specific moment where it made a difference?
+
+### Hope as Decision and Declaration
+
+106. When you say "hope is a decision" — what is the moment of decision? What are you deciding, exactly, and what are you deciding against?
+107. The word "surely" in scripture carries the weight of confident expectation — hope as declaration rather than feeling. Is there a moment in your own life where you spoke hope aloud before you felt it? What happened?
+
+### The Infinite Game
+
+108. "Hope is the renewable fuel in the infinite game." Where did that idea come from — was it a moment of insight or something that built slowly? What does it mean to you personally?
+109. What is your infinite game? Not the health journey specifically — the larger game you are playing that has no finish line?
+
+### Agile Best Self Origins
+
+110. Principle 8 — "prioritize being more over doing more" — was influenced by Gervais's work. Tell the story of how that principle came to be. What conversation or insight led to it?
+111. What does it mean to you that a framework you co-created became a tool you needed for your own hardest season?
+
+---
+
+*Total questions: 111*
+*Last updated: March 2026*
+
+---
+
+## New Questions — Added March 2026 (Round 2)
+
+*Prompted by addition of Die With Zero to the source list.*
+
+### Health as Investment
+
+112. When you first encountered the idea of health as a financial-style investment with ROI — what clicked for you? Had you thought about it that way before?
+113. What is the specific return you are investing toward? If you had to name the three or four experiences in retirement that represent the payoff on everything you are building right now, what are they?
+114. Is there a moment from your past where you can see clearly that a health decision — good or bad — paid dividends or cost you something you wanted? What was it?
+
+---
+
+## New Questions — Added April 12, 2026
+
+*Prompted by the community series, recovery post, drift concept, self-discipline framework, and Jesus standard captured in April 2026 sessions.*
+
+### The Two-Hour Drive
+
+115. The inner critic on that drive was telling the truth about your past. How do you hold both things at once — acknowledging the receipts from the past while deciding to write new ones?
+116. The "what if" questions on the drive home were Pictures before Pictures had a name. When did you first notice that the future images you were reaching toward became the keyword?
+
+### The Self-Discipline Framework
+
+117. If you had to name the hardest element of self-discipline in your practice — showing up, the no, patience, recovery, contribution — which one costs you the most? Why?
+118. The Renewal Loop: can you identify a specific moment when contribution fueled your recovery, or when recovery enabled a contribution you couldn't have made otherwise?
+
+### Recovery
+
+119. Describe the moment stepping off the plane when your shoulders dropped. What did that physical release tell you that the practice had been carrying?
+120. What does planning future recovery look like for you? Is it a conversation, a calendar, a feeling — how does it actually happen?
+
+### The Drift
+
+121. When the receipts are ambiguous — when the data could mean growth or it could mean drift — how do you keep the inner critic from writing the story before the evidence is in?
+122. What does grace actually look like in practice for you? Not the concept — the specific act.
+
+### Faith Dimension
+
+123. The Epiphany Sunday star word arrived one week after your mother passed. What do you make of that timing — was it coincidence, gift, or something else?
+124. Warnock said the Resurrection is the original hope practice. What does that mean to you personally — not theologically, but in your own life?
+125. The life of Jesus maps precisely onto the self-discipline framework. Is that something you consciously built toward, or did you discover it after the fact?
+
+### Community and Second-Level Impact
+
+126. Sandra found the mural. Marsha found the Warnock interview. Both were in community with the work. Have you had other moments where the community brought something back to you that you didn't expect?
+127. The Substack reader applying the practice to her own journey — what did it mean to you when you learned that? Did it change anything about how you write?
+
+### The Jesus Standard
+
+128. If the life of Jesus is the standard for the self-discipline framework, which element of his practice do you find most challenging to apply to your own?
+
+---
+
+*Total questions: 128*
+*Last updated: April 12, 2026*
