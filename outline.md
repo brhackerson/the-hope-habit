@@ -1,6 +1,6 @@
 # Outline: Hope is Not a Feeling: It's a Practice Worth Building
 *By Brian Hackerson*
-*Fourth Draft — April 7, 2026*
+*Fifth Draft — April 12, 2026*
 
 ---
 
@@ -110,6 +110,24 @@ The Positive Intelligence framework (Shirzad Chamine) — top saboteurs: Hyper V
 
 *Part Two is the practical heart of the book. Each chapter addresses one dimension of the practice — the keyword, the system, the metrics, the circle, the environment, and the ritual — and shows how these work together as a coherent, sustainable whole.*
 
+### Part Two Introduction: The Elements of Self-Discipline
+
+Self-discipline in a hope practice is not one thing. It operates across three levels simultaneously:
+
+**What: Hope** — the destination, the fuel, the reason the practice exists. Not a feeling you wait for. A state you build toward through disciplined action. Everything else serves this. Without hope as the what, the framework is just a wellness plan.
+
+**Being** — the inner dimension. Who you are becoming, not what you are producing. The disciplines that shape identity, meaning, and the deepest reserves of the practice: the keyword, patience, the retrospective, contribution, recovery.
+
+**Doing** — the outer dimension. The daily actions and habits that make the practice real and measurable: showing up, physical care, the No, the trusted circle.
+
+The doing without the being becomes mechanical — habits running on autopilot, the receipts looking fine but the meaning gone quiet. That's the drift. The being without the doing stays aspirational — good intentions with no practice underneath. Hope holds them together.
+
+Some elements live in both categories simultaneously. Recovery is doing (you schedule and build it in) but also being (macro recovery is where you live the Pictures, not just prepare for them). The retrospective is doing (a scheduled practice) but also being (honest self-assessment requires the inner advocate, not the inner critic).
+
+**The Renewal Loop** — contribution and recovery are not parallel elements. They are in a reciprocal relationship. Each makes the other possible. Contribution fuels recovery because giving hope outward creates meaning, and meaning restores something rest alone can't reach. Recovery fuels contribution because you can't give what you don't have. The loop is self-sustaining when both are active. When one stops, the other eventually runs dry. This is the most original concept in the framework — worth naming explicitly as its own section.
+
+*Key sources:* Agile Best Self Principles 4, 8, 10, 12; Snyder (agency and pathways as active disciplines); Gervais (recovery as self-discipline); Clear (identity-based habits); Sinek (infinite game requiring renewal); Colla et al. 2022 (We Power as contribution discipline)
+
 ### Chapter 6: Purpose — Find Your Why and Make It a Keyword
 The keyword as the daily access point to the whole practice. The three criteria from Dr. Michael Gervais: 25 words or less, speakable under duress, felt somewhere in your body when you say it.
 
@@ -141,9 +159,11 @@ The friction audit as a receipt — every gap found and closed is evidence the p
 
 AI as a thinking partner for the retrospective — not a replacement for the work, but a tool for making the invisible visible.
 
-*Story woven in:* The dumbbell ritual at 80 lbs. Jim witnessing it. The InBody trend lines. The doctor's visit numbers moving.
+**The Inevitable Drift** — closely related to One Dead Earbud Away but distinct. One Dead Earbud is external friction breaking the practice. The drift is internal loosening eroding it. The practice keeps running in some dimensions while softening in others. The receipts notice before you fully do. The inner critic feeds on ambiguous data — especially the Hyper Achiever, which finds the gap and calls it failure before the evidence is in. The response: acknowledge the drift, give yourself grace (not permission), find one thing to recommit to, come back to the keyword. That single act of recommitment is also a form of recovery — mini recovery applied to the inner game.
 
-*Key sources:* Clear (Atomic Habits — progress visibility, 1% principle)
+*Story woven in:* The dumbbell ritual at 80 lbs. Jim witnessing it. The InBody trend lines. The doctor's visit numbers moving. Weight ticking up — muscle mass or drift? Waiting for the receipts to tell the full story before responding.
+
+*Key sources:* Clear (Atomic Habits — progress visibility, 1% principle), Chamine (Positive Intelligence — Hyper Achiever as accomplice of the inner critic)
 
 ### Chapter 9: You Can't Build It Alone — The Trusted Circle and the Community
 Two distinct but essential forms of support.
@@ -171,11 +191,15 @@ Being and doing. Principle 8: prioritize being more over doing more.
 
 The keyword is a being word, not a doing word. "Pictures" doesn't say run more miles or hit a number. It says become the person whose grandchildren will know who he was. Identity is more durable than motivation.
 
-Recovery as part of the practice — not time away from the work but part of the work. Mini recovery (daily and weekly: rest days, the hot tub, sleep, interval training) and macro recovery (vacation, intentional play, planning future recovery). Gervais: "There is no off-season. Only seasons of emphasis."
+Recovery as part of the practice — not time away from the work but part of the work. Mini recovery (daily and weekly: rest days, the hot tub, sleep, interval training) and macro recovery (vacation, intentional play, planning future recovery). Gervais: "There is no off-season. Only seasons of emphasis." Sam Darnold: four days after the Super Bowl, back with a personal coach. The effort changes shape. The commitment doesn't.
 
-*Story woven in:* Learning what Principle 8 means in practice. The vacation week — shoulders down, the harness closing with room to spare, playing together intentionally. Planning the next chapter of recovery together.
+**The Renewal Loop** — contribution and recovery in reciprocal relationship. Contribution fuels recovery because giving hope outward creates meaning, and meaning restores something rest alone cannot reach. Recovery fuels contribution because you cannot give what you do not have. When both are active the loop is self-sustaining. When one stops the other eventually runs dry.
 
-*Key sources:* Clear (Atomic Habits — environment design), Gervais (Finding Mastery — no off-season, recovery), Agile Best Self Principle 8
+Robert Frost: "The best way out is always through." Recovery is not avoiding the hard thing. It is preparing to go through the next one.
+
+*Story woven in:* Learning what Principle 8 means in practice. The vacation week — stepping off the plane, shoulders down, the physical release of months of Minnesota cold. The harness closing with room to spare. Playing together intentionally. Planning the next chapter of recovery together.
+
+*Key sources:* Clear (Atomic Habits — environment design), Gervais (Finding Mastery — no off-season, recovery), Agile Best Self Principle 8, Frost (best way out is always through), Schwarzenegger (Be Useful — self-discipline and showing up)
 
 ### Chapter 11: The Ritual That Found Me
 You don't always design your most powerful practices. Sometimes they find you.
@@ -276,10 +300,13 @@ Hope is not a feeling. It's a practice worth building. And it starts wherever yo
 - Share book brief and outline with pastor friend for faith dimension feedback
 - Untapped Agility Chapter 7 story — discuss when ready
 - WordPress image triage still pending before shutting down hosting
+- The Inevitable Drift post on hold pending InBody scan and Whoop data — write from the other side with actual receipts in hand
+- Verify exact source of Robert Frost quote ("The best way out is always through") before book publication
+- Schwarzenegger's *Be Useful* — mine for specific passages relevant to self-discipline and the practice
 
 ---
 
-*Total estimated chapters: 14 + Introduction + Conclusion*
+*Total estimated chapters: 14 + Introduction + Part Two Introduction + Conclusion*
 *Estimated length: 200-300 pages*
-*Status: Fourth draft — significantly expanded April 2026*
-*Last updated: April 7, 2026*
+*Status: Fifth draft — self-discipline framework added, Renewal Loop named, drift concept placed*
+*Last updated: April 12, 2026*
