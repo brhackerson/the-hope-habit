@@ -152,7 +152,47 @@ The star is still there today. Now it is surrounded by Post-its — hope insight
 
 ---
 
-## #64 — What does it mean to you that the gym is called Life Time?
+## #129 — The 5am alarm — what does the self-talk sound like on a hard morning?
+
+The inner critic's voice on a hard morning is almost seductive. It doesn't attack. It tempts. Comfort over building. You don't have to go right now. It's so warm and comfortable.
+
+That's the argument. Not "you're weak" or "you'll fail." Something softer and harder to resist — the pull of warmth, the logic of rest, the reasonable-sounding case for staying exactly where you are.
+
+What answers it is self-talk. Not a lecture. Not a pep talk. Something shorter and more direct — a reminder of what the morning is for and who it is building toward. Pictures. The future self. The practice that doesn't happen without this moment.
+
+And then two feet hit the floor. The conversation stops. Not because the inner critic concedes — it never concedes. But because the body is already moving and the mind follows. The decision is made in the body before the inner critic can finish the argument.
+
+*Notes for writing: "Seductive" is the right word — the inner critic on a hard morning doesn't attack, it tempts. Comfort over building is a line worth keeping. The two feet on the floor ending the conversation is the physical equivalent of Robbins's 5 Second Rule — not counting down, but the body acting before the mind can finish. The post needs both the seduction and the response: what the inner critic says, what answers it, and what the body does to close the window.*
+
+---
+
+## #130 — The TV battle — what does winning feel like versus losing?
+
+The TV is a different battle than the alarm. It arrives in a vulnerable window — the space between waking and the official start of the day.
+
+The specific scenario: waking at 4:30am to use the bathroom, not wanting to go back to bed and disturb Debby. The living room couch feels like the considerate choice. The inner critic's argument sounds almost noble — you're being thoughtful about her sleep. The TV is there. Just for a few minutes.
+
+Most of the time the battle is won. Sometimes it isn't. When the couch wins, a second sleep follows — and that second sleep costs more than it gives. The circadian rhythm is disrupted. The whole day is set back in how it feels and how the schedule runs. The mood is different. The gym session is different. The cost is real and measurable.
+
+Winning feels like stepping past the couch entirely. Going somewhere else — a chair, the kitchen, anywhere without a screen. Or simply going back to bed carefully and accepting that the disruption to Debby is smaller than the disruption to the day.
+
+*Notes for writing: The TV isn't laziness — it's the most reasonable-sounding trap in the practice. The consideration for Debby that makes the couch feel noble is the inner critic at its most sophisticated. It finds the argument that sounds like virtue. The cost of the TV — the circadian disruption, the set-back day — is the receipt that tells the truth about what that one decision actually costs. This is One Dead Earbud territory: small environmental friction with an outsized effect on the practice.*
+
+---
+
+## #131 — Is there a ritual or rule that closes the gap between the alarm and the practice being fully underway?
+
+The best mornings are the ones where sleep carries right to the alarm. No 4:30am bathroom trip. No TV temptation. The body wakes ready and the practice begins cleanly.
+
+Those mornings lead to the best gym sessions. The mindset is different. The energy is different. Today was one of those mornings — and the results in the gym reflected it.
+
+The gap between the alarm and the practice being fully underway is where the battles happen. Two feet on the floor closes the first battle. Sidestepping the TV closes the second. The no-phone morning rule protects the rest.
+
+There isn't a formal ritual for the gap — but the principle is clear: don't sit down. Movement is the answer. Once the body is moving, the practice has already begun.
+
+*Notes for writing: "Don't sit down" is the rule that closes the gap — simple, physical, and impossible to argue with once you know the cost of sitting. The best mornings being the ones where sleep carries right to the alarm is worth naming — the practice works upstream too. Sleep discipline, circadian rhythm protection, the no-phone morning — all of it feeds the 5am moment before it arrives. The 5am alarm post is really about everything that happens between bedtime and the gym.*
+
+---
 
 Nothing symbolic about the name — it's simply a wonderful place that promotes a larger vision of self-care. Clean, lots of options, comfortable, low-stress. A great experience every time. The work could happen elsewhere, but the Life Time environment makes it easier to show up consistently. It removes friction.
 

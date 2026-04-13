@@ -282,5 +282,21 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 ---
 
-*Total questions: 128*
-*Last updated: April 12, 2026*
+## New Questions — Added April 13, 2026
+
+*Prompted by the 5am alarm blog post concept.*
+
+### The 5am Alarm
+
+129. The 5am alarm has two battles, not one. The first is the inner critic in bed — what does the self-talk actually sound like when the advocate wins? Not the easy mornings. The hard ones. Walk me through the internal conversation and the moment two feet hit the floor and the conversation stops.
+
+130. The TV is the second battle — the one that arrives when you wake early to use the bathroom. The inner critic finds a reasonable-sounding argument: just sit for a few minutes. Most of the time you win this one. Sometimes you don't. What does winning feel like versus losing? And what does the cost of the TV feel like the rest of the day?
+
+The specific scenario: waking at 4:30am to use the bathroom, not wanting to go back to bed and disturb Debby. The living room couch feels like the considerate choice. The TV is there. The inner critic's argument sounds almost noble — you're being thoughtful about Debby's sleep. And then the couch wins. The second sleep that follows costs more than it gives — circadian rhythm disrupted, the whole day set back in how you feel and how the schedule runs. The TV isn't laziness. It's the most reasonable-sounding trap in the practice.
+
+131. The no-phone morning is an established habit. The TV is a different kind of friction — it arrives before the alarm, before the practice has officially started. How do you think about the gap between the alarm going off and the moment the practice is fully underway? Is there a ritual or a rule that closes that gap?
+
+---
+
+*Total questions: 131*
+*Last updated: April 13, 2026*
