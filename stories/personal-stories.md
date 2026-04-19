@@ -152,7 +152,61 @@ The star is still there today. Now it is surrounded by Post-its — hope insight
 
 ---
 
-## #129 — The 5am alarm — what does the self-talk sound like on a hard morning?
+## #74 — What do you want your children to say about you when they look at old photographs?
+
+When they see the pictures, the hope is that they see someone happy and healthy, who was present, who respected himself, and cherished his family and every moment together.
+
+Not the achievements. Not the resume. The person in the photographs.
+
+*Notes for writing: This is the fullest expression of the keyword in the book. Pictures was never about how he looked. It was always about who he was in the photographs — present, healthy, cherishing the moment. Happy and healthy. Respected himself. Cherished his family. Those five qualities are the entire hope practice compressed into what a child sees when they look at an old photograph with their own children someday. This belongs in Chapter 6 (keyword) as the deepest answer to why Pictures works, and in Chapter 12 (Hope Has a Target) as the most specific articulation of what the practice is building toward. It also belongs in the Introduction — the reader needs to understand from the beginning that this is what the practice is for.*
+
+---
+
+## #71 — Dad and Alzheimer's — Context Notes (Pre-Answer)
+
+*Captured April 19, 2026 — details about Brian's father before the full answer is recorded.*
+
+**Military service:** Served in the United States Air Force in the 1960s.
+
+**His motivation:** Providing for the family above caring for himself. His health habits reflected this — he smoked, he drank, no real exercise plan, poor sleep habits. He gave everything outward and kept little for himself.
+
+**On the road constantly:** His job required a lot of driving. He did his best to get back for big events. The family came first even when the road made it hard.
+
+**What he gave the kids:** Everything they needed in whatever pursuit they had. For Brian, that was often golf — good equipment, season passes to the municipal course. Brian and his brother Andy became more skilled than their father, and he loved supporting that. He took pride in enabling them to exceed him.
+
+*Notes for writing: The parallel between the father's self-sacrifice and the hope practice is profound and painful. He gave outward constantly — to family, to his kids' pursuits, to the road — and kept nothing for his own health. The very thing the hope practice is built around, self-discipline as self-care, showing up for yourself so you can show up for others, is what his father didn't have or didn't choose. The two-hour drive decision — to BE different, to not go the way his father did — lands with new weight against this background. His father modeled generosity and sacrifice at the expense of his own health. Brian is trying to model both: generosity outward AND care for himself. That is the correction. That is the gift to the next generation.*
+
+---
+
+## #73 — What does it mean to be the oldest of four children?
+
+Being the oldest of four has been challenging at times. Two of the siblings are twins, two years younger. At an early age, being relegated to the back seat came with the territory — literally and figuratively. The twins arrived and the dynamic shifted. That's just how it was.
+
+The responsibility of being firstborn has always felt serious — especially out of respect for my father. He worked extremely hard throughout his entire career with a singular focus: to provide the best for all of us. He funded our education, supported the pursuit of sports, music, and many other things. The debt felt real. The obligation to honor what he built felt real.
+
+More than twenty years ago, when his own parents were in their last days, he sat me down and went through everything. He asked me to promise him that his parents' financial mistakes would not be repeated. Of course that promise was accepted.
+
+One of the good things happening right now is that those wishes are nearly fully satisfied. The promise kept. His memory care needs were handled. Mom was taken care of after he passed. What they worked for together was protected — not lost to a facility or the government. Their attorney helped do it well.
+
+It was a lot of responsibility. It was followed through.
+
+The page will turn soon — within the next thirty days. And there is no shame in saying: that moment is something to look forward to. The weight has been real. Setting it down will also be real.
+
+*Notes for writing: The father's promise — sitting down with his son before his own parents passed, asking him to protect what they built — is a quiet, powerful scene. The firstborn carrying the father's wishes forward for twenty-plus years is the stewardship thread that runs through the book. "The page will turn soon" — within thirty days of this conversation — is a moment worth marking. The relief of completing what was promised is not betrayal of the responsibility. It is the completion of it. Handle with care throughout — this is private family territory and should only appear in the book where it earns its place. Connects to Chapter 13 (Hope Forward / legacy) and the father's letter of July 3, 1985.*
+
+---
+
+Someone who has tried and struggled. Someone distracted by the events around them — the noise of the world, the demands of a season, the accumulated weight of things that didn't work before. Someone looking for a different thing to try, not because they've given up, but because they haven't.
+
+The deeper motivation is the next-level ripple. More people bringing hope into the world during difficult times is good for all of us. Not just the reader's own practice — what that practice does when it turns outward. The second-level impact, multiplied across everyone who reads this and builds something real.
+
+The book is not written for someone who has it figured out. It is written for someone who is exactly where Brian was on the day of that doctor's visit — knowing something has to change, not sure they have what it takes, carrying the receipts of past attempts that didn't hold.
+
+That person exists everywhere. And they are not just trying to get healthier or happier. They are trying to find a way to show up — for themselves, for their people, for the world that needs more hope in it right now.
+
+*Notes for writing: "More people bringing hope into the world during difficult times is good for all" — that sentence belongs in the Introduction as the outward-facing purpose of the book. The reader Brian is writing for is not a passive recipient of hope — they are a future contributor to it. The book asks them to build a practice not just for themselves but for the ripple it will create. That is the second-level impact applied to the readership itself. This also connects to the privilege and access note — the practice should be accessible to anyone who needs it, not just those with the tools and circumstances Brian had.*
+
+---
 
 The inner critic's voice on a hard morning is almost seductive. It doesn't attack. It tempts. Comfort over building. You don't have to go right now. It's so warm and comfortable.
 
@@ -258,7 +312,15 @@ When asked if there's a specific person who puts a face on that reader, Brian sa
 
 ---
 
-## Wildcard — The Last Smile (The House Closing)
+## #88 — What does hope feel like in your body right now, today?
+
+Hope arrives in the face first. It usually forces a smile, or at least some release of tension — the jaw loosens, the muscles around the eyes soften, something lets go that had been holding on without permission. From there it permeates throughout the body as a feeling of lightness. Not euphoria. Lightness. Like something that was pressing down has lifted just enough to breathe differently.
+
+The best example: the day Jim sent the photograph, on the same day as the first strength training session after surgery. Two things arriving at once — the receipt from the body proving it could still do this, and the receipt from a friend proving someone was watching and understood what it meant. Hope arrived in the face that day and didn't leave for a while.
+
+*Notes for writing: "Hope arrives in the face first" is the most specific and honest physical description of hope in the book. It doesn't arrive as a grand feeling in the chest — it arrives as a release of tension in the face, which then becomes lightness throughout the body. That sequence — face, then body, then lightness — is specific enough to be real and universal enough to be recognized. The Jim story is the anchor for this section: a receipt from the body and a receipt from the circle arriving on the same day. That's hope received from two directions at once. Question 88 is now answered and ready to anchor Part 1 of the receiving hope post and chapter.*
+
+---
 
 *Captured March 15, 2026. Central story for the mom post and Chapter 13. Room scene details added March 17, 2026.*
 
