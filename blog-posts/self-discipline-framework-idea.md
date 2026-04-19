@@ -35,7 +35,29 @@ Self-discipline in a hope practice is not one thing. It operates across multiple
 
 ---
 
-## The Renewal Loop — Key Insight
+## The Hope Cycle — A Framework Within the Framework
+
+Build it. Receive it. Recognize it. Release it.
+
+This is not just a closing flourish for a post. It is a named concept — a framework within the self-discipline framework. The outer framework describes What/Being/Doing. The Hope Cycle describes the four movements of how hope actually moves once the practice is running: inward and outward, continuously, without a terminal state.
+
+**Build it.** The practice begins with a decision, not a feeling. The 5am alarm. The keyword. The system nobody else can build for you. Self-discipline choosing the long game before any evidence arrives that the long game is worth choosing.
+
+**Receive it.** Hope doesn't only come from within. A well-built practice tunes the antenna so that when hope arrives from outside, through a person, a moment, an unexpected gift, you actually notice it. You let it land. The star word. The photograph from a friend. The morning that flows right to the alarm. These are receipts too.
+
+**Recognize it.** The inner critic deflects hope. It calls the good morning luck, explains the gift away as coincidence, minimizes the receipt before you can fully read it. Recognizing hope requires the same curiosity you bring to the inner critic: step outside, get quiet, and ask what just arrived and where it came from. Gratitude is the discipline that keeps that window open.
+
+**Release it.** Once received and recognized, the next act is to put something in the water. A post. A conversation. A phone call to someone who needed it. Showing up consistently in communities pointed in the same direction. You don't know who is watching. You cannot predict where the ripple travels. You release it anyway.
+
+Each movement feeds the next. The loop runs continuously. That is why it is infinite. The Hope Cycle is the operational expression of the Renewal Loop — contribution and recovery as partners, build and receive as partners, the practice sustaining itself through the full circle.
+
+**Possible uses in the book:**
+- Named explicitly in the spreading and receiving hope chapter
+- Introduced as a visual framework in Part Two or Part Three
+- Referenced in the Conclusion as the summary of what the practice actually does
+- Potentially a diagram worth including in the book
+
+---
 
 **Contribution and recovery are not parallel elements. They are in a reciprocal relationship. Each one makes the other possible.**
 
