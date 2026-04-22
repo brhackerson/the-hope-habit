@@ -166,6 +166,8 @@ Not the achievements. Not the resume. The person in the photographs.
 
 *Captured April 19, 2026 — details about Brian's father before the full answer is recorded.*
 
+**First and most important:** Deep, deep respect for what his father did with his life. So much is owed to him. Proud to be his son. He had flaws like anyone, but he was honorable and treated people with kindness. Brian sees a lot of himself in his father. He honors him by trying to be the best he can be — taking from his father what was awesome and choosing different paths for the rest.
+
 **Military service:** Served in the United States Air Force in the 1960s.
 
 **His motivation:** Providing for the family above caring for himself. His health habits reflected this — he smoked, he drank, no real exercise plan, poor sleep habits. He gave everything outward and kept little for himself.
@@ -174,7 +176,7 @@ Not the achievements. Not the resume. The person in the photographs.
 
 **What he gave the kids:** Everything they needed in whatever pursuit they had. For Brian, that was often golf — good equipment, season passes to the municipal course. Brian and his brother Andy became more skilled than their father, and he loved supporting that. He took pride in enabling them to exceed him.
 
-*Notes for writing: The parallel between the father's self-sacrifice and the hope practice is profound and painful. He gave outward constantly — to family, to his kids' pursuits, to the road — and kept nothing for his own health. The very thing the hope practice is built around, self-discipline as self-care, showing up for yourself so you can show up for others, is what his father didn't have or didn't choose. The two-hour drive decision — to BE different, to not go the way his father did — lands with new weight against this background. His father modeled generosity and sacrifice at the expense of his own health. Brian is trying to model both: generosity outward AND care for himself. That is the correction. That is the gift to the next generation.*
+*Notes for writing: The love and respect for his father must come first and come through clearly in the book. This is not a story about a flawed father — it is a story about a good man who gave everything outward and kept little for himself, and a son who honors that sacrifice by choosing to care for himself too. "Taking from him what was awesome and choosing different paths for the rest" is one of the most honest and generous sentences in the book. The hope practice is not a rejection of who his father was — it is an honor to him. The correction is made with love, not criticism. That distinction is essential throughout every mention of his father in the manuscript.*
 
 ---
 
@@ -747,5 +749,97 @@ The parallel to hope is exact. Hope practiced daily is not a strategy either —
 The phrase "kindness isn't a strategy, it's a way of life" mirrors the book's central argument about hope — and connects the two themes in a way that honors her on both counts.
 
 *Notes for writing: This image and the sister's gesture of sharing it are themselves an act of kindness — hope and kindness passing between siblings after loss. Strong candidate for Chapter 13 (Hope Forward / legacy) or the Conclusion. The parallel between hope as practice and kindness as practice is thematically central to the book and deserves a named moment somewhere in the manuscript.*
+
+---
+## Wildcard — Recovery Journey: Surgery to Strength (February 9 – April 20, 2026)
+
+*Captured April 19, 2026. Source: full recovery log compiled from conversation history.*
+
+### The Through Line
+
+"Haven't won yet but the wind is at my back — making hope happen every day." The recovery was a lived demonstration of the hope practice: self-discipline meeting adversity and winning. Not through grand gestures, but through boring consistency compounding over time.
+
+### Body Scan Data (Receipts)
+
+| Date | Weight | SMM | BF% |
+|------|--------|-----|-----|
+| Jul 2024 | 291.6 | 94.1 | 42.6% |
+| Dec 18, 2025 | 212.0 | 96.6 | 18.4% |
+| Jan 10, 2026 | 209.5 | 95.9 | 18.2% |
+| Feb 26 (Day 17, post-surgery) | 204.9 | 89.3 | 21.6% |
+| Mar 14 (Day 33) | 206.2 | 90.2 | 21.4% |
+| Apr 24 (next scan, approx.) | TBD | TBD | TBD |
+
+**Goal: 100 lbs SMM.** Down 87 lbs from July 2024. Body fat cut nearly in half. SMM dropped post-surgery but is rebuilding. The inner critic had ammunition — the numbers were down — but the cause was known and the trajectory was already turning. The April 24 scan will tell the full story.
+
+### Key Training Milestones
+
+- First post-surgery session: March 3, 51 min, 88 bpm avg
+- Pre-surgery benchmark matched: March 10–11
+- First hour-long strength session: April 15
+- Effort 9 / All Out session: April 13
+- New interval distance record: 3.68 mi on April 9
+- Golf simulator (April 20): Driver club head speed 137–139 mph, smash factor 1.48, 3 hybrid carry 236 yards. Core stability showing up in the swing. From endurance to performance.
+
+### The Sleep Insight (Whoop)
+
+Whoop device acquired April 10. Stopping caffeine after 1–2 PM eliminated nighttime bathroom trips. Result: 3 of 4 nights uninterrupted sleep, 94% sleep efficiency, improved recovery scores, measurably higher training energy within days.
+
+*"The receipt funds the next decision."* One habit change produced data that motivated the next adjustment. That's the practice working at the micro level.
+
+### Adversity Navigated
+
+- Cold (late March): Three days of light walking. Body protected, practice adapted, not abandoned.
+- Vacation (Orlando/Clearwater, Mar 22–28): Hotel gym training, 17,000–21,000 steps/day at theme parks. Practice traveled.
+- Hotel gym with minimal equipment: "I got it. I know how to do this." Improvised and delivered.
+
+### Book-Ready Lines (Captured Verbatim)
+
+- "Simple and sustainable beats optimal and complicated every time." — Chapter 7
+- "The receipt funds the next decision." — Chapter 8
+- "That's not discipline. That's identity." — Chapter 5 or 7 (said after strength training in a hotel gym after 21,000 steps at Disney, day of the flight home)
+- "The practice continues beyond each waypoint. Sub-200, breaking 80, the book — those are waypoints, not endpoints." — Chapter 14 or Conclusion
+- "Pictures is the ignition. Hope is the fuel. The infinite game is the engine." — Chapter 6 or Introduction
+- "A year ago it was about being able to endure 18 holes. My feeling is that my core will show it is ready to perform, not just endure." — Chapter 12
+- "The practice doesn't stop because life gets hard — it adapts. Cold, vacation, hotel gym, post-surgery walks. You just keep finding the version of the practice that fits the moment." — Chapter 14
+- "Sometimes the adversity isn't real. Sometimes it's the narrative you're telling yourself. Sometimes the adversary is real. Both need hope as a practice, but the work looks different." — Chapter 1 or 2
+
+*Notes for writing: This recovery period is one of the most complete demonstrations of the hope practice in the book. Every chapter has a receipt from these 70 days. The golf simulator session on April 20 is the capstone — from needing a cart to perform to swinging with 137 mph club head speed and centered contact in 14 months. The Whoop sleep insight is a perfect example of the receipt funding the next decision. The hotel gym moment is identity-based habits at their most vivid. The body scan data tells the full story of the SMM goal — the surgery dip, the rebuild, and the April 24 scan still to come.*
+
+---
+## Wildcard — The World Context: January–February 2025
+
+*Captured April 19, 2026. Critical context for the Introduction and Chapter 1.*
+
+The doctor's visit didn't happen in a vacuum. It happened in a specific moment in the world.
+
+January 2025: Trump sworn in. Chaos ensued. The news cycle was relentless and disorienting. It was hard to feel hope. It was hard to be hopeful. The external environment was doing everything it could to make hope feel naive or impossible.
+
+Then came the news from Dr. Lee.
+
+The pile was growing. The inner critic was having its way. The world was loud. The body was sending signals. The medication news landed on top of everything else.
+
+That is the moment the practice was born — not in ideal conditions, not when things were going well, but at the bottom of a pile that kept getting heavier.
+
+*Notes for writing: This context is essential for the Introduction and Chapter 1. The hope practice didn't begin because the world was hopeful. It began because the world was not — and the body was sending its own message on top of that. The reader who picks up this book in a difficult season will recognize this moment immediately.*
+
+*Political framing guidance: The goal is to be honest about the moment without being partisan. Name the emotional weight — the chaos, the anxiety, the difficulty of hope — without attributing it to specific policies, parties, or people. "The world felt chaotic and hope felt naive" lands for everyone regardless of where they stood in January 2025. The emotional experience of that season was widely shared even among people who disagreed about what was causing it. What to avoid: specific policy positions, party attributions, or anything that tells the reader what to think about the cause. The hope practice speaks to everyone in a hard season — that universality is the book's greatest asset and should be protected. Brian is not totally apolitical — he has views — but the book is not the place for them. The privilege and access note (Appendix C) is where the most honest acknowledgment of position lives. One paragraph, honest, then forward.*
+
+---
+## Wildcard — Improving the Odds, Not Guaranteeing the Outcome
+
+*Captured April 19, 2026. Relevant to Introduction, Chapter 1, Chapter 3, and the "win" language thread.*
+
+All the health work — the strength training, the nutrition, the sleep discipline, the supplements, the cardio — does not guarantee that dementia won't arrive. That's an honest and important acknowledgment.
+
+The goal is to improve the odds. Nothing more, nothing less.
+
+As a math guy, that framing matters. There's a difference between certainty and probability. The practice doesn't promise a specific outcome. It shifts the probabilities in a better direction. That's what hope as self-discipline actually does — not control the result, but control the effort and let the odds follow.
+
+Dr. Gupta makes this point explicitly in *Keep Sharp*: mental decline is roughly 10% genetic and 90% lifestyle-related. That's not a guarantee of avoiding dementia. That's a profound odds improvement available to almost everyone through daily choices. The 90% is what the practice is working on.
+
+This also connects to the "win" language thread. The win is not the absence of dementia. The win is doing everything within your control to shift the odds — showing up consistently, building the practice, making the daily choices — and trusting that the effort matters even when the outcome is uncertain.
+
+*Notes for writing: "I'm trying to improve my odds — not guarantee the outcome" is one of the most honest and credible sentences in the book. A reader who has watched a parent decline will feel this immediately. It removes any hint of magical thinking from the practice and replaces it with something more durable: the commitment to do what can be done, clearly, without pretending the rest is in your hands. Connects to Dr. Gupta (*Keep Sharp*, Chapter 3 or Chapter 8), the "win" language resolution (Warnock), and the father's Alzheimer's journey. Do not overstate what the practice promises — that honesty is what makes it trustworthy.*
 
 ---

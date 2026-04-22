@@ -16,6 +16,10 @@
 
 The sequence matters: A doctor's visit that makes things very clear. A 60th birthday approaching. The decision on the long drive home — to BE different. The practice already underway through the months that followed. Then December 2025, and Mom's last month — the pain, the hospice care, the house closing, the last smile, the quiet room. Then, about a week after she passed, on Epiphany Sunday, the word "hope" arrives serendipitously in the communion line — a paper star handed randomly by a stranger, received as if from her. The word didn't start the practice. It named what was already happening.
 
+The world context matters too. The practice was born in January 2025 — not in ideal conditions, not when things were going well. The world felt chaotic and hope felt naive. The news cycle was relentless. It was hard to feel hopeful. Then the doctor's visit added its own weight. The pile was growing and the inner critic was winning. That is the honest origin: a practice built at the bottom of a pile, in a hard season, from exactly the kind of moment where hope feels most impossible.
+
+*Political framing note: Name the emotional weight of the moment — the chaos, the anxiety, the difficulty of hope — without attribution to specific policies, parties, or people. The experience was widely shared across the political spectrum. The book is not partisan. Brian is not totally apolitical but the book is not the place for political opinions. The universality of the difficult season is the asset to protect.*
+
 Then February 2026 — a small church meeting, fewer than 20 familiar faces, responding to what was happening in the Twin Cities community. People sharing quiet acts done from conviction. The decision crystallized: act on the star word. Write. Explore the practice publicly. Maybe it helps someone struggling to feel hopeful in the face of real adversity. That decision started the Substack, the posts, and ultimately this book.
 
 This book is not a prescription. It is a personal framework and a generous invitation. Here is what I learned. Here are the principles underneath it. Now go find what works for you.
@@ -66,13 +70,15 @@ Sinek's infinite game reframed through hope — you're not playing to finish, yo
 ### Chapter 3: The Neuroscience of Hope
 The biological case for building a hope practice. What happens in the brain when we act with agency and purpose. Exercise, sleep, nutrition, and social connection as the physical infrastructure of hope.
 
-Gupta's *Keep Sharp* — Chapter 8: "Connection for Protection." Social connection is as essential to brain health as exercise, sleep, and nutrition. Community is where that connection lives.
+Dr. Gupta's *Keep Sharp* — Chapter 8: "Connection for Protection." Social connection is as essential to brain health as exercise, sleep, and nutrition. Community is where that connection lives.
+
+Key honest acknowledgment: all the health work doesn't guarantee the absence of dementia. The goal is to improve the odds. Dr. Gupta's research suggests mental decline is roughly 10% genetic and 90% lifestyle-related — not a guarantee, but a profound odds improvement available through daily choices. The practice works on the 90%. That's what self-discipline as hope actually does: not control the result, but shift the probabilities in a better direction. This framing removes magical thinking and replaces it with something more durable and credible.
 
 The surprising truth — building a hope practice isn't just good for your soul. It's good for your brain. And a better brain builds better hope.
 
-*Story woven in:* The early morning workouts. The intentional nutrition. The sleep discipline. Feeling sharper, clearer, more capable as the practice deepened.
+*Story woven in:* The early morning workouts. The intentional nutrition. The sleep discipline. Feeling sharper, clearer, more capable as the practice deepened. Watching the father's Alzheimer's journey and deciding to work on the 90%.
 
-*Key sources:* Gupta (Keep Sharp — Chapter 8)
+*Key sources:* Gupta (Keep Sharp — Chapter 8, and the 10%/90% genetic vs. lifestyle statistic)
 
 ### Chapter 4: The Foundation You're Already Standing On
 You don't build a hope practice from scratch. You build it from where you are — from the values you already hold, the frameworks you've already internalized, the work you've already done on yourself.
