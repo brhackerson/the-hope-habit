@@ -298,5 +298,37 @@ The specific scenario: waking at 4:30am to use the bathroom, not wanting to go b
 
 ---
 
-*Total questions: 131*
-*Last updated: April 13, 2026*
+## New Questions — Added April 23, 2026
+
+*Prompted by Reclaiming My Time, Metrics Evolution, Tuning the Instrument, and Why Not Alone idea files.*
+
+### Reclaiming My Time
+
+132. Can you describe a specific moment when the outer filibuster — accumulated obligations, the news cycle, a crowded schedule — genuinely threatened the practice? What did reclaiming look like in that moment?
+
+133. The Pleaser saboteur makes the reclaiming move hard to make. When have you given something your time that you knew was crowding out the practice, and what made it hard to say no?
+
+### Metrics Evolution — It Works Until It Doesn't
+
+134. What app or metric did you use during the weight loss transformation that served its purpose and then lost its value? What did it feel like to let it go?
+
+135. What is the current highest-signal receipt in the practice right now — the one metric that tells you most clearly whether the practice is working?
+
+### Tuning the Instrument — Signal and Noise
+
+136. What sources of signal — newsletters, people, communities, unexpected gifts — have reliably fed the practice rather than depleting it? How did you find them?
+
+137. Has there been a specific moment when the news cycle or the world's noise made the practice feel naive or impossible? What brought the instrument back into tune?
+
+### Why Not Alone
+
+138. Was there a specific moment in this practice where the circle made the difference between continuing and stopping? Who showed up and what did they do?
+
+139. Have you ever tried to build something significant largely alone — no circle, no accountability? What happened and what did it cost?
+
+140. What does borrowed hope feel like? Can you name a specific moment when your own supply was low and someone in the circle gave you some of theirs?
+
+---
+
+*Total questions: 140*
+*Last updated: April 23, 2026*
