@@ -15,9 +15,11 @@ The skill is knowing when a receipt has served its purpose, letting it go, and f
 
 ## The Personal Example
 
-An app used to drive the weight loss transformation was highly valuable — the right tool for that season of the practice. Once a certain milestone was crossed, the value of the app and the activities tracked within it dropped significantly. The receipt was no longer providing meaningful signal. The app had done its job.
+The Simple app — a food logging and intermittent fasting tracker — was highly valuable in the early months of the practice. It helped establish eating cycles, monitor fasting windows, and build habits that are now well-set after 15 months. The app did exactly what it was supposed to do.
 
-The practice had succeeded and moved on. The measurement system needed to move on too.
+Now the eating cycles run on their own. Simple no longer provides meaningful signal. Retiring it is not abandoning discipline — it is clarity. The metric served its season and the season is complete.
+
+This is the most honest and specific personal example of the metrics evolution principle: a tool that was HUGE early on, did its job well, and is now being retired with gratitude rather than guilt.
 
 ---
 
