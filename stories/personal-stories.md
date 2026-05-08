@@ -843,3 +843,64 @@ This also connects to the "win" language thread. The win is not the absence of d
 *Notes for writing: "I'm trying to improve my odds — not guarantee the outcome" is one of the most honest and credible sentences in the book. A reader who has watched a parent decline will feel this immediately. It removes any hint of magical thinking from the practice and replaces it with something more durable: the commitment to do what can be done, clearly, without pretending the rest is in your hands. Connects to Dr. Gupta (*Keep Sharp*, Chapter 3 or Chapter 8), the "win" language resolution (Warnock), and the father's Alzheimer's journey. Do not overstate what the practice promises — that honesty is what makes it trustworthy.*
 
 ---
+## Wildcard — April 23 InBody Scan: The Receipt Arrives
+
+*Captured April 23, 2026. This is the receipt the Inevitable Drift and Reading the Receipt posts have been waiting for.*
+
+### The Data
+
+| Metric | Mar 14 | Apr 23 | Change |
+|--------|--------|--------|--------|
+| Weight | 206.2 | 212.4 | +6.2 lbs |
+| SMM | 90.2 | 94.6 | +4.4 lbs |
+| BF% | 21.4 | 20.2 | -1.2 points |
+| ECW/TBW | 0.389 | 0.389 | Stable |
+
+### What the Receipt Says
+
+4.4 lbs of lean muscle in 40 days. Body fat down 1.2 points despite weight going up. ECW/TBW stable — no inflammation signal.
+
+That's not water. That's muscle. The practice is working.
+
+### What This Resolves
+
+The inner critic was feeding on ambiguous data and writing the worst version of the story. Weight up, inner critic loud, the drift narrative gathering momentum. The receipt just interrupted it. Firmly. Without apology.
+
+The weight was up because the muscle was growing. The practice wasn't drifting. It was building.
+
+### Connection to Posts and Book
+
+- **The Inevitable Drift** — the post was held waiting for this data. The drift was not real. What was real was the inner critic's ability to weaponize ambiguous data. The post can now be written from the other side — with the receipt in hand.
+- **Reading the Receipt** — the clearest example in the book of knowing what the data says and what it doesn't. The weight number said "up." It did not say why. The full receipt said: muscle, not drift.
+- **Save Your Receipts** — this is the receipt that funds the next chapter of the practice. SMM at 94.6, goal 100 lbs, 5.4 lbs to go.
+- **Hope's Infinite Loop** — the practice built it, the data received it, the inner advocate recognized it. The loop is running.
+
+*Notes for writing: "That's not water. That's muscle. The practice is working." — that's the closing line of The Inevitable Drift post. The scan arrived on April 23, 2026, one day before the originally anticipated date. The inner critic had been running a filibuster on ambiguous data for weeks. The receipt interrupted it. The inner advocate was right to wait.*
+
+---
+## Wildcard — Hermitage Golf Course Rules (May 1, 2026)
+
+*Captured May 1, 2026. Photo taken at Hermitage Golf Course.*
+
+Course rules sign — five rules painted on a black sign:
+
+- Come relaxed... leave happy
+- You'll remember your friends more than your scores
+- Play often... laugh more
+- Play the tees that make you happiest
+- It's more fun when you're not the only one having it
+
+*Notes for writing: Every rule maps to the hope practice. "You'll remember your friends more than your scores" is Pictures in a single sentence — the legacy is the people, not the scorecard. "It's more fun when you're not the only one having it" is the entire community series in eleven words. "Play the tees that make you happiest" is self-discipline without self-punishment — knowing where you are and playing from there honestly, not from where you wish you were. "Come relaxed... leave happy" is shoulders down applied to golf. These rules belong somewhere in Chapter 12 (golf as the ongoing horizon) — as an epigraph, a sidebar, or a moment in the narrative. They also have post potential: the golf course as a teacher of hope practice principles.*
+
+---
+## Wildcard — The Lake Walk and Reggie (May 2026)
+
+*Captured May 6, 2026.*
+
+About 1.4 miles around a little lake near home in Apple Valley. Brian walks it when he recognizes the need to slow things down — not on a fixed schedule, but as a response to a felt need. The ecosystem is remarkable: bald eagles scanning the water for fish, muskrats cutting across the surface, ducks and geese making an unreasonable amount of noise, the breeze through the grasses and trees, songbirds doing their work.
+
+The lake also has a resident albino squirrel named Reggie, who makes an appearance on occasion, entirely on his own schedule.
+
+*Notes for writing: Reggie is not a metaphor. He is just Reggie. But his presence — unpredictable, unhurried, entirely on his own terms — is exactly the kind of beauty the post describes. You can't manufacture a Reggie sighting. You can only show up and be present enough to notice when he appears. Use his name in the book — it earns its place. Chapter 12 or the beauty/recovery chapter.*
+
+---
