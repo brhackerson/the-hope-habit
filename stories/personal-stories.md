@@ -992,3 +992,98 @@ The feeling was immediate and powerful: this weight was no longer being carried 
 *Notes for writing: The dumbbell ritual didn't start in this practice — it started in 2020 at 3M, born from a desire to mark milestones honestly. The pandemic scuttled that attempt, but the idea survived. When the current practice picked up, the ritual came with it. That continuity matters — the practice that eventually held was built on seeds planted in earlier attempts. The dumbbell ritual belongs in Chapter 8 (Mastery — making progress visible) and Chapter 11 (The Ritual That Found Me). The 3M origin adds depth: it wasn't invented in this season, it was remembered and reclaimed. Another example of the practice drawing on what came before.*
 
 ---
+## #94 — A Moment Where You Saw Hope Practiced in Your Community
+
+The mid-February 2026 church meeting. Fewer than 20 familiar faces gathered together, wrestling with how they could help the people of Minneapolis and St. Paul endure what was happening with ICE enforcement in the community.
+
+Pastor Julie delivered the punchline that landed: "Do what feels right to you."
+
+That phrase did something unexpected. It delivered hope — specifically, the hope that contributing was possible in a way that was authentic rather than prescribed. Nobody was told what to do or how much to give or what the right response looked like. The community was simply invited to show up in whatever way felt true to them.
+
+That permission is itself a hope practice. It trusts the people in the room. It assumes good intent. It makes contribution accessible rather than performative.
+
+*Notes for writing: This is the moment referenced in the Introduction — the February 2026 church meeting that crystallized the decision to write publicly about the hope practice. "Fewer than 20 familiar faces" doing quiet acts from conviction. Pastor Julie's phrase is worth capturing verbatim: "Do what feels right to you." That's not a cop-out — it's a trust. The community responding to real adversity in the world, not with a program but with presence and permission. Political framing note: name the emotional weight without partisan attribution. The adversity was real. The community's response was hope in action. That's the story.*
+
+---
+## #7 — What was the doctor's visit like?
+
+Dr. Lee didn't make a speech. He just tapped his finger on the computer screen where the body weight measurement was displayed — pointing to the obvious fact that it was the highest recorded in the medical record. No judgment felt. Just a finger on a number that mattered. We didn't need labs to understand that something needed to change. The labs came after the appointment anyway, and the additional data confirmed what the finger had already said: not a healthy puppy.
+
+The ride home was emotional. Mostly anger. The full brunt of it wasn't shared with Debby — partly not wanting to alarm her, partly not wanting to appear weak. The anger moved through stages. It didn't stay in one place.
+
+A few days later came the drive with Jacob. By then the emotion had quieted. Rational thought had taken over. The hard internal work of coming to terms with the health situation had begun — what it was, and what could actually be done about it.
+
+*Notes for writing: The sequence is important: doctor visit → anger on the first drive home → quiet and rational thought by the Jacob drive. The anger was the first honest response. The decision came after the anger had run its course and rational thought had space to work. Dr. Lee's gesture — one finger on one number — is one of the most economical moments in the book. No lecture, no program, no shame. Just the fact. The body weight was the highest in the medical record. That was enough. The two-hour drive with Jacob was not the beginning of the emotion — it was the beginning of the response. The emotion had already done its work.*
+
+---
+## #5 — Did the "gift to the family" framing make it easier to commit?
+
+It didn't make the commitment easier — but it absolutely helped build consistency in the effort.
+
+They will love and support no matter what. That's not in question. The gift was about trying to repay that love by being in their lives as long as possible.
+
+*Notes for writing: The distinction here is important and honest. The framing didn't lower the barrier to starting — the decision on the two-hour drive did that. What it did was sustain the effort through the hard mornings and the plateaus. "They will love and support me no matter what" — that's the unconditional nature of the relationship that makes the gift meaningful. The practice isn't earned love. It's love expressed back, through action, over time. This connects directly to question 74: the photographs, the presence, the cherishing of every moment. The gift is showing up fully for the people who show up fully for you.*
+
+---
+## #8 — How has Debby's role in the practice evolved?
+
+Her role has changed in a beautiful way. She has developed her own consistency getting to the gym.
+
+One of the favorite moments now is leaving the gym floor all tired and sweaty, and running into her coming up the stairs to start her exercise. One day she even kissed him right there on the gym floor — super sweaty and all.
+
+They have been supporting one another by inspiring one another. They have a lot to talk about too.
+
+*Notes for writing: This is one of the warmest moments in the book. The practice that began as a private decision on a two-hour drive home — without telling Debby much, not wanting to alarm her, not sure she believed it would hold — has become something they are building together. She didn't just witness the practice. She joined it. The gym floor kiss is the receipt of that transformation. It belongs somewhere in the book — possibly the Conclusion or Chapter 9 (trusted circle) — as evidence that the practice doesn't just change the person building it. It changes the people around them too. That's the second-level impact made visible in the most personal way possible.*
+
+---
+## #8 — How has Debby's role in the practice evolved?
+
+Her role has changed in a beautiful way. She has developed her own consistency in getting to the gym.
+
+One of the favorite moments now: leaving the gym floor tired and sweaty, and running into her coming up the stairs to do her exercise. One day she even kissed him right there on the gym floor — sweaty and all.
+
+They have been supporting one another by inspiring one another. There is a lot to talk about too.
+
+*Notes for writing: This is one of the warmest moments in the entire book. The practice that began as a solo decision on a two-hour drive has become something shared. Debby went from quietly skeptical to showing up consistently herself. The gym floor kiss is specific and vivid — use it. It's the kind of detail that makes the reader feel something. The practice didn't just change Brian. It created something between them. That's the Renewal Loop in a marriage: contribution fueling recovery, recovery fueling contribution, the loop running between two people who are both building something. This belongs in Chapter 9 (the trusted circle) and possibly the Conclusion.*
+
+---
+## #10 — When did the inner advocate start winning more often?
+
+The practice really started to take hold after fighting through a few of those days where going to the gym was the last thing wanted — and going anyway and doing the work. The Pictures keyword was huge in those moments, so the shift clearly came after it was established.
+
+Now the inner critic knows better than to pick a fight. It only finds an opening when something small goes wrong — like forgetting the earbuds — and gives it a tiny crack to work with.
+
+*Notes for writing: "The inner critic knows better than to pick a fight" is one of the most satisfying lines in the book. It names a real shift — not the elimination of the inner critic, but the establishment of a track record that makes the inner critic's arguments harder to sustain. The advocate has receipts. The critic knows it. The earbuds detail connects directly to One Dead Earbud Away — small environmental friction as the inner critic's last reliable weapon. Close the gap and the critic loses its opening. This belongs in Chapter 5 (inner critic) and Chapter 7 (environment design).*
+
+---
+## #6 — What did Debby actually think that day? Has she ever told you?
+
+She has never said it out loud. But her actions spoke volumes — helping with healthy choices, making great meals at home.
+
+The decision wasn't made into a big deal after the ride home from dropping Jacob off. The choice was to show rather than talk about it. She is very smart and notices and respects real action.
+
+As a lawyer, she is trained to be skeptical. That's one of the things that makes her so amazing as a wife and life partner. It's a high standard — and for Brian, that is a good thing. Nearly 37 years together is a pretty solid receipt.
+
+*Notes for writing: "Nearly 37 years together is a pretty solid receipt." That line belongs in the book. The whole receipts framework applied to a marriage. Debby didn't need to say she believed — she showed it through the healthy meals, the support, the gym floor kiss. And he showed her he was serious by showing up, not talking about it. Two people who communicate through action rather than declaration. The skeptical lawyer who became his most consistent supporter. That's the circle doing its work quietly and over a very long time.*
+
+---
+## Wildcard — The Harbor Concept (May 8, 2026)
+
+*Captured May 8, 2026. Source: Arnold's Pump Club Weekly Wisdom, Adam Bornstein.*
+
+The harbor concept arrived in the Pump Club newsletter and maps directly onto the origin story.
+
+The two-hour drive home from dropping Jacob at college was the moment of leaving the harbor. Not from confidence — from commitment. The comfort zone didn't feel like fear before that drive. It felt like wisdom. "I've tried before and failed. I'm not ready. I need more time." All reasonable sentences. All harbor language.
+
+Commitment isn't confidence. Confidence comes after. One boring win at a time.
+
+Key phrases worth holding for the book:
+- "Your comfort zone doesn't feel like fear. It feels like wisdom." — the inner critic's most sophisticated disguise
+- "Commitment isn't confidence. Confidence comes after." — the origin story in one sentence
+- "Familiarity and fulfillment are not the same thing." — the drift concept in five words
+- "Almost ready is harbor language." — the inner critic's most patient move
+- "Ships are safe in harbor, but that's not what ships are built for." — John A. Shedd (attributed, verify before publication)
+
+*Notes for writing: The harbor metaphor could work in Chapter 1, Chapter 5, or the Introduction. The two-hour drive was the moment of leaving the dock. Not dramatic. Not transatlantic. Just one nautical mile — get in the gym tomorrow. That was enough.*
+
+---
