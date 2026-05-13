@@ -330,5 +330,19 @@ The specific scenario: waking at 4:30am to use the bathroom, not wanting to go b
 
 ---
 
-*Total questions: 140*
-*Last updated: April 23, 2026*
+## New Questions — Added May 9, 2026
+
+*Generated from consistency post development. All three answered in personal stories file.*
+
+### Consistency and the Practice
+
+141. Describe a session early in the practice that was clearly suboptimal — the body refused, the weight had to drop, you went through the motions. What did continuing anyway teach you about consistency vs. perfection? ✓ *Answered — the leg press moment, the church parallel, the inner critic going quiet once adaptation happens.*
+
+142. Before February 2025, what was your biggest failure mode at the gym? What specific friction — environmental, emotional, or otherwise — derailed you most often? And what design decision in February 2025 changed that? ✓ *Answered — steady state cardio only, software upgrade derailing the session, TV doomscrolling, the decision to just get there with the whole self.*
+
+143. In October 2025, during Mom's decline, the practice showed up in a hospital room in a specific way. Describe that day and what being present made possible. ✓ *Answered — Mom's fractured back, the hospice conversation, "I was present because I put myself first."*
+
+---
+
+*Total questions: 143*
+*Last updated: May 9, 2026*
