@@ -1145,3 +1145,16 @@ Mom knew she was nearing the end of her earthly life. All she wanted was to not 
 *Notes for writing: This is one of the most profound moments in the book. The morning workout before the hospital visit was not incidental — it was what made the presence possible. The inner advocate's argument during Mom's decline had been: take care of yourself so you can take care of others. This moment proves it was right. The practice wasn't selfishness. It was preparation. "I was present because I put myself first." That sentence belongs in the book verbatim — probably in Chapter 10 (The Two Sides of the Practice) and in the consistency post. The nurse practitioner's question about hospice care arriving on exactly the right day, with exactly the right person in the room, in exactly the right state of mind — that is not coincidence. That is the practice delivering.*
 
 ---
+## Consistency Post — Question 5: The Season That Could Have Ended It
+
+The period from the end of July 2025 through December 2025 — while caring for Mom — was the real adversity. Not the earbuds. Not the missing socks. Real adversity.
+
+Many days were emotionally exhausted from doing the job and supporting Mom simultaneously. It would have been easy and completely justifiable to quit and try again later. Nobody would have blamed the decision.
+
+The choice was to not let it stop. Just get up and get there.
+
+What was discovered: it added energy rather than depleting it. The practice didn't drain from a limited reserve. It replenished it. Showing up for the practice made showing up for Mom possible.
+
+*Notes for writing: This is the definitive answer to the question "what is consistency for?" It is not for the easy days. It is for exactly this season — when the adversity is real, the justification for quitting is legitimate, and the practice has to meet something genuinely hard. "I decided to not let it stop me." That sentence is the central expression of the book lived out in the most personal possible way. Self-discipline meeting adversity and winning — not dramatically, but quietly, one morning at a time, through the hardest season. "Found it added energy rather than depleting it" — this is the Renewal Loop confirmed from personal experience. The practice feeds itself when it's most needed. This belongs in the consistency post, Chapter 10 (Recovery), and the Introduction.*
+
+---
