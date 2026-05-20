@@ -522,4 +522,17 @@ Penguin Press, 2023
 
 ---
 
-*Last updated: April 10, 2026*
+### Snyder, C. R., Rand, K., King, E., Feldman, D., & Woodward, J. T.
+**"'False' Hope"**
+*Journal of Clinical Psychology*, 58(9), 1003–1022. 2002.
+DOI: 10.1002/jclp.10096
+- Reviews processes that lessen hope in children and adults — the closest existing research to the concept of "hope drains"
+- Key finding: higher hope consistently relates to better outcomes across academics, athletics, physical health, and psychological adjustment
+- Using the Hope Theory definition, the paper finds no evidence for "false" hope — hope grounded in agency and pathways is real hope
+- **Connection to post:** "Hope drains" is Brian's practical term for Snyder's "processes that lessen hope." The concept is grounded in this research; the language is original.
+- **Status:** Referenced — not read in full by Brian. Summary drawn from abstract and secondary sources.
+- **Possible relevance:** Hope drains post, Chapter 5 (Inner Critic), Chapter 8 (Drift)
+
+---
+
+*Last updated: May 20, 2026*
