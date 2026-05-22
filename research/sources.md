@@ -336,9 +336,16 @@ Gotham Books, 2012
 - **Status:** To be reviewed for relevant passages
 
 ### Fewell, Jesse
-**Untapped Agility**
-- Brian is the subject of Chapter 7: "Look in the Mirror"
-- **Status:** Brian has firsthand knowledge; chapter to be reviewed for relevant passages
+**Untapped Agility: Seven Leadership Moves to Take Your Transformation to the Next Level**
+Berrett-Koehler Publishers, July 21, 2020. ISBN: 9781523088300.
+- Brian is the subject of Chapter 7: "Look in the Mirror" (p. 123)
+- Chapter 7 tells the story of Brian's agile transformation leadership at 3M beginning in 2017 — the imposter syndrome hitting as the work scaled to 1,000 people, the mindfulness breakthrough via Dr. Michael Gervais, and the moment Brian pulled out of "the pit of despair" and could see a path forward again
+- Key passage: "There was an inflection point where I pulled out of the pit of despair. I was able to say to myself, 'Wait a second. Okay, this self doubt is really stupid. I see where we need to go. I see a path to get there. And you know what? I'm not going to get it perfect but I got this.' That moment of self-care prompted even more energy. Color came back into my life."
+- Fewell's framing: "An organization's level of agility cannot exceed the level of agility of its leaders" — substitute hope for agility and the same principle holds
+- Joiner's Reflective Capacity cycle (assess, diagnose, set intentions, act, reassess) is documented in this chapter — relevant to the retrospective section of the hope drains post and ABS Principle 12
+- **Connection to hope leadership post:** The "color came back" moment is a hope recovery story inside a leadership story. Brian's capacity to lead returned the moment he could see agency and pathways again.
+- **Status:** Chapter 7 read and extracted ✓. Full book available as uploaded PDF.
+- **Possible relevance:** Hope leadership post, hope drains post (retrospective section), Chapter 5 (Inner Critic), Chapter 10 (Renewal Loop)
 
 ---
 
