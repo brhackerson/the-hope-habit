@@ -27,10 +27,10 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 ### Chapter 1: The Lie We Tell Ourselves About Hope
 
-7. How many times had you tried to make a significant health change before this one? What happened each time?
+7. ✓ How many times had you tried to make a significant health change before this one? What happened each time?
 8. What did your inner critic sound like in those previous attempts? What did it tell you?
-9. Was there a specific moment — a rock bottom, a wake-up call, a quiet realization — that felt different from the attempts before?
-10. What did hope mean to you before this journey? How has that definition changed?
+9. ✓ Was there a specific moment — a rock bottom, a wake-up call, a quiet realization — that felt different from the attempts before?
+10. ✓ What did hope mean to you before this journey? How has that definition changed?
 11. When you first heard or read about Snyder's Hope Theory, what resonated? What surprised you?
 
 ### Chapter 2: What Hope Actually Is
@@ -52,7 +52,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 20. How did the Agile Best Self framework come to exist? What problem were you and Michaele trying to solve?
 21. Which of the 12 Agile Best Self principles showed up most powerfully in this journey — and when?
 22. What does Jeff Sutherland's work mean to you personally, beyond the professional context?
-23. What did Jesse Fewell capture in Chapter 7 of Untapped Agility that felt true about you?
+23. ✓ What did Jesse Fewell capture in Chapter 7 of Untapped Agility that felt true about you?
 24. Looking back, what foundation was already in place before the journey began that made it possible?
 
 ### Chapter 5: Silencing What Holds You Back
@@ -62,7 +62,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 27. Describe a specific morning when the inner critic was winning — and what happened next.
 28. How do you use the 5 second rule in the weight room? Walk me through a specific moment.
 29. What has it felt like to write publicly about this journey? Was there a moment of vulnerability that surprised you?
-30. What are you most afraid people will think when they read this book?
+30. ✓ What are you most afraid people will think when they read this book?
 
 ---
 
