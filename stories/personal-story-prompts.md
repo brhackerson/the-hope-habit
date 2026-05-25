@@ -18,8 +18,8 @@ Answer as much or as little as feels right for each question. Some will unlock a
 2. What was your mother's condition at that point? What did it feel like to be in that season with her?
 3. When did you first connect the word "hope" to your health journey? Was it immediate or did it come later?
 4. What did the doctor's visit look like — the one that made things very clear? What did the doctor say? What did you feel in that moment?
-5. What was the exact decision you made? How did you frame it to yourself at the time?
-6. Who did you tell first about the decision? What was their reaction?
+5. ✓ What was the exact decision you made? How did you frame it to yourself at the time?
+6. ✓ Who did you tell first about the decision? What was their reaction?
 
 ---
 
@@ -28,10 +28,10 @@ Answer as much or as little as feels right for each question. Some will unlock a
 ### Chapter 1: The Lie We Tell Ourselves About Hope
 
 7. ✓ How many times had you tried to make a significant health change before this one? What happened each time?
-8. What did your inner critic sound like in those previous attempts? What did it tell you?
+8. ✓ What did your inner critic sound like in those previous attempts? What did it tell you?
 9. ✓ Was there a specific moment — a rock bottom, a wake-up call, a quiet realization — that felt different from the attempts before?
 10. ✓ What did hope mean to you before this journey? How has that definition changed?
-11. When you first heard or read about Snyder's Hope Theory, what resonated? What surprised you?
+11. ✓ When you first heard or read about Snyder's Hope Theory, what resonated? What surprised you?
 
 ### Chapter 2: What Hope Actually Is
 
@@ -45,11 +45,11 @@ Answer as much or as little as feels right for each question. Some will unlock a
 16. What did you learn from Keep Sharp that changed how you thought about your health choices?
 17. Did you notice a change in how you felt mentally and cognitively as the physical transformation progressed? What did that feel like?
 18. How did sleep become part of the practice? Was that intentional from the start or did you discover its importance along the way?
-19. What role did nutrition play — specifically intermittent fasting? How did you arrive at that approach?
+19. ✓ What role did nutrition play — specifically intermittent fasting? How did you arrive at that approach?
 
 ### Chapter 4: The Foundation You're Already Standing On
 
-20. How did the Agile Best Self framework come to exist? What problem were you and Michaele trying to solve?
+20. ✓ How did the Agile Best Self framework come to exist? What problem were you and Michaele trying to solve?
 21. Which of the 12 Agile Best Self principles showed up most powerfully in this journey — and when?
 22. What does Jeff Sutherland's work mean to you personally, beyond the professional context?
 23. ✓ What did Jesse Fewell capture in Chapter 7 of Untapped Agility that felt true about you?
@@ -59,9 +59,9 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 25. What does your inner critic sound like? Give it a voice. What are its favorite lines?
 26. What does your inner advocate sound like? When does it show up?
-27. Describe a specific morning when the inner critic was winning — and what happened next.
+27. ✓ Describe a specific morning when the inner critic was winning — and what happened next.
 28. How do you use the 5 second rule in the weight room? Walk me through a specific moment.
-29. What has it felt like to write publicly about this journey? Was there a moment of vulnerability that surprised you?
+29. ✓ What has it felt like to write publicly about this journey? Was there a moment of vulnerability that surprised you?
 30. ✓ What are you most afraid people will think when they read this book?
 
 ---
@@ -71,8 +71,8 @@ Answer as much or as little as feels right for each question. Some will unlock a
 ### Chapter 6: Purpose — Find Your Why and Make It a Keyword
 
 31. Tell me the full story of how "Pictures" became your keyword. Was there a specific moment it arrived?
-32. Describe a specific morning when the word "Pictures" saved you. What was happening and what did the word do?
-33. When you picture the photographs that will outlive you, what do you see specifically? Who is in them?
+32. ✓ Describe a specific morning when the word "Pictures" saved you. What was happening and what did the word do?
+33. ✓ When you picture the photographs that will outlive you, what do you see specifically? Who is in them?
 34. What future moment are you most hoping toward right now?
 35. What would you tell someone who can't find their keyword? What question would you ask them?
 
@@ -88,37 +88,37 @@ Answer as much or as little as feels right for each question. Some will unlock a
 ### Chapter 8: Mastery — Measuring What Actually Matters
 
 42. Describe the moment you noticed the plateau. What did you feel? What did you do?
-43. When did you first shift your focus from weight to lean muscle mass? Who or what led you there?
-44. What did it feel like to realize the scale had been lying to you about your own progress?
-45. What metrics matter most to you now — and how did you arrive at them?
-46. Have you taken the Hope Scale? If so, what did you learn about yourself?
+43. ✓ When did you first shift your focus from weight to lean muscle mass? Who or what led you there?
+44. ✓ What did it feel like to realize the scale had been lying to you about your own progress?
+45. ✓ What metrics matter most to you now — and how did you arrive at them?
+46. ✓ Have you taken the Hope Scale? If so, what did you learn about yourself?
 
 ### Chapter 9: You Can't Build It Alone
 
-47. Describe your relationship with your doctor in the context of this journey. What has that partnership looked like?
-48. Who are the people at the gym who became part of the fabric of the habit? Tell me about one of them.
-49. How has your wife supported this journey without inserting control? Can you give a specific example?
-50. Was there a moment when you needed your circle and they showed up? What happened?
-51. Was there a moment when you needed your circle and they weren't there? What did that teach you?
-52. Who else belongs in your trusted circle that we haven't talked about yet?
+47. ✓ Describe your relationship with your doctor in the context of this journey. What has that partnership looked like?
+48. ✓ Who are the people at the gym who became part of the fabric of the habit? Tell me about one of them.
+49. ✓ How has your wife supported this journey without inserting control? Can you give a specific example?
+50. ✓ Was there a moment when you needed your circle and they showed up? What happened?
+51. ✓ Was there a moment when you needed your circle and they weren't there? What did that teach you?
+52. ✓ Who else belongs in your trusted circle that we haven't talked about yet?
 
 ### Chapter 10: The Two Sides of the Practice
 
 53. What was the hardest thing to give up — alcohol, sugar, something else? What made it hard?
 54. How did you reframe reduction as protection rather than deprivation? Was there a specific moment that shift happened?
-55. Describe a recovery ritual that matters to you — the hot tub, a rest day, something else. What does it feel like?
+55. ✓ Describe a recovery ritual that matters to you — the hot tub, a rest day, something else. What does it feel like?
 56. Have you ever pushed too hard and paid a price for it? What happened and what did you learn?
 57. What does Principle 8 — being more over doing more — actually look like in your daily life?
 
 ### Chapter 11: The Ritual That Found Me
 
-58. Tell me the full story of the first time you picked up a dumbbell corresponding to weight you'd lost. Where were you? What prompted it?
+58. ✓ Tell me the full story of the first time you picked up a dumbbell corresponding to weight you'd lost. Where were you? What prompted it?
 59. What did it feel like to hold the 10 lb dumbbell? The 50? The 85?
 60. When did you realize this had become a ritual — that it meant something beyond tracking progress?
 61. Describe the moment with the 85 lb dumbbell in as much detail as you can.
 62. What were you thinking during the ritual — what thoughts or feelings came up as you held each weight?
 63. Did anyone at the gym witness these moments? What did they say or do?
-64. What does it mean to you that the gym is called Life Time?
+64. ✓ What does it mean to you that the gym is called Life Time?
 
 ---
 
@@ -126,7 +126,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 ### Chapter 12: Hope Has a Target
 
-65. Tell me the full golf story — when did you start, what did competitive play look like, when did it fade, and when did you decide to rededicate yourself?
+65. ✓ Tell me the full golf story — when did you start, what did competitive play look like, when did it fade, and when did you decide to rededicate yourself?
 66. What would it mean to you — specifically, emotionally — to break 80 consistently?
 67. What does walking 18 holes represent to you beyond the physical achievement?
 68. Describe the ride at the theme park you couldn't get on before. Where was it? What happened in that moment?
@@ -135,10 +135,10 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 ### Chapter 13: Hope Forward
 
-71. Tell me about your father's Alzheimer's journey. What was it like to watch? What did it teach you about presence and legacy?
+71. ✓ Tell me about your father's Alzheimer's journey. What was it like to watch? What did it teach you about presence and legacy?
 72. Tell me about your mother's final months. What was that season like for your family?
-73. What does it mean to be the oldest of four children in your family? What does that role carry?
-74. What do you want your children to say about you when they look at old photographs with their own children?
+73. ✓ What does it mean to be the oldest of four children in your family? What does that role carry?
+74. ✓ What do you want your children to say about you when they look at old photographs with their own children?
 75. Is there a specific moment with your parents that captures what you're hoping to give your own family?
 76. What did your mother's passing teach you about hope?
 
@@ -161,7 +161,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 91. Has there been a specific moment in the news or in your community where you felt the pull toward despair or cynicism? What did you do with that feeling?
 92. How does your hope practice help you stay engaged with the world without being consumed by it? What does that balance look like on a hard news day?
 93. What is the difference for you between being saddened by what's happening in the world and losing hope? How do you hold both?
-94. Is there a moment where you saw hope practiced in your community — by a neighbor, a stranger, an institution — that stayed with you?
+94. ✓ Is there a moment where you saw hope practiced in your community — by a neighbor, a stranger, an institution — that stayed with you?
 95. What do you want readers who are struggling with the state of the world to take from this book? What would you say to someone who feels like hope is naive given everything that's happening?
 96. What does it mean to build a hope practice for your grandchildren in a world that feels uncertain? What are you hoping toward on their behalf?
 
@@ -173,9 +173,9 @@ Answer as much or as little as feels right for each question. Some will unlock a
 83. What is a moment from this journey that you haven't told anyone yet?
 84. What is the hardest thing about writing this book?
 85. What do you most want readers to feel when they finish it?
-86. Who do you most want to read this book — is there a specific person you're writing it for?
+86. ✓ Who do you most want to read this book — is there a specific person you're writing it for?
 87. What would your mother think of this book?
-88. What does hope feel like in your body right now, today?
+88. ✓ What does hope feel like in your body right now, today?
 
 ---
 
@@ -247,8 +247,8 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 ### The Two-Hour Drive
 
-115. The inner critic on that drive was telling the truth about your past. How do you hold both things at once — acknowledging the receipts from the past while deciding to write new ones?
-116. The "what if" questions on the drive home were Pictures before Pictures had a name. When did you first notice that the future images you were reaching toward became the keyword?
+115. ✓ The inner critic on that drive was telling the truth about your past. How do you hold both things at once — acknowledging the receipts from the past while deciding to write new ones?
+116. ✓ The "what if" questions on the drive home were Pictures before Pictures had a name. When did you first notice that the future images you were reaching toward became the keyword?
 
 ### The Self-Discipline Framework
 
@@ -267,7 +267,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 ### Faith Dimension
 
-123. The Epiphany Sunday star word arrived one week after your mother passed. What do you make of that timing — was it coincidence, gift, or something else?
+123. ✓ The Epiphany Sunday star word arrived one week after your mother passed. What do you make of that timing — was it coincidence, gift, or something else?
 124. Warnock said the Resurrection is the original hope practice. What does that mean to you personally — not theologically, but in your own life?
 125. The life of Jesus maps precisely onto the self-discipline framework. Is that something you consciously built toward, or did you discover it after the fact?
 
@@ -290,11 +290,11 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 129. The 5am alarm has two battles, not one. The first is the inner critic in bed — what does the self-talk actually sound like when the advocate wins? Not the easy mornings. The hard ones. Walk me through the internal conversation and the moment two feet hit the floor and the conversation stops.
 
-130. The TV is the second battle — the one that arrives when you wake early to use the bathroom. The inner critic finds a reasonable-sounding argument: just sit for a few minutes. Most of the time you win this one. Sometimes you don't. What does winning feel like versus losing? And what does the cost of the TV feel like the rest of the day?
+130. ✓ The TV is the second battle — the one that arrives when you wake early to use the bathroom. The inner critic finds a reasonable-sounding argument: just sit for a few minutes. Most of the time you win this one. Sometimes you don't. What does winning feel like versus losing? And what does the cost of the TV feel like the rest of the day?
 
 The specific scenario: waking at 4:30am to use the bathroom, not wanting to go back to bed and disturb Debby. The living room couch feels like the considerate choice. The TV is there. The inner critic's argument sounds almost noble — you're being thoughtful about Debby's sleep. And then the couch wins. The second sleep that follows costs more than it gives — circadian rhythm disrupted, the whole day set back in how you feel and how the schedule runs. The TV isn't laziness. It's the most reasonable-sounding trap in the practice.
 
-131. The no-phone morning is an established habit. The TV is a different kind of friction — it arrives before the alarm, before the practice has officially started. How do you think about the gap between the alarm going off and the moment the practice is fully underway? Is there a ritual or a rule that closes that gap?
+131. ✓ The no-phone morning is an established habit. The TV is a different kind of friction — it arrives before the alarm, before the practice has officially started. How do you think about the gap between the alarm going off and the moment the practice is fully underway? Is there a ritual or a rule that closes that gap?
 
 ---
 
