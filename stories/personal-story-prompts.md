@@ -17,7 +17,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 1. Describe Epiphany Sunday 2025 in as much detail as you can remember. Where were you? What was the service about? What exactly happened when the word "hope" arrived?
 2. What was your mother's condition at that point? What did it feel like to be in that season with her?
 3. When did you first connect the word "hope" to your health journey? Was it immediate or did it come later?
-4. What did the doctor's visit look like — the one that made things very clear? What did the doctor say? What did you feel in that moment?
+4. ✓ What did the doctor's visit look like — the one that made things very clear? What did the doctor say? What did you feel in that moment?
 5. ✓ What was the exact decision you made? How did you frame it to yourself at the time?
 6. ✓ Who did you tell first about the decision? What was their reaction?
 
@@ -35,10 +35,10 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 ### Chapter 2: What Hope Actually Is
 
-12. Describe the morning the doctor's visit sank in. What did you do that day? What did you decide?
+12. ✓ Describe the morning the doctor's visit sank in. What did you do that day? What did you decide?
 13. What was the first small action you took? The very first one?
-14. When did you first feel like you had agency — like you were actually moving forward rather than just intending to?
-15. Was there a moment when you found a pathway you hadn't expected — a route that surprised you?
+14. ✓ When did you first feel like you had agency — like you were actually moving forward rather than just intending to?
+15. ✓ Was there a moment when you found a pathway you hadn't expected — a route that surprised you?
 
 ### Chapter 3: The Neuroscience of Hope
 
@@ -149,7 +149,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 79. What are you most proud of from this past year?
 80. What are you still working on — what part of the practice is still hard?
 81. What do you wish you had known at the beginning that you know now?
-82. What would you say to someone who is exactly where you were on the day of that doctor's visit?
+82. ✓ What would you say to someone who is exactly where you were on the day of that doctor's visit?
 
 ---
 
@@ -214,8 +214,8 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 ### The Infinite Game
 
-108. "Hope is the renewable fuel in the infinite game." Where did that idea come from — was it a moment of insight or something that built slowly? What does it mean to you personally?
-109. What is your infinite game? Not the health journey specifically — the larger game you are playing that has no finish line?
+108. ✓ "Hope is the renewable fuel in the infinite game." Where did that idea come from — was it a moment of insight or something that built slowly? What does it mean to you personally?
+109. ✓ What is your infinite game? Not the health journey specifically — the larger game you are playing that has no finish line?
 
 ### Agile Best Self Origins
 
