@@ -114,8 +114,14 @@ HarperOne, 2016
 - **Notes:** Specific insights and connections to hope practice to be added
 - **Status:** Read by Brian ✓
 
-
-**Meditation for Fidgety Skeptics: A 10% Happier How-to Book**
+**Everything Is F\*cked: A Book About Hope**
+Harper, May 14, 2019. ISBN: 9780062888433 (paperback), 9780062955937 (hardcover). 288 pages.
+- Central argument: the loss of hope in modern life comes from our inability to tolerate discomfort and our confusion about what is worth hoping for. A hope practice requires radical honesty about reality — not positive thinking, not wishful optimism, but clear-eyed action toward something that genuinely matters.
+- Chapter structure relevant to the book: "The Uncomfortable Truth," "Hope Is Fucked," "Pain Is the Universal Constant"
+- Manson's framing is counterintuitive and complementary to Snyder — where Snyder defines hope as agency and pathways, Manson diagnoses why modern people lose hope and what it costs them
+- Relevant quote (March 2026): "When you're outgrowing who you've been, you might feel like everything is falling apart. In reality everything is really just coming together for your highest good."
+- **Status:** Referenced — not read in full by Brian. Citation confirmed. Key arguments drawn from secondary sources and book description.
+- **Possible relevance:** Chapter 1 (hope vs. optimism, the cost of waiting), Introduction (world context): A 10% Happier How-to Book**
 Spiegel & Grau, 2017
 - Brian has read this book ✓
 - Key concepts relevant to the book:
@@ -228,7 +234,7 @@ Agilemanifesto.org, 2001
 
 ## Books Partially Reviewed by Brian
 
-### Duckworth, Angela
+### Duckworth, Dr. Angela
 **Grit: The Power of Passion and Perseverance**
 Scribner, 2016
 - Brian has seen the TED talk (one of the most watched ever) but has not read the book yet
@@ -336,16 +342,9 @@ Gotham Books, 2012
 - **Status:** To be reviewed for relevant passages
 
 ### Fewell, Jesse
-**Untapped Agility: Seven Leadership Moves to Take Your Transformation to the Next Level**
-Berrett-Koehler Publishers, July 21, 2020. ISBN: 9781523088300.
-- Brian is the subject of Chapter 7: "Look in the Mirror" (p. 123)
-- Chapter 7 tells the story of Brian's agile transformation leadership at 3M beginning in 2017 — the imposter syndrome hitting as the work scaled to 1,000 people, the mindfulness breakthrough via Dr. Michael Gervais, and the moment Brian pulled out of "the pit of despair" and could see a path forward again
-- Key passage: "There was an inflection point where I pulled out of the pit of despair. I was able to say to myself, 'Wait a second. Okay, this self doubt is really stupid. I see where we need to go. I see a path to get there. And you know what? I'm not going to get it perfect but I got this.' That moment of self-care prompted even more energy. Color came back into my life."
-- Fewell's framing: "An organization's level of agility cannot exceed the level of agility of its leaders" — substitute hope for agility and the same principle holds
-- Joiner's Reflective Capacity cycle (assess, diagnose, set intentions, act, reassess) is documented in this chapter — relevant to the retrospective section of the hope drains post and ABS Principle 12
-- **Connection to hope leadership post:** The "color came back" moment is a hope recovery story inside a leadership story. Brian's capacity to lead returned the moment he could see agency and pathways again.
-- **Status:** Chapter 7 read and extracted ✓. Full book available as uploaded PDF.
-- **Possible relevance:** Hope leadership post, hope drains post (retrospective section), Chapter 5 (Inner Critic), Chapter 10 (Renewal Loop)
+**Untapped Agility**
+- Brian is the subject of Chapter 7: "Look in the Mirror"
+- **Status:** Brian has firsthand knowledge; chapter to be reviewed for relevant passages
 
 ---
 
@@ -529,17 +528,4 @@ Penguin Press, 2023
 
 ---
 
-### Snyder, C. R., Rand, K., King, E., Feldman, D., & Woodward, J. T.
-**"'False' Hope"**
-*Journal of Clinical Psychology*, 58(9), 1003–1022. 2002.
-DOI: 10.1002/jclp.10096
-- Reviews processes that lessen hope in children and adults — the closest existing research to the concept of "hope drains"
-- Key finding: higher hope consistently relates to better outcomes across academics, athletics, physical health, and psychological adjustment
-- Using the Hope Theory definition, the paper finds no evidence for "false" hope — hope grounded in agency and pathways is real hope
-- **Connection to post:** "Hope drains" is Brian's practical term for Snyder's "processes that lessen hope." The concept is grounded in this research; the language is original.
-- **Status:** Referenced — not read in full by Brian. Summary drawn from abstract and secondary sources.
-- **Possible relevance:** Hope drains post, Chapter 5 (Inner Critic), Chapter 8 (Drift)
-
----
-
-*Last updated: May 20, 2026*
+*Last updated: April 10, 2026*

@@ -9,7 +9,7 @@
 
 [¹] Snyder, C. R. "Hope Theory: Rainbows in the Mind." *Psychological Inquiry*, 13(4), 249–275. 2002. Snyder defines hope as a cognitive motivational state comprising agency (goal-directed energy) and pathways (planning to meet goals). Full citation in sources.md.
 
-[²] Duckworth, Angela. *Grit: The Power of Passion and Perseverance*. Scribner, 2016. Duckworth's research demonstrates that grit — the combination of passion and perseverance — predicts success across academics, athletics, and professional domains. Full citation in sources.md.
+[²] Duckworth, Dr. Angela. *Grit: The Power of Passion and Perseverance*. Scribner, 2016. Duckworth's research demonstrates that grit — the combination of passion and perseverance — predicts success across academics, athletics, and professional domains. Full citation in sources.md.
 
 [³] Manson, Mark. *Everything Is F\*cked: A Book About Hope*. Harper, 2019. Manson argues that modern hopelessness stems from our inability to tolerate discomfort and our confusion about what is genuinely worth hoping for. Full citation in sources.md.
 

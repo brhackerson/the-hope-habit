@@ -36,20 +36,28 @@ The Agile and Scrum mindset as foundational context — not the subject of the b
 
 *Part One challenges the conventional understanding of hope and replaces it with something more honest, more useful, and more powerful. By the end of this section the reader understands what hope actually is, why it requires action, and what gets in the way of building it.*
 
-### Chapter 1: The Lie We Tell Ourselves About Hope
+### Chapter 1: What I Got Wrong About Hope
 Most of us have been waiting for hope to show up like a feeling — a mood, a disposition, a gift the optimists have in abundance and the rest of us wait for. That waiting is the lie. Hope is not a feeling. It is something you do.
 
-Snyder's Hope Theory introduced — agency and pathways as the two engines of real hope. Both require action. Neither is passive. Hope is cognitive, not emotional — a motivational state directed at specific goals through specific routes.
+The chapter opens with the author's honest accounting of 2020: not a life in crisis, but a life where health kept getting pushed to the back of the line while everything else felt more urgent. A good marriage, meaningful work, close family — and a body accumulating the quiet cost of neglect.
 
-How is this different from grit? Duckworth's grit is about staying the course. Hope is about finding the course, losing it, and finding it again. Grit says keep going. Hope says keep looking for the way. You need both — but they are not the same thing.
+The inner critic introduced — the ego's protection mechanism, running a constant commentary on limitations and worthiness. Its formula: "You can't... fill in the blank." Imposter syndrome introduced as a close cousin — where the inner critic runs as background noise, imposter syndrome activates in triggered moments of exposure. The shorthand: the inner critic says "you can't." Imposter syndrome says "you don't belong." Both are wrong far more often than they are accurate.
 
-How is this different from optimism? Optimism is a disposition — warm and useful, but ultimately passive. It denies the tragedy of the human experience. Hope recognizes the tragedy — a Crucifixion, a tomb — and says the tomb does not get the last word. Senator Raphael Warnock, Easter 2026, from Ebenezer Baptist Church: "The Resurrection is the original hope practice."
+Bridge paragraph: what changed first was not the circumstances, but the definition of hope. The wrestling happened during the author's mother's final weeks in 2025. The church meeting in February 2026 solidified it — people describing hope not as a feeling to wait for, but as something they were doing consistently in the direction of something that mattered.
+
+Snyder's Hope Theory introduced — agency and pathways as the two engines of real hope. Agency: the belief that your choices matter and can change what happens next. Pathways: the ability to find or create alternative strategies when the obvious route is blocked. Both require action. Neither is passive. Hope is cognitive, not emotional. Concrete everyday example of the practice: the 5 am training routine as hope made visible.
+
+How is this different from grit? Dr. Angela Duckworth's grit is about staying the course. Hope is about finding the course, losing it, and finding it again. Grit says keep going. Hope says keep looking for the way. You need both — but they are not the same thing.
+
+How is this different from optimism? Dr. Michael Gervais — optimism is a trainable disposition, but ultimately a stance toward the future rather than a plan for navigating it. The father as illustration: eternal optimist who kept moving but paid with his health because optimism didn't give him a practice. Optimism says things will be okay. Hope shows you what to do next.
 
 Manson's counterintuitive framing — *Everything is F*cked* argues that the loss of hope in modern life comes from our inability to tolerate discomfort and our confusion about what is worth hoping for. A hope practice requires radical honesty about reality — not positive thinking, not wishful optimism, but clear-eyed action toward something that genuinely matters.
 
-*Story woven in:* The years of knowing what to do and not doing it. The information. The intention. The failed attempts. The inner critic winning too many mornings in a row.
+Senator Raphael Warnock, Easter 2026, from Ebenezer Baptist Church: "The Resurrection is the original hope practice. The win is not the absence of the tomb. The win is that the tomb does not get the last word." Faith disclaimer included: readers who don't share the tradition are invited to take the principle and set the framing aside.
 
-*Key sources:* Snyder (Hope Theory 2002), Duckworth (Grit), Manson (Everything is F*cked), Warnock (Easter 2026)
+Chapter closes with a forward signpost to agency, pathways, the circle, and the anchor — and the invitation: you can do difficult things when the why is important enough.
+
+*Key sources:* Snyder (Hope Theory 2002), Dr. Angela Duckworth (Grit), Dr. Michael Gervais (First Rule of Mastery), Manson (Everything is F*cked), Warnock (Easter 2026)
 
 ### ✅ RESOLVED — "Win" Language
 The concern about the word "win" in the central expression — raised by a Lutheran pastor friend who is Director of Chaplains at Mayo Clinic — is now addressed through Senator Warnock's Easter 2026 framing: "The win is not the absence of the tomb. The win is that the tomb does not get the last word." For someone on a recoverable journey, the win looks like forward momentum. For someone in an impossible situation, the win looks like the story continuing — one more day of presence, one more act of meaning. The Resurrection doesn't erase the Crucifixion. It says the Crucifixion was not the end. That is wide enough for everyone. This resolution belongs explicitly in Chapter 1 and the Introduction.

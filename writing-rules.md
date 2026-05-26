@@ -68,10 +68,15 @@ Personal story captures stay raw and unpolished. These rules do not apply to the
 
 ---
 
-## Formatting
+## Word Document Formatting
 
-- No excessive bold, headers, or bullet points in prose. Write in flowing paragraphs.
-- Substack publishes first. agilebestself.com reposts more slowly.
+- No first-line paragraph indents in Word documents
+- Times New Roman 12pt body text
+- Double-spaced, justified alignment
+- Wide right margin (1.8 inches) for markup room
+- Section breaks marked with asterisks (* * *)
+- Superscript endnote numbers in text
+- Endnotes page followed by chapter notes page at back
 
 ---
 
