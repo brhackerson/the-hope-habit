@@ -1,7 +1,7 @@
 # Writing Rules
 ## Hope is Not a Feeling: It's a Practice Worth Building
 *By Brian Hackerson*
-*Last updated: May 23, 2026*
+*Last updated: May 27, 2026*
 
 ---
 
@@ -49,6 +49,7 @@ Personal story captures stay raw and unpolished. These rules do not apply to the
 - Write "5 am" not "5am."
 - Use "Dr." for all confirmed PhDs and medical doctors.
 - Agile Best Self is always a mindset, never a framework.
+- When referencing Agile Best Self in any post, include a brief grounding sentence on first use for readers who may not know it. One sentence is enough: "Agile Best Self is a mindset developed to apply agile principles to personal growth and self-care." Adjust wording to fit the context naturally — the goal is orientation, not a full explanation.
 
 ---
 
