@@ -1527,3 +1527,28 @@ That's the inspect and adapt principle applied to one of the sneakiest failure m
 
 *Notes for writing: The "inner critic dressed as consideration" framing is the key insight here — the most dangerous hope drains are the ones that sound almost virtuous. Keep any political references out of the published version entirely. The micro-friction engineering connects directly to Chapter 7 (environment design) and the hope drains post (engineering your practice to avoid drains). "You don't fix it by willpower. You fix it by removing the conditions that make it possible." — worth protecting. Connects to Chapter 3 (sleep as physical infrastructure), Chapter 7 (environment design), and the hope drains post.*
 
+
+---
+
+## #144 — Nutrition and the brain: what did eating better actually do to your thinking?
+
+The connection between nutrition and how I felt cognitively became clear once I started paying close attention. It wasn't dramatic at first — more like a gradual tuning. The more mindful I became about what I was eating, the more I noticed the relationship between specific foods and how my mind felt afterward. That awareness became the feeling I sought. Once I had it, it made decisions easier, especially in restaurants. The question stopped being "what sounds good?" and became "what makes me feel good?" Those are different questions with different answers.
+
+Of all the cognitive improvements, mindfulness improved the most. The practice sharpened my ability to pay attention to what was actually happening in my body, not just whether I was full or hungry, but whether I felt clear or foggy, energized or flat.
+
+The specific learning happened through simple contrasts. Onion rings make me feel terrible. A side salad instead makes a noticeable difference. That's the whole framework in one restaurant decision. Proteins in moderation feel good. Green vegetables feel good. Sweet potatoes are a staple — soul food that also performs. More recently, peanuts came off the list. I had been eating them in quantity to hit protein targets, but the sodium and fat load that came with them didn't feel good. The protein goal was right. The vehicle was wrong. Alcohol was another clear signal: even one beer impacts sleep quality measurably. Zero beers is better. An NA beer covers the social and sensory experience on the occasions when that matters.
+
+*Notes for writing: The "what sounds good vs. what makes me feel good" distinction is worth using close to as-stated — it captures the cognitive shift from reactive eating to intentional eating in one sentence. The onion rings example is specific and relatable — use it. The sweet potatoes detail is human and worth keeping. The peanuts detail is a recent inspect-and-adapt example worth including. The alcohol/sleep connection ties directly to the sleep section of Chapter 3. The mindfulness improvement is the key cognitive claim here — the practice sharpened attention to internal state, which is a genuine cognitive skill. Connects to Chapter 3 (nutrition as brain infrastructure, mindfulness), Chapter 2 (the food window, intermittent fasting), and the Big Lessons Learned post.*
+
+---
+
+## #145 — The training session as brain investment: what does a completed morning workout do for your mental state?
+
+Since February 2025, I have always felt good when I leave the gym. Without exception. That's not a small thing — it's one of the most consistent receipts in the entire practice.
+
+What "feel good" means is all of it at once: energy, mood, clarity, confidence. Some mornings I walk in already thinking about the work day ahead, already questioning whether I can rise to a particular challenge. That mindset shifts after the workout, most of the time. I am not perfect, but the probabilities increase dramatically. The gym doesn't just build the body. It resets the mind before the day has a chance to set the terms.
+
+The difference between a day that starts in the gym and one that doesn't is measurable and consistent. The gym day starts with a receipt. The non-gym day starts without one.
+
+*Notes for writing: "Always, always, always feel good" is the kind of unqualified statement that earns trust precisely because it's so unqualified — worth using close to verbatim. The "probabilities increase dramatically" language connects directly to the 90% framing of Chapter 3 — the practice works on the odds, not the guarantee. The "resets the mind before the day has a chance to set the terms" line is worth protecting. The gym as receipt generator connects to Chapter 3 (exercise as brain infrastructure, BDNF), Chapter 2 (agency, the first morning), and Chapter 7 (the routine).*
+
