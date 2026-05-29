@@ -1552,3 +1552,38 @@ The difference between a day that starts in the gym and one that doesn't is meas
 
 *Notes for writing: "Always, always, always feel good" is the kind of unqualified statement that earns trust precisely because it's so unqualified — worth using close to verbatim. The "probabilities increase dramatically" language connects directly to the 90% framing of Chapter 3 — the practice works on the odds, not the guarantee. The "resets the mind before the day has a chance to set the terms" line is worth protecting. The gym as receipt generator connects to Chapter 3 (exercise as brain infrastructure, BDNF), Chapter 2 (agency, the first morning), and Chapter 7 (the routine).*
 
+
+---
+
+## #145 — The training session as brain investment: what does a completed morning workout do for your mental state?
+
+Since February 2025, I have always felt good when I leave the gym. Without exception. That's not a small thing — it's one of the most consistent receipts in the entire practice.
+
+What "feel good" means is all of it at once: energy, mood, clarity, confidence. Some mornings I walk in already thinking about the work day ahead, already questioning whether I can rise to a particular challenge. That mindset shifts after the workout, most of the time. I am not perfect, but the probabilities increase dramatically. The gym doesn't just build the body. It resets the mind before the day has a chance to set the terms.
+
+The difference between a day that starts in the gym and one that doesn't is measurable and consistent. The gym day starts with a receipt. The non-gym day starts without one.
+
+*Notes for writing: "Always, always, always feel good" is the kind of unqualified statement that earns trust precisely because it's so unqualified — worth using close to verbatim. The "probabilities increase dramatically" language connects directly to the 90% framing of Chapter 3 — the practice works on the odds, not the guarantee. The "resets the mind before the day has a chance to set the terms" line is worth protecting. The gym as receipt generator connects to Chapter 3 (exercise as brain infrastructure, BDNF), Chapter 2 (agency, the first morning), and Chapter 7 (the routine).*
+
+---
+
+## Father — Additional Detail for Chapter 3 and Beyond
+
+The decline was gradual enough that there is no identifiable last real conversation. It didn't end with a final exchange that could be named and remembered. It just slowly became impossible. That's what Alzheimer's does — it takes the person in increments, and the loss accumulates before you realize what's gone.
+
+What remains is a visit to the cemetery, occasionally, where the conversation continues in the only form still available. The content of those visits is rooted in a conversation from 2006, after his mother — Brian's grandmother — died. He was still fully himself then. He sat down and asked Brian to be a better steward of the wealth he and his wife had built. He was direct and serious. He needed Brian to show up when he couldn't. They went through everything together — where it was, what his priorities were, what mattered most. Top of mind: make sure Mom was taken care of if he went first.
+
+He handed over the responsibility while he was still capable of doing it. Brian carried it. Now he stands at the grave and reports back.
+
+He wasn't just a supporter. He was a man who trusted his son with the most important things he had, at the moment he needed to be sure.
+
+**Fort Snelling, May 1, 2026**
+
+His father was a veteran. His remains are at Fort Snelling National Cemetery. On May 1, 2026, Brian led his mother's internment there — the final act in a decade-long stewardship of everything his father had asked him to carry.
+
+Before the ceremony, he visited his father's grave and reported that the work was done. The estate had closed the day before. Every promise kept. Every responsibility discharged. He had led his mother and siblings through the planning and execution of the entire journey from beginning to end.
+
+He stood there with his head held high. A few tears. Three words: Rest easy, Dad. The work is done.
+
+*Notes for writing: This is one of the most complete receipts in the entire book — a decade-long promise fully honored, reported back to the man who asked for it at the place he rests. The estate closing the day before the internment is the kind of timing that doesn't need embellishment. "Head held high" and "rest easy, Dad" should appear in the book close to verbatim. The clarity and lightness Brian noticed after the responsibilities lifted connects directly to Chapter 3's cognitive theme — the practice works on the mind as well as the body, and closing out a decade of stewardship freed cognitive space in a way that is measurable and real. This moment may belong in the Introduction or the Conclusion as much as Chapter 3 — worth discussing placement. Connects to Chapter 3 (cognitive load, the father), Chapter 2 (the infinite game, the fear), and the book's central arc.*
+
