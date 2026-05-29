@@ -114,14 +114,8 @@ HarperOne, 2016
 - **Notes:** Specific insights and connections to hope practice to be added
 - **Status:** Read by Brian ✓
 
-**Everything Is F\*cked: A Book About Hope**
-Harper, May 14, 2019. ISBN: 9780062888433 (paperback), 9780062955937 (hardcover). 288 pages.
-- Central argument: the loss of hope in modern life comes from our inability to tolerate discomfort and our confusion about what is worth hoping for. A hope practice requires radical honesty about reality — not positive thinking, not wishful optimism, but clear-eyed action toward something that genuinely matters.
-- Chapter structure relevant to the book: "The Uncomfortable Truth," "Hope Is Fucked," "Pain Is the Universal Constant"
-- Manson's framing is counterintuitive and complementary to Snyder — where Snyder defines hope as agency and pathways, Manson diagnoses why modern people lose hope and what it costs them
-- Relevant quote (March 2026): "When you're outgrowing who you've been, you might feel like everything is falling apart. In reality everything is really just coming together for your highest good."
-- **Status:** Referenced — not read in full by Brian. Citation confirmed. Key arguments drawn from secondary sources and book description.
-- **Possible relevance:** Chapter 1 (hope vs. optimism, the cost of waiting), Introduction (world context): A 10% Happier How-to Book**
+
+**Meditation for Fidgety Skeptics: A 10% Happier How-to Book**
 Spiegel & Grau, 2017
 - Brian has read this book ✓
 - Key concepts relevant to the book:
@@ -234,7 +228,7 @@ Agilemanifesto.org, 2001
 
 ## Books Partially Reviewed by Brian
 
-### Duckworth, Dr. Angela
+### Duckworth, Angela
 **Grit: The Power of Passion and Perseverance**
 Scribner, 2016
 - Brian has seen the TED talk (one of the most watched ever) but has not read the book yet
@@ -528,4 +522,16 @@ Penguin Press, 2023
 
 ---
 
-*Last updated: April 10, 2026*
+### Ratey, Dr. John J., and Hagerman, Eric
+**Spark: The Revolutionary New Science of Exercise and the Brain**
+Little, Brown, 2008. ISBN: 9780316113519. 294 pages.
+- Central argument: aerobic exercise physically remodels the brain for peak performance — not just mood improvement, but measurable structural change
+- Key concept: BDNF (brain-derived neurotrophic factor) — Ratey describes it as "miracle-gro" for the brain. Exercise stimulates BDNF production, driving creation of new brain cells, strengthening synapses, and improving alertness, attention, and motivation
+- Exercise is documented as a defense against depression, anxiety, ADHD, addiction, and cognitive aging, including Alzheimer's
+- Relevant chapters: Learning, Stress, Aging — all connect to Brian's practice
+- **Status:** Referenced — not read in full by Brian. Citation confirmed. Key concepts drawn from secondary sources and book description.
+- **Possible relevance:** Chapter 3 (exercise as brain infrastructure, BDNF), Chapter 2 (the infinite game, Alzheimer's fear)
+
+---
+
+*Last updated: May 27, 2026*

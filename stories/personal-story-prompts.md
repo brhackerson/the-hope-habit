@@ -36,15 +36,15 @@ Answer as much or as little as feels right for each question. Some will unlock a
 ### Chapter 2: What Hope Actually Is
 
 12. ✓ Describe the morning the doctor's visit sank in. What did you do that day? What did you decide?
-13. ✓ What was the first small action you took? The very first one?
+13. What was the first small action you took? The very first one?
 14. ✓ When did you first feel like you had agency — like you were actually moving forward rather than just intending to?
 15. ✓ Was there a moment when you found a pathway you hadn't expected — a route that surprised you?
 
 ### Chapter 3: The Neuroscience of Hope
 
 16. What did you learn from Keep Sharp that changed how you thought about your health choices?
-17. ✓ Did you notice a change in how you felt mentally and cognitively as the physical transformation progressed? What did that feel like?
-18. ✓ How did sleep become part of the practice? Was that intentional from the start or did you discover its importance along the way?
+17. Did you notice a change in how you felt mentally and cognitively as the physical transformation progressed? What did that feel like?
+18. How did sleep become part of the practice? Was that intentional from the start or did you discover its importance along the way?
 19. ✓ What role did nutrition play — specifically intermittent fasting? How did you arrive at that approach?
 
 ### Chapter 4: The Foundation You're Already Standing On
@@ -292,7 +292,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 130. ✓ The TV is the second battle — the one that arrives when you wake early to use the bathroom. The inner critic finds a reasonable-sounding argument: just sit for a few minutes. Most of the time you win this one. Sometimes you don't. What does winning feel like versus losing? And what does the cost of the TV feel like the rest of the day?
 
-✓ The specific scenario: waking at 4:30am to use the bathroom, not wanting to go back to bed and disturb Debby. The living room couch feels like the considerate choice. The TV is there. The inner critic's argument sounds almost noble — you're being thoughtful about Debby's sleep. And then the couch wins. The second sleep that follows costs more than it gives — circadian rhythm disrupted, the whole day set back in how you feel and how the schedule runs. The TV isn't laziness. It's the most reasonable-sounding trap in the practice.
+The specific scenario: waking at 4:30am to use the bathroom, not wanting to go back to bed and disturb Debby. The living room couch feels like the considerate choice. The TV is there. The inner critic's argument sounds almost noble — you're being thoughtful about Debby's sleep. And then the couch wins. The second sleep that follows costs more than it gives — circadian rhythm disrupted, the whole day set back in how you feel and how the schedule runs. The TV isn't laziness. It's the most reasonable-sounding trap in the practice.
 
 131. ✓ The no-phone morning is an established habit. The TV is a different kind of friction — it arrives before the alarm, before the practice has officially started. How do you think about the gap between the alarm going off and the moment the practice is fully underway? Is there a ritual or a rule that closes that gap?
 
@@ -344,5 +344,13 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 ---
 
-*Total questions: 143*
-*Last updated: May 9, 2026*
+## New Questions — Added May 27, 2026 (Chapter 3)
+
+144. Nutrition and the brain: as the food window and eating habits changed, did you notice a difference in how you felt cognitively — focus, clarity, energy, mood? What did eating better actually do to your thinking?
+
+145. The training session as brain investment: beyond what it does for the body, what does a completed morning workout do for your mental state for the rest of the day? Describe the difference between a day that starts in the gym and one that doesn't.
+
+---
+
+*Total questions: 145*
+*Last updated: May 27, 2026*
