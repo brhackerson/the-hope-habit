@@ -1480,3 +1480,50 @@ But the infinite game is bigger than fear. It connects to the Hope Cycle — the
 
 *Notes for writing: The father contrast is essential here — not as blame, but as the clearest available illustration of what stopping looks like. The fear is real and specific, not just a literary device. The "building the next version of myself" language is Brian's and should appear close to as-stated. The connection to Why Power (Colla 2022) is the research anchor — hope fueled by goals larger than self-interest. Connects to Chapter 2 (infinite game, Why Power), Chapter 14 (the practice never ends), and the Hope Cycle framework throughout.*
 
+
+---
+
+## #13 — What was the first small action you took? The very first one?
+
+Get up the next morning and do a strength training session on my own. That's it. Just get there and do the work.
+
+*Notes for writing: The simplicity is the point. No grand plan, no elaborate system, no accountability partner. One commitment: show up tomorrow. The smallness of the first action is what made it executable. Connects to Chapter 2 (agency, the first morning), the Big Lessons Learned post (small commitments), and #14 (first feeling of agency).*
+
+---
+
+## #18 — How did sleep become part of the practice? Was that intentional from the start, or did you discover its importance along the way?
+
+Sleep is something I have paid attention to for years, long before the 2025 journey began. My father didn't have great sleep hygiene, so early on I decided that wasn't going to be an issue for me. About 15 years ago I was diagnosed with sleep apnea and started using a CPAP machine. In the 2025 health journey, once my face shape changed enough that the mask no longer fit correctly, Debby and I decided to see if I could manage without it. With some anti-snoring strategies in place, I've been able to do that.
+
+The Whoop sensor and app came later and opened a new dimension. Looking deeper into sleep data inspired several experiments. The most impactful: stopping caffeine intake around 1 pm. That change alone produced a meaningful result — roughly 75% of nights I no longer get up to use the bathroom. Small adjustment, significant improvement.
+
+The father thread runs underneath all of it. For the last several years of his life, my dad never slept in a bed. He slept in a chair. As his Alzheimer's journey progressed, his concept of day and night almost completely flipped. He lost his circadian rhythm somewhere along the way. Watching that happen made sleep feel less like a preference and more like a priority worth protecting.
+
+*Notes for writing: Three distinct threads worth preserving separately. The CPAP removal is a receipt of the health practice — the body changing enough that the old accommodation was no longer needed. The Whoop data/caffeine experiment is the inspect and adapt principle applied to sleep: small hypothesis, clear result. The father's circadian collapse is the most visceral illustration in the book of what sleep disruption looks like at its worst — a man sleeping in a chair, day and night reversed, the brain losing its most basic sense of time. Connects to Chapter 3 (sleep as physical infrastructure of hope), Chapter 2 (the father, Alzheimer's fear), and the neuroscience of circadian rhythm.*
+
+---
+
+## #17 — Did you notice a change in how you felt mentally and cognitively as the physical transformation progressed? What did that feel like?
+
+The shift started in May 2025, at the appointment with Dr. Lee after losing about 40 pounds. The medications hadn't been removed yet, but the direction was unmistakably positive. Something changed in how the whole thing felt from the inside. The question stopped being "can I do this?" and became "I've got this, as long as I stay consistent." That's a different kind of internal conversation.
+
+The cognitive overhead had been significant in the early months. The Simple app sent notifications when I entered fat-burning mode. Logging food and hydration. Logging weight. Reading the data to understand whether meals were helping or hurting. Knowing when to eat and when not to. It was a lot. It helped at that point — the scaffolding was doing real work. But by May it had started to internalize. The process was becoming a way of life rather than a system to manage.
+
+Today, much of that scaffolding is gone. I don't need the same level of monitoring. The cognitive overhead has dropped considerably. My head feels lighter, which is the best way I can describe it. Not a diet. Not a regimented program. A practice that has become part of how I live.
+
+*Notes for writing: The scaffolding metaphor is worth developing in Chapter 3 — the monitoring tools are necessary at the start precisely because the practice hasn't been internalized yet. As the practice deepens, the external structure can come down because the internal structure has taken its place. That's the Agile principle: inspect and adapt until the process runs itself. The "can I do this?" to "I've got this" shift is the agency dimension of Snyder's Hope Theory becoming durable rather than fragile. "My head felt lighter" is the cognitive change made physical — worth using close to as-stated. Connects to Chapter 3 (cognitive benefits of the practice, neuroscience), Chapter 2 (agency, the May 2025 Dr. Lee visit), and the Big Lessons Learned post.*
+
+---
+
+## #295 — The 4:30 am couch scenario: the most reasonable-sounding trap in the practice.
+
+The couch wins when the TV gets turned on. The alarm is still set, but the snooze button gets hit several times while the news plays in the background. It feels like a reasonable compromise — staying off the bed so Debby can sleep, staying warm, staying still. The inner critic has dressed this up as consideration. It isn't. It's comfort choosing itself.
+
+The second sleep that follows costs more than it gives. Circadian rhythm disrupted. The whole day set back in energy and focus. The TV isn't laziness — it's the most plausible-sounding trap in the practice, the one that almost sounds virtuous.
+
+The good news: this doesn't happen anymore. Sleep hygiene improvements have made the 4:30 am temptation largely irrelevant. The caffeine cutoff, the Whoop data, the micro-frictions engineered out one by one. The last time the couch won is hard to remember.
+
+That's the inspect and adapt principle applied to one of the sneakiest failure modes in the practice. You don't fix it by willpower. You fix it by removing the conditions that make it possible.
+
+*Notes for writing: The "inner critic dressed as consideration" framing is the key insight here — the most dangerous hope drains are the ones that sound almost virtuous. Keep any political references out of the published version entirely. The micro-friction engineering connects directly to Chapter 7 (environment design) and the hope drains post (engineering your practice to avoid drains). "You don't fix it by willpower. You fix it by removing the conditions that make it possible." — worth protecting. Connects to Chapter 3 (sleep as physical infrastructure), Chapter 7 (environment design), and the hope drains post.*
+
