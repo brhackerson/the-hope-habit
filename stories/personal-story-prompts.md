@@ -14,7 +14,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 ## Introduction: The Word I Didn't Know I Needed
 
-1. Describe Epiphany Sunday 2025 in as much detail as you can remember. Where were you? What was the service about? What exactly happened when the word "hope" arrived?
+1. ✓ Describe Epiphany Sunday 2025 in as much detail as you can remember. Where were you? What was the service about? What exactly happened when the word "hope" arrived?
 2. What was your mother's condition at that point? What did it feel like to be in that season with her?
 3. When did you first connect the word "hope" to your health journey? Was it immediate or did it come later?
 4. ✓ What did the doctor's visit look like — the one that made things very clear? What did the doctor say? What did you feel in that moment?
@@ -36,15 +36,15 @@ Answer as much or as little as feels right for each question. Some will unlock a
 ### Chapter 2: What Hope Actually Is
 
 12. ✓ Describe the morning the doctor's visit sank in. What did you do that day? What did you decide?
-13. ✓ What was the first small action you took? The very first one?
+13. What was the first small action you took? The very first one?
 14. ✓ When did you first feel like you had agency — like you were actually moving forward rather than just intending to?
 15. ✓ Was there a moment when you found a pathway you hadn't expected — a route that surprised you?
 
 ### Chapter 3: The Neuroscience of Hope
 
 16. What did you learn from Keep Sharp that changed how you thought about your health choices?
-17. ✓ Did you notice a change in how you felt mentally and cognitively as the physical transformation progressed? What did that feel like?
-18. ✓ How did sleep become part of the practice? Was that intentional from the start or did you discover its importance along the way?
+17. Did you notice a change in how you felt mentally and cognitively as the physical transformation progressed? What did that feel like?
+18. How did sleep become part of the practice? Was that intentional from the start or did you discover its importance along the way?
 19. ✓ What role did nutrition play — specifically intermittent fasting? How did you arrive at that approach?
 
 ### Chapter 4: The Foundation You're Already Standing On
@@ -70,7 +70,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 ### Chapter 6: Purpose — Find Your Why and Make It a Keyword
 
-31. Tell me the full story of how "Pictures" became your keyword. Was there a specific moment it arrived?
+31. ✓ Tell me the full story of how "Pictures" became your keyword. Was there a specific moment it arrived?
 32. ✓ Describe a specific morning when the word "Pictures" saved you. What was happening and what did the word do?
 33. ✓ When you picture the photographs that will outlive you, what do you see specifically? Who is in them?
 34. What future moment are you most hoping toward right now?
@@ -344,13 +344,5 @@ The specific scenario: waking at 4:30am to use the bathroom, not wanting to go b
 
 ---
 
-## New Questions — Added May 27, 2026 (Chapter 3)
-
-144. ✓ Nutrition and the brain: as the food window and eating habits changed, did you notice a difference in how you felt cognitively — focus, clarity, energy, mood? What did eating better actually do to your thinking?
-
-145. ✓ The training session as brain investment: beyond what it does for the body, what does a completed morning workout do for your mental state for the rest of the day? Describe the difference between a day that starts in the gym and one that doesn't.
-
----
-
-*Total questions: 145*
-*Last updated: May 27, 2026*
+*Total questions: 143*
+*Last updated: May 9, 2026*

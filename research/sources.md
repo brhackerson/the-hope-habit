@@ -535,3 +535,18 @@ Little, Brown, 2008. ISBN: 9780316113519. 294 pages.
 ---
 
 *Last updated: May 27, 2026*
+
+### Emmons, R. A., & McCullough, M. E.
+**"Counting Blessings Versus Burdens: An Experimental Investigation of Gratitude and Subjective Well-Being in Daily Life"**
+*Journal of Personality and Social Psychology*, 84(2), 377–389. 2003.
+- Landmark research establishing the psychological and physical benefits of gratitude practice
+- Defines gratitude as a two-step process: (1) recognizing that something good has arrived, and (2) recognizing that it came from an external source
+- The second step — naming the source — is what most people skip, and what makes gratitude a discipline rather than a passive feeling
+- Gratitude practice documented to improve wellbeing, sleep, and sense of connectedness
+- **Relevance to the book:** The Receive and Recognize steps of the Hope Cycle; the star word story; the discipline of letting hope land rather than explaining it away
+- **Status:** Referenced — not read in full by Brian. Citation confirmed from secondary sources.
+- **Possible relevance:** Chapter 4 (Epiphany Sunday, the star word), Chapter 6 (the Hope Cycle's Receive step), Hope's Infinite Loop post
+
+---
+
+*Last updated: May 27, 2026*

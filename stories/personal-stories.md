@@ -1483,107 +1483,41 @@ But the infinite game is bigger than fear. It connects to the Hope Cycle — the
 
 ---
 
-## #13 — What was the first small action you took? The very first one?
+## #1 — Describe Epiphany Sunday 2025 in as much detail as you can remember.
 
-Get up the next morning and do a strength training session on my own. That's it. Just get there and do the work.
+About a week after my mother passed, I stood in a communion line at church on Epiphany Sunday 2025. A stranger handed me a paper star. On it was a single word: hope.
 
-*Notes for writing: The simplicity is the point. No grand plan, no elaborate system, no accountability partner. One commitment: show up tomorrow. The smallness of the first action is what made it executable. Connects to Chapter 2 (agency, the first morning), the Big Lessons Learned post (small commitments), and #14 (first feeling of agency).*
+The tears came before anything else. I was still wobbly — it had only been a week. But after a moment I found the words to say to Debby: how amazing it is sometimes when what you need finds you in a way you don't expect.
 
----
+The star went on the wall by my gym bag. It is still there, now surrounded by Post-its carrying insights from others that arrived over time. The wall became a small, private record of hope received.
 
-## #18 — How did sleep become part of the practice? Was that intentional from the start, or did you discover its importance along the way?
+What I understand now that I didn't fully understand then: the practice was already underway when that star arrived. The antenna was tuned. The window was open. That is why it landed the way it did. If I hadn't been building the practice, I'm not sure I would have let it in.
 
-Sleep is something I have paid attention to for years, long before the 2025 journey began. My father didn't have great sleep hygiene, so early on I decided that wasn't going to be an issue for me. About 15 years ago I was diagnosed with sleep apnea and started using a CPAP machine. In the 2025 health journey, once my face shape changed enough that the mask no longer fit correctly, Debby and I decided to see if I could manage without it. With some anti-snoring strategies in place, I've been able to do that.
+Hope arrives in the face first. Something releases in the jaw, around the eyes, in the muscles that carry tension without announcing it. Sometimes it forces a smile. Sometimes it just softens what was tight. From there, a lightness moves through the rest of the body — not euphoria, just a quiet lifting of something that had been pressing down. That is what happened standing in that communion line.
 
-The Whoop sensor and app came later and opened a new dimension. Looking deeper into sleep data inspired several experiments. The most impactful: stopping caffeine intake around 1 pm. That change alone produced a meaningful result — roughly 75% of nights I no longer get up to use the bathroom. Small adjustment, significant improvement.
-
-The father thread runs underneath all of it. For the last several years of his life, my dad never slept in a bed. He slept in a chair. As his Alzheimer's journey progressed, his concept of day and night almost completely flipped. He lost his circadian rhythm somewhere along the way. Watching that happen made sleep feel less like a preference and more like a priority worth protecting.
-
-*Notes for writing: Three distinct threads worth preserving separately. The CPAP removal is a receipt of the health practice — the body changing enough that the old accommodation was no longer needed. The Whoop data/caffeine experiment is the inspect and adapt principle applied to sleep: small hypothesis, clear result. The father's circadian collapse is the most visceral illustration in the book of what sleep disruption looks like at its worst — a man sleeping in a chair, day and night reversed, the brain losing its most basic sense of time. Connects to Chapter 3 (sleep as physical infrastructure of hope), Chapter 2 (the father, Alzheimer's fear), and the neuroscience of circadian rhythm.*
+*Notes for writing: The Epiphany Sunday story is one of the book's most significant emotional beats — hope arriving as a literal word on a paper star, a week after losing his mother, from a stranger in a communion line. Use the physical description of how hope arrives in the body — "in the face first" — verbatim or close to it. Debby is present. The star on the wall is a physical artifact of the practice. The wall of Post-its (Warnock, Buttigieg, others) becomes a recurring image. The principle underneath: a well-built practice tunes the antenna to receive hope when it arrives from outside. Connects to Chapter 1 (the star word mentioned), Chapter 4 (foundation), Chapter 6 (the Hope Cycle's Receive step), and the Hope's Infinite Loop post.*
 
 ---
 
-## #17 — Did you notice a change in how you felt mentally and cognitively as the physical transformation progressed? What did that feel like?
+## #31 — Tell me the full story of how "Pictures" became your keyword.
 
-The shift started in May 2025, at the appointment with Dr. Lee after losing about 40 pounds. The medications hadn't been removed yet, but the direction was unmistakably positive. Something changed in how the whole thing felt from the inside. The question stopped being "can I do this?" and became "I've got this, as long as I stay consistent." That's a different kind of internal conversation.
+It arrived at work one day, a few weeks into the 2025 journey. No single dramatic moment. Just a quiet landing — the right word for the right question.
 
-The cognitive overhead had been significant in the early months. The Simple app sent notifications when I entered fat-burning mode. Logging food and hydration. Logging weight. Reading the data to understand whether meals were helping or hurting. Knowing when to eat and when not to. It was a lot. It helped at that point — the scaffolding was doing real work. But by May it had started to internalize. The process was becoming a way of life rather than a system to manage.
+The method for finding it came from the Agile Best Self North Star Workshop that Michaele and I had built together, which itself drew on Dr. Gervais's framework: a personal philosophy should be short, speakable under duress, and strong enough to produce a physical response when you speak it with others. Not a goal. An identity. The workshop gave me the structure to find it. The word itself came from sitting with the question of what actually mattered.
 
-Today, much of that scaffolding is gone. I don't need the same level of monitoring. The cognitive overhead has dropped considerably. My head feels lighter, which is the best way I can describe it. Not a diet. Not a regimented program. A practice that has become part of how I live.
+The question: what story do I want my kids to tell when they look at the photographs years from now? Not how I looked. Who I was. Whether I was present. Every one of those moments would be captured. The photographs would outlive me. The story they told was still being written.
 
-*Notes for writing: The scaffolding metaphor is worth developing in Chapter 3 — the monitoring tools are necessary at the start precisely because the practice hasn't been internalized yet. As the practice deepens, the external structure can come down because the internal structure has taken its place. That's the Agile principle: inspect and adapt until the process runs itself. The "can I do this?" to "I've got this" shift is the agency dimension of Snyder's Hope Theory becoming durable rather than fragile. "My head felt lighter" is the cognitive change made physical — worth using close to as-stated. Connects to Chapter 3 (cognitive benefits of the practice, neuroscience), Chapter 2 (agency, the May 2025 Dr. Lee visit), and the Big Lessons Learned post.*
+One word arrived: Pictures.
 
----
+It passed every test. Short enough to access at 5 am in half a second. Speakable when the inner critic is loudest. When I say it — when I talk about what it actually means — I feel it in my spine and across my shoulders. That physical response is the signal. It means the anchor is real.
 
-## #295 — The 4:30 am couch scenario: the most reasonable-sounding trap in the practice.
+Several bodies of research explain why it worked, in ways I only understood after the fact. Snyder's agency and pathways — the word activates both simultaneously. Gervais's personal philosophy criteria — it meets all three. ABS Principle 8, being over doing — Pictures is a being word, not a doing word. McGonigal's episodic future thinking — the word is a personal future simulation compressed to one syllable. Clear's identity-based habits — I didn't set a goal to lose weight. I decided who I was becoming.
 
-The couch wins when the TV gets turned on. The alarm is still set, but the snooze button gets hit several times while the news plays in the background. It feels like a reasonable compromise — staying off the bed so Debby can sleep, staying warm, staying still. The inner critic has dressed this up as consideration. It isn't. It's comfort choosing itself.
+The confirmation arrived unexpectedly. After returning from minor surgery, first session back in the weight room, emotional in ways I hadn't anticipated. My phone buzzed. A text from Jim — a member of my trusted circle, a recently retired corporate fitness executive, one of my biggest supporters on the journey. A photograph. Me, two years earlier, on the Lac Seul fishing trip, in my former body.
 
-The second sleep that follows costs more than it gives. Circadian rhythm disrupted. The whole day set back in energy and focus. The TV isn't laziness — it's the most plausible-sounding trap in the practice, the one that almost sounds virtuous.
+The timing wasn't planned. Jim didn't know what I was feeling. He was just sharing a memory.
 
-The good news: this doesn't happen anymore. Sleep hygiene improvements have made the 4:30 am temptation largely irrelevant. The caffeine cutoff, the Whoop data, the micro-frictions engineered out one by one. The last time the couch won is hard to remember.
+But Pictures was the keyword I had chosen months before. It arrived in my hand, literal and real, at exactly the moment I needed it most. That's what happens when the anchor is connected to something real enough to feel. The keyword finds you back.
 
-That's the inspect and adapt principle applied to one of the sneakiest failure modes in the practice. You don't fix it by willpower. You fix it by removing the conditions that make it possible.
-
-*Notes for writing: The "inner critic dressed as consideration" framing is the key insight here — the most dangerous hope drains are the ones that sound almost virtuous. Keep any political references out of the published version entirely. The micro-friction engineering connects directly to Chapter 7 (environment design) and the hope drains post (engineering your practice to avoid drains). "You don't fix it by willpower. You fix it by removing the conditions that make it possible." — worth protecting. Connects to Chapter 3 (sleep as physical infrastructure), Chapter 7 (environment design), and the hope drains post.*
-
-
----
-
-## #144 — Nutrition and the brain: what did eating better actually do to your thinking?
-
-The connection between nutrition and how I felt cognitively became clear once I started paying close attention. It wasn't dramatic at first — more like a gradual tuning. The more mindful I became about what I was eating, the more I noticed the relationship between specific foods and how my mind felt afterward. That awareness became the feeling I sought. Once I had it, it made decisions easier, especially in restaurants. The question stopped being "what sounds good?" and became "what makes me feel good?" Those are different questions with different answers.
-
-Of all the cognitive improvements, mindfulness improved the most. The practice sharpened my ability to pay attention to what was actually happening in my body, not just whether I was full or hungry, but whether I felt clear or foggy, energized or flat.
-
-The specific learning happened through simple contrasts. Onion rings make me feel terrible. A side salad instead makes a noticeable difference. That's the whole framework in one restaurant decision. Proteins in moderation feel good. Green vegetables feel good. Sweet potatoes are a staple — soul food that also performs. More recently, peanuts came off the list. I had been eating them in quantity to hit protein targets, but the sodium and fat load that came with them didn't feel good. The protein goal was right. The vehicle was wrong. Alcohol was another clear signal: even one beer impacts sleep quality measurably. Zero beers is better. An NA beer covers the social and sensory experience on the occasions when that matters.
-
-*Notes for writing: The "what sounds good vs. what makes me feel good" distinction is worth using close to as-stated — it captures the cognitive shift from reactive eating to intentional eating in one sentence. The onion rings example is specific and relatable — use it. The sweet potatoes detail is human and worth keeping. The peanuts detail is a recent inspect-and-adapt example worth including. The alcohol/sleep connection ties directly to the sleep section of Chapter 3. The mindfulness improvement is the key cognitive claim here — the practice sharpened attention to internal state, which is a genuine cognitive skill. Connects to Chapter 3 (nutrition as brain infrastructure, mindfulness), Chapter 2 (the food window, intermittent fasting), and the Big Lessons Learned post.*
-
----
-
-## #145 — The training session as brain investment: what does a completed morning workout do for your mental state?
-
-Since February 2025, I have always felt good when I leave the gym. Without exception. That's not a small thing — it's one of the most consistent receipts in the entire practice.
-
-What "feel good" means is all of it at once: energy, mood, clarity, confidence. Some mornings I walk in already thinking about the work day ahead, already questioning whether I can rise to a particular challenge. That mindset shifts after the workout, most of the time. I am not perfect, but the probabilities increase dramatically. The gym doesn't just build the body. It resets the mind before the day has a chance to set the terms.
-
-The difference between a day that starts in the gym and one that doesn't is measurable and consistent. The gym day starts with a receipt. The non-gym day starts without one.
-
-*Notes for writing: "Always, always, always feel good" is the kind of unqualified statement that earns trust precisely because it's so unqualified — worth using close to verbatim. The "probabilities increase dramatically" language connects directly to the 90% framing of Chapter 3 — the practice works on the odds, not the guarantee. The "resets the mind before the day has a chance to set the terms" line is worth protecting. The gym as receipt generator connects to Chapter 3 (exercise as brain infrastructure, BDNF), Chapter 2 (agency, the first morning), and Chapter 7 (the routine).*
-
-
----
-
-## #145 — The training session as brain investment: what does a completed morning workout do for your mental state?
-
-Since February 2025, I have always felt good when I leave the gym. Without exception. That's not a small thing — it's one of the most consistent receipts in the entire practice.
-
-What "feel good" means is all of it at once: energy, mood, clarity, confidence. Some mornings I walk in already thinking about the work day ahead, already questioning whether I can rise to a particular challenge. That mindset shifts after the workout, most of the time. I am not perfect, but the probabilities increase dramatically. The gym doesn't just build the body. It resets the mind before the day has a chance to set the terms.
-
-The difference between a day that starts in the gym and one that doesn't is measurable and consistent. The gym day starts with a receipt. The non-gym day starts without one.
-
-*Notes for writing: "Always, always, always feel good" is the kind of unqualified statement that earns trust precisely because it's so unqualified — worth using close to verbatim. The "probabilities increase dramatically" language connects directly to the 90% framing of Chapter 3 — the practice works on the odds, not the guarantee. The "resets the mind before the day has a chance to set the terms" line is worth protecting. The gym as receipt generator connects to Chapter 3 (exercise as brain infrastructure, BDNF), Chapter 2 (agency, the first morning), and Chapter 7 (the routine).*
-
----
-
-## Father — Additional Detail for Chapter 3 and Beyond
-
-The decline was gradual enough that there is no identifiable last real conversation. It didn't end with a final exchange that could be named and remembered. It just slowly became impossible. That's what Alzheimer's does — it takes the person in increments, and the loss accumulates before you realize what's gone.
-
-What remains is a visit to the cemetery, occasionally, where the conversation continues in the only form still available. The content of those visits is rooted in a conversation from 2006, after his mother — Brian's grandmother — died. He was still fully himself then. He sat down and asked Brian to be a better steward of the wealth he and his wife had built. He was direct and serious. He needed Brian to show up when he couldn't. They went through everything together — where it was, what his priorities were, what mattered most. Top of mind: make sure Mom was taken care of if he went first.
-
-He handed over the responsibility while he was still capable of doing it. Brian carried it. Now he stands at the grave and reports back.
-
-He wasn't just a supporter. He was a man who trusted his son with the most important things he had, at the moment he needed to be sure.
-
-**Fort Snelling, May 1, 2026**
-
-His father was a veteran. His remains are at Fort Snelling National Cemetery. On May 1, 2026, Brian led his mother's internment there — the final act in a decade-long stewardship of everything his father had asked him to carry.
-
-Before the ceremony, he visited his father's grave and reported that the work was done. The estate had closed the day before. Every promise kept. Every responsibility discharged. He had led his mother and siblings through the planning and execution of the entire journey from beginning to end.
-
-He stood there with his head held high. A few tears. Three words: Rest easy, Dad. The work is done.
-
-*Notes for writing: This is one of the most complete receipts in the entire book — a decade-long promise fully honored, reported back to the man who asked for it at the place he rests. The estate closing the day before the internment is the kind of timing that doesn't need embellishment. "Head held high" and "rest easy, Dad" should appear in the book close to verbatim. The clarity and lightness Brian noticed after the responsibilities lifted connects directly to Chapter 3's cognitive theme — the practice works on the mind as well as the body, and closing out a decade of stewardship freed cognitive space in a way that is measurable and real. This moment may belong in the Introduction or the Conclusion as much as Chapter 3 — worth discussing placement. Connects to Chapter 3 (cognitive load, the father), Chapter 2 (the infinite game, the fear), and the book's central arc.*
+*Notes for writing: The keyword arrives at work — ordinary setting, not a dramatic revelation. The North Star Workshop is the method; Gervais's framework is the foundation. The physical response in the spine and across the shoulders is the verification signal — use verbatim. The Jim story is the confirmation receipt and belongs in Chapter 4 or Chapter 6. The research explanation (Snyder, Gervais, Principle 8, McGonigal, Clear) is the chapter's intellectual architecture. Connects to Chapter 4 (foundation, the keyword reveal), Chapter 6 (Why Power, the anchor in detail), and the Pictures Substack posts.*
 

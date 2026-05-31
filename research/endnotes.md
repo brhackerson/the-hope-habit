@@ -20,3 +20,23 @@
 ---
 
 *Add new chapter endnotes below as chapters are drafted. Number sequentially across the entire book, not per chapter.*
+
+## Chapter 2: Hope Looks Different From Here
+
+[⁶] Colla, R., Williams, P., Oades, L. G., & Camacho-Morles, J. "A New Perspective on the Role of the Action Orientation in Hope Theory." *Frontiers in Psychology*, 13, Article 809053. 2022. DOI: 10.3389/fpsyg.2022.809053
+
+[⁷] Pink, Daniel H. *Drive: The Surprising Truth About What Motivates Us*. Riverhead Books, 2009.
+
+[⁸] Sinek, Simon. *The Infinite Game*. Portfolio/Penguin, 2019.
+
+[⁹] Candow, D. G., et al. "Creatine Monohydrate Supplementation for Older Adults and Clinical Populations." *Journal of the International Society of Sports Nutrition*, 22(1). 2025. https://www.tandfonline.com/doi/full/10.1080/15502783.2025.2534130
+
+## Planned Endnotes — Chapter 4 / Chapter 6
+
+[TBD] Emmons, R. A., & McCullough, M. E. "Counting Blessings Versus Burdens: An Experimental Investigation of Gratitude and Subjective Well-Being in Daily Life." *Journal of Personality and Social Psychology*, 84(2), 377–389. 2003.
+
+[TBD] Gervais, Dr. Michael. *Finding Your Best: A Conversation on High Performance Mindset*. Audible Originals, 2019. (Three criteria for personal philosophy: under 25 words, speakable under duress, produces physiological response when spoken.)
+
+[TBD] McGonigal, Jane. *Imaginable*. Spiegel & Grau, 2022. (Episodic future thinking; brain treats future self as a stranger.)
+
+[TBD] Clear, James. *Atomic Habits*. Avery, 2018. (Identity-based habits; you become the kind of person who does these things.)
