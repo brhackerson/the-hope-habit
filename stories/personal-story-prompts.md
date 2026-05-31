@@ -53,7 +53,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 21. Which of the 12 Agile Best Self principles showed up most powerfully in this journey — and when?
 22. What does Jeff Sutherland's work mean to you personally, beyond the professional context?
 23. ✓ What did Jesse Fewell capture in Chapter 7 of Untapped Agility that felt true about you?
-24. Looking back, what foundation was already in place before the journey began that made it possible?
+24. ✓ Looking back, what foundation was already in place before the journey began that made it possible?
 
 ### Chapter 5: Silencing What Holds You Back
 
