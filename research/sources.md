@@ -550,3 +550,18 @@ Little, Brown, 2008. ISBN: 9780316113519. 294 pages.
 ---
 
 *Last updated: May 27, 2026*
+
+### Schwarzenegger, Arnold (Arnold's Pump Club)
+**"Monday Motivation: Your To-Do List Is A Problem"**
+Arnold's Pump Club daily email, June 1, 2026
+- Subject: procrastination as emotional avoidance, not laziness
+- Key concepts: cost of not doing fast things now; breaking big goals into one day's work; the chalkboard method; momentum beats motivation
+- Arnold's personal story: training toward Reg Park's career at 15, crossing off sets on a chalkboard one at a time
+- Research cited: procrastination has almost nothing to do with laziness — it is emotional avoidance; putting off a task makes the uncomfortable feeling disappear momentarily
+- **Relevance to the book:** "When Nothing Happens, Nothing Happens" post; cost of delay connection; Hope Cycle miniature (Build, Receive, Recognize, Release); inner critic dressed as caution
+- **Status:** Brian received and read this email. Used as source in the post.
+- **Possible relevance:** "When Nothing Happens, Nothing Happens" post, Chapter 5 (inner critic), Chapter 7 (self-discipline)
+
+---
+
+*Last updated: June 2, 2026*
