@@ -50,8 +50,8 @@ Answer as much or as little as feels right for each question. Some will unlock a
 ### Chapter 4: The Foundation You're Already Standing On
 
 20. ✓ How did the Agile Best Self framework come to exist? What problem were you and Michaele trying to solve?
-21. Which of the 12 Agile Best Self principles showed up most powerfully in this journey — and when?
-22. What does Jeff Sutherland's work mean to you personally, beyond the professional context?
+21. ✓ Which of the 12 Agile Best Self principles showed up most powerfully in this journey — and when?
+22. ✓ What does Jeff Sutherland's work mean to you personally, beyond the professional context?
 23. ✓ What did Jesse Fewell capture in Chapter 7 of Untapped Agility that felt true about you?
 24. ✓ Looking back, what foundation was already in place before the journey began that made it possible?
 
@@ -73,8 +73,8 @@ Answer as much or as little as feels right for each question. Some will unlock a
 31. ✓ Tell me the full story of how "Pictures" became your keyword. Was there a specific moment it arrived?
 32. ✓ Describe a specific morning when the word "Pictures" saved you. What was happening and what did the word do?
 33. ✓ When you picture the photographs that will outlive you, what do you see specifically? Who is in them?
-34. What future moment are you most hoping toward right now?
-35. What would you tell someone who can't find their keyword? What question would you ask them?
+34. ✓ What future moment are you most hoping toward right now?
+35. ✓ What would you tell someone who can't find their keyword? What question would you ask them?
 
 ### Chapter 7: Autonomy — The System Nobody Else Can Build For You
 

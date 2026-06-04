@@ -1159,6 +1159,40 @@ What was discovered: it added energy rather than depleting it. The practice didn
 
 ---
 
+## #21 — Which of the 12 Agile Best Self principles showed up most powerfully in this journey, and when?
+
+Principle 8: Being More Over Doing More.
+
+It was my favorite principle when Michaele and I wrote the twelve in the fall of 2018. I had heard the concept from Dr. Gervais in a different context. What it does is elevate the mindset from simply doing things — busy, checking boxes, motion without meaning — to being a better version of yourself. Yes, you are still doing things. But with a higher purpose behind them.
+
+That distinction matters more than it sounds. The inner critic is very happy to offer things to do that prioritize comfort over progress. That is a feature, not a bug — it is doing exactly what it was designed to do. Principle 8 breaks that pattern by changing the question entirely.
+
+In my health journey, it connects directly to the keyword. When the inner critic thinks it has me choosing comfort over the gym, Pictures cuts through it. Not "go do a workout." Go be the healthy-looking person in those pictures. That is visualization as practice. That is Principle 8 made operational.
+
+It was true in 2018 when we wrote it. It turned out to be the most personally useful principle I would ever help create.
+
+---
+
+## #22 — What does Jeff Sutherland's work mean to you personally, beyond the professional context?
+
+Jeff is a scientist at his core. Everything he does connects to real research. He did the work. He continues to do the work in his mid-80s. That is the infinite game made visible in a human being.
+
+In June 2017 I took a Product Owner course from Jeff at 3M. I went because I was curious — the co-creator of Scrum was teaching at my company and I had to see what it was really about. What I did not expect was what I found in Jeff and Steve Daukas that day: true authenticity, backed by evidence, delivered with confidence in a room full of doubters. They stood their ground. They had the receipts.
+
+The next day I decided to follow my instinct and pursue a new direction — leading the agile transformation of the Corporate Research Systems Lab. I had no business being offered that role on paper, but I had spent 11 years as a director in that organization. I knew it. The inner critic showed up immediately and said, loudly: "What the &^%& are you doing?"
+
+I knew at that moment I was in it.
+
+Once I joined Scrum Inc., I got to see the other side of Jeff. He cares deeply about his work and will help nearly anyone trying to expand the Scrum community worldwide. That generosity is not performative. It is who he is.
+
+He is also a personal health role model. His use of smart watches and health devices to understand how his body works — hacking his internal operating system — is something I internalized. I carried that mindset directly into my own health journey.
+
+His influence has even reached Emily. Her upcoming doctoral dissertation has Scrum as a key element. I am grateful for that, and quietly proud that I had some small part in helping her find her way there.
+
+Everything that followed that June 2017 decision traces back to showing up. Jeff is not just a professional influence. He is a personal model of what it looks like to keep building, stay curious, and show up — still — decades after the work began.
+
+*(Steve Daukas present that day — background only, not in the book.)*
+
 ---
 
 ## #23 — What did Jesse Fewell capture in Chapter 7 of Untapped Agility that felt true about you?
@@ -1268,6 +1302,32 @@ The Sunday Scaries show up occasionally too. The practice doesn't eliminate ever
 
 *Notes for writing: The contrast between before and after is clean — before, bad days had real weight and derailing power. Now they are mostly small and inner-critic-manufactured. The earbud post is the detailed treatment of the friction audit and inner critic mechanics — cross-reference rather than repeat. The Sunday Scaries are worth a brief honest mention without specifics. Keep work details private. The closing observation — the practice doesn't eliminate the tension, it just contains it — is honest and important. Not a magic cure. A container. Connects to Chapter 5 (inner critic), Chapter 7 (environment design), and the hope drains post.*
 
+
+---
+
+## #34 — What future moment are you most hoping toward?
+
+When Debby and I first started dating over 40 years ago, she used to say that the best was yet to come. That is still as true today as when she first said it.
+
+There are so many big moments ahead. Graduations. Weddings. Grandchildren, hopefully. Trips. And right now, the one closest to me: a winter in a warm climate. We are making plans for it today.
+
+What the hope practice has given me is not a guarantee. It is an increase in probability — that I will be present and healthy for all of it. That changes everything. Not just whether I show up, but how I show up.
+
+Debby was right 40 years ago. She is still right.
+
+---
+
+## #35 — What would you tell someone who can't find their keyword?
+
+A few options.
+
+First, use mine. Pictures is a decent starting point for many people. It works because it is concrete and visual, and most of us already know what our best self looks like — we just haven't given that image a name.
+
+Second, ask yourself to describe who you are when you are at your best. Find a single word that summarizes it. Not what you do. Who you are.
+
+For me, the keyword became easy to find once I understood what it was for. The inner critic is fast and loud. The keyword needs to be faster. I needed a quick response that could cut through the noise and pull me forward. Pictures did that because I could visualize success immediately — the person in those pictures, healthy, showing up, building something. That image created inner drive.
+
+If you try and still can't land on a word that sticks, stop looking for the perfect word. Just get moving in a positive direction. One small commitment. One thing to do. The keyword may find you once you are already in motion. The rest works itself out.
 
 ---
 
