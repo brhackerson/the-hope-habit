@@ -1,7 +1,7 @@
 # Writing Rules
 ## Hope is Not a Feeling: It's a Practice Worth Building
 *By Brian Hackerson*
-*Last updated: May 27, 2026*
+*Last updated: June 5, 2026*
 
 ---
 
@@ -36,6 +36,7 @@ Personal story captures stay raw and unpolished. These rules do not apply to the
 - Vary structure. Soften rigid phrasing. Make each word feel chosen in the moment.
 - It should read like something a real person said out loud without second-guessing every word.
 - If it sounds too clean, it's wrong. Go sentence by sentence and fix it.
+- Before finalizing any draft, take a dedicated AI pass: read it asking "does this sound like it was written by an AI agent?" Watch for: transitions that are too smooth, paragraph structures that are too parallel, conclusions that wrap up too neatly, language that is accurate but bloodless, and any sentence that could have been written about anyone. If it could have been generated without Brian's specific voice, experience, and point of view, rewrite it until it couldn't.
 
 ---
 
@@ -59,6 +60,7 @@ Personal story captures stay raw and unpolished. These rules do not apply to the
 - Acknowledge privilege honestly in posts where resources or access played a role. One sentence is enough: "I recognize that some of what made this practice possible — the time, the resources, the support — not everyone has in equal measure. The tools look different for different people. The practice doesn't."
 - Always bring the post back to hope explicitly. The connection to the hope practice should be named, not just implied. Hope needs to show up as an element, not just as a title word.
 - Consider how each post applies to someone facing real, permanent adversity — terminal illness, profound loss, irreversible conditions. When ambiguous adversity is the subject, acknowledge the distinction honestly. For real permanent adversity, hope meets it directly rather than waiting for a better receipt.
+- Before finalizing any draft, take a reader pass: read it as someone looking for something to grab onto to find hope in their life. Does the post offer that? Is the hope explicit, accessible, and real — or buried, implied, or only theoretical? If a struggling reader would finish the post and not know what to do next, the post is not done.
 - Political framing: name the emotional weight of difficult times without partisan attribution. The book's universal accessibility must be protected.
 
 ---
@@ -86,6 +88,11 @@ Personal story captures stay raw and unpolished. These rules do not apply to the
 - Prefer statements of fact to have a verifiable source behind them.
 - When in doubt, search before asserting.
 - All sources tracked in sources.md in the repo.
+- Never fabricate or invent sources, citations, statistics, authors, or titles.
+- When a research claim is uncertain or drawn from secondary sources, flag it in the chapter notes.
+- If a statistic appears in the text, it must exist in sources.md with a verifiable citation.
+- When Brian has not read a source in full, note that in sources.md: "Referenced — not read in full by Brian."
+- If a claim cannot be verified, either remove it or qualify it honestly in the text.
 
 ---
 
