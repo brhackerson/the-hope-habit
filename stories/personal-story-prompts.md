@@ -50,8 +50,8 @@ Answer as much or as little as feels right for each question. Some will unlock a
 ### Chapter 4: The Foundation You're Already Standing On
 
 20. ✓ How did the Agile Best Self framework come to exist? What problem were you and Michaele trying to solve?
-21. ✓ Which of the 12 Agile Best Self principles showed up most powerfully in this journey — and when?
-22. ✓ What does Jeff Sutherland's work mean to you personally, beyond the professional context?
+21. Which of the 12 Agile Best Self principles showed up most powerfully in this journey — and when?
+22. What does Jeff Sutherland's work mean to you personally, beyond the professional context?
 23. ✓ What did Jesse Fewell capture in Chapter 7 of Untapped Agility that felt true about you?
 24. ✓ Looking back, what foundation was already in place before the journey began that made it possible?
 
@@ -73,8 +73,8 @@ Answer as much or as little as feels right for each question. Some will unlock a
 31. ✓ Tell me the full story of how "Pictures" became your keyword. Was there a specific moment it arrived?
 32. ✓ Describe a specific morning when the word "Pictures" saved you. What was happening and what did the word do?
 33. ✓ When you picture the photographs that will outlive you, what do you see specifically? Who is in them?
-34. ✓ What future moment are you most hoping toward right now?
-35. ✓ What would you tell someone who can't find their keyword? What question would you ask them?
+34. What future moment are you most hoping toward right now?
+35. What would you tell someone who can't find their keyword? What question would you ask them?
 
 ### Chapter 7: Autonomy — The System Nobody Else Can Build For You
 
@@ -346,3 +346,22 @@ The specific scenario: waking at 4:30am to use the bathroom, not wanting to go b
 
 *Total questions: 143*
 *Last updated: May 9, 2026*
+
+---
+
+## New Questions — Added June 5, 2026 (Chapter 5)
+
+146. FOPO in action: describe a specific moment when Fear of Other People's Opinions showed up and nearly stopped you from doing something that mattered. What did the critic say? What did you do?
+
+147. Shame and the critic: has the inner critic ever used shame as its weapon — not just "you can't do this" but something deeper, more personal? What did that sound like?
+
+148. Daring greatly in public: when you decided to start writing the Substack and putting the hope practice into the world publicly, what did the inner critic say? What made you do it anyway?
+
+149. Your Positive Intelligence saboteur profile: Hyper Vigilant 8, Pleaser 8, Hyper Achiever 6. In the health journey specifically, which of those three showed up most, and what did it cost you before you named it?
+
+150. The inner advocate: describe a specific moment in the health journey when the inner advocate spoke louder than the critic. What did it say? What was different about that morning or that moment?
+
+---
+
+*Total questions: 150*
+*Last updated: June 5, 2026*
