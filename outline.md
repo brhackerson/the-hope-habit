@@ -103,7 +103,7 @@ Conley's Modern Elder framing — you arrive at 60 with wisdom, experience, and 
 
 *Key sources:* Sutherland (Scrum Guide 2016), Agile Best Self principles, Conley (Wisdom at Work), Gervais (First Rule of Mastery — personal philosophy)
 
-### Chapter 5: Silencing What Holds You Back
+### Chapter 5: Name It Before It Names You
 The inner critic is the primary obstacle to a hope practice. It is the voice that tells you the alarm doesn't matter, that you've tried before and failed, that you're not the kind of person who does this. It is lying.
 
 Gervais's FOPO — Fear of Other People's Opinions — as a specific and powerful form of the inner critic. The worry about what others think quietly undermines agency and pathways before you even get started.
@@ -342,5 +342,5 @@ Hope is not a feeling. It's a practice worth building. And it starts wherever yo
 
 *Total estimated chapters: 14 + Introduction + Part Two Introduction + Conclusion*
 *Estimated length: 200-300 pages*
-*Status: Sixth draft — Chapter 8 expanded with drift/receipts/metrics evolution; Chapter 9 expanded to four layers (self, circle, community, world); Reclaiming My Time and Tuning the Instrument added; April 23 scan data captured*
-*Last updated: April 23, 2026*
+*Status: Seventh draft — Chapter 5 title updated to "Name It Before It Names You"; Chapters 1-4 complete*
+*Last updated: June 5, 2026*
