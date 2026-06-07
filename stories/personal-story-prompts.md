@@ -57,10 +57,10 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 ### Chapter 5: Silencing What Holds You Back
 
-25. What does your inner critic sound like? Give it a voice. What are its favorite lines?
-26. What does your inner advocate sound like? When does it show up?
+25. ✓ What does your inner critic sound like? Give it a voice. What are its favorite lines?
+26. ✓ What does your inner advocate sound like? When does it show up?
 27. ✓ Describe a specific morning when the inner critic was winning — and what happened next.
-28. How do you use the 5 second rule in the weight room? Walk me through a specific moment.
+28. ✓ How do you use the 5 second rule in the weight room? Walk me through a specific moment.
 29. ✓ What has it felt like to write publicly about this journey? Was there a moment of vulnerability that surprised you?
 30. ✓ What are you most afraid people will think when they read this book?
 
@@ -355,9 +355,9 @@ The specific scenario: waking at 4:30am to use the bathroom, not wanting to go b
 
 147. Shame and the critic: has the inner critic ever used shame as its weapon — not just "you can't do this" but something deeper, more personal? What did that sound like?
 
-148. Daring greatly in public: when you decided to start writing the Substack and putting the hope practice into the world publicly, what did the inner critic say? What made you do it anyway?
+148. ✓ Daring greatly in public: when you decided to start writing the Substack and putting the hope practice into the world publicly, what did the inner critic say? What made you do it anyway?
 
-149. Your Positive Intelligence saboteur profile: Hyper Vigilant 8, Pleaser 8, Hyper Achiever 6. In the health journey specifically, which of those three showed up most, and what did it cost you before you named it?
+149. ✓ Your Positive Intelligence saboteur profile: Hyper Vigilant 8, Pleaser 8, Hyper Achiever 6. In the health journey specifically, which of those three showed up most, and what did it cost you before you named it?
 
 150. The inner advocate: describe a specific moment in the health journey when the inner advocate spoke louder than the critic. What did it say? What was different about that morning or that moment?
 
