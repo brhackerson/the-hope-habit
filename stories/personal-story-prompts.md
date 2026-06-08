@@ -262,7 +262,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 ### The Drift
 
-121. When the receipts are ambiguous — when the data could mean growth or it could mean drift — how do you keep the inner critic from writing the story before the evidence is in?
+121. ✓ When the receipts are ambiguous — when the data could mean growth or it could mean drift — how do you keep the inner critic from writing the story before the evidence is in?
 122. What does grace actually look like in practice for you? Not the concept — the specific act.
 
 ### Faith Dimension

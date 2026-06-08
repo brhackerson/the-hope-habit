@@ -1159,40 +1159,6 @@ What was discovered: it added energy rather than depleting it. The practice didn
 
 ---
 
-## #21 — Which of the 12 Agile Best Self principles showed up most powerfully in this journey, and when?
-
-Principle 8: Being More Over Doing More.
-
-It was my favorite principle when Michaele and I wrote the twelve in the fall of 2018. I had heard the concept from Dr. Gervais in a different context. What it does is elevate the mindset from simply doing things — busy, checking boxes, motion without meaning — to being a better version of yourself. Yes, you are still doing things. But with a higher purpose behind them.
-
-That distinction matters more than it sounds. The inner critic is very happy to offer things to do that prioritize comfort over progress. That is a feature, not a bug — it is doing exactly what it was designed to do. Principle 8 breaks that pattern by changing the question entirely.
-
-In my health journey, it connects directly to the keyword. When the inner critic thinks it has me choosing comfort over the gym, Pictures cuts through it. Not "go do a workout." Go be the healthy-looking person in those pictures. That is visualization as practice. That is Principle 8 made operational.
-
-It was true in 2018 when we wrote it. It turned out to be the most personally useful principle I would ever help create.
-
----
-
-## #22 — What does Jeff Sutherland's work mean to you personally, beyond the professional context?
-
-Jeff is a scientist at his core. Everything he does connects to real research. He did the work. He continues to do the work in his mid-80s. That is the infinite game made visible in a human being.
-
-In June 2017 I took a Product Owner course from Jeff at 3M. I went because I was curious — the co-creator of Scrum was teaching at my company and I had to see what it was really about. What I did not expect was what I found in Jeff and Steve Daukas that day: true authenticity, backed by evidence, delivered with confidence in a room full of doubters. They stood their ground. They had the receipts.
-
-The next day I decided to follow my instinct and pursue a new direction — leading the agile transformation of the Corporate Research Systems Lab. I had no business being offered that role on paper, but I had spent 11 years as a director in that organization. I knew it. The inner critic showed up immediately and said, loudly: "What the &^%& are you doing?"
-
-I knew at that moment I was in it.
-
-Once I joined Scrum Inc., I got to see the other side of Jeff. He cares deeply about his work and will help nearly anyone trying to expand the Scrum community worldwide. That generosity is not performative. It is who he is.
-
-He is also a personal health role model. His use of smart watches and health devices to understand how his body works — hacking his internal operating system — is something I internalized. I carried that mindset directly into my own health journey.
-
-His influence has even reached Emily. Her upcoming doctoral dissertation has Scrum as a key element. I am grateful for that, and quietly proud that I had some small part in helping her find her way there.
-
-Everything that followed that June 2017 decision traces back to showing up. Jeff is not just a professional influence. He is a personal model of what it looks like to keep building, stay curious, and show up — still — decades after the work began.
-
-*(Steve Daukas present that day — background only, not in the book.)*
-
 ---
 
 ## #23 — What did Jesse Fewell capture in Chapter 7 of Untapped Agility that felt true about you?
@@ -1302,32 +1268,6 @@ The Sunday Scaries show up occasionally too. The practice doesn't eliminate ever
 
 *Notes for writing: The contrast between before and after is clean — before, bad days had real weight and derailing power. Now they are mostly small and inner-critic-manufactured. The earbud post is the detailed treatment of the friction audit and inner critic mechanics — cross-reference rather than repeat. The Sunday Scaries are worth a brief honest mention without specifics. Keep work details private. The closing observation — the practice doesn't eliminate the tension, it just contains it — is honest and important. Not a magic cure. A container. Connects to Chapter 5 (inner critic), Chapter 7 (environment design), and the hope drains post.*
 
-
----
-
-## #34 — What future moment are you most hoping toward?
-
-When Debby and I first started dating over 40 years ago, she used to say that the best was yet to come. That is still as true today as when she first said it.
-
-There are so many big moments ahead. Graduations. Weddings. Grandchildren, hopefully. Trips. And right now, the one closest to me: a winter in a warm climate. We are making plans for it today.
-
-What the hope practice has given me is not a guarantee. It is an increase in probability — that I will be present and healthy for all of it. That changes everything. Not just whether I show up, but how I show up.
-
-Debby was right 40 years ago. She is still right.
-
----
-
-## #35 — What would you tell someone who can't find their keyword?
-
-A few options.
-
-First, use mine. Pictures is a decent starting point for many people. It works because it is concrete and visual, and most of us already know what our best self looks like — we just haven't given that image a name.
-
-Second, ask yourself to describe who you are when you are at your best. Find a single word that summarizes it. Not what you do. Who you are.
-
-For me, the keyword became easy to find once I understood what it was for. The inner critic is fast and loud. The keyword needs to be faster. I needed a quick response that could cut through the noise and pull me forward. Pictures did that because I could visualize success immediately — the person in those pictures, healthy, showing up, building something. That image created inner drive.
-
-If you try and still can't land on a word that sticks, stop looking for the perfect word. Just get moving in a positive direction. One small commitment. One thing to do. The keyword may find you once you are already in motion. The rest works itself out.
 
 ---
 
@@ -1595,4 +1535,96 @@ Jeff Sutherland's work underlies all of it. Not just Scrum as a framework, but t
 And then there is the letter. My father wrote it on July 3, 1985. Item 7: "Prepare yourself for new challenges." Item 8: "Set aside some time for yourself each day. It will help settle the dust and keep the inner peace." He wrote Agile Best Self Principles 7 and 8 forty years before we named them. He wrote them during the years he was fully himself, before the decline began, before the conversations stopped being possible. The foundation he handed me in 1985 was the same foundation I built on in 2025. I didn't know that until I could see it from the other side.
 
 *Notes for writing: The foundation chapter is the answer to "how did this work so fast?" The tools were already built. The values were already internalized. The letter was already written. February 2025 wasn't the beginning — it was the activation. Key elements: ABS (6 years in field by 2025, launched April 2019 after local meetup), Scrum values (personally meaningful since 2017), Jeff Sutherland's iterative mindset, the father's 1985 letter (Items 7 and 8 specifically). The letter is already in the repo as a MD. Connects to Chapter 4 (the foundation), Chapter 2 (Scrum, ABS introduced), and the Conclusion (Fort Snelling, the promises kept).*
+
+
+---
+
+## #25 — What does your inner critic sound like? Give it a voice. What are its favorite lines?
+
+The inner critic has more than one voice. Two show up most often.
+
+The first is mocking and sounds like my own voice. It runs self-deprecating commentary about intelligence and competence, usually laced with profanity that doesn't belong on a page. It is the loudest version and the least sophisticated. It doesn't make arguments. It just narrows the aperture on what seems possible.
+
+The second voice is more complicated. It sounds like my father. The tone is not cruel — it is questioning. "Are you sure you ought to be doing this?" That's the line. Not a declaration of failure. A raised eyebrow. A standard applied. It comes from deep respect for everything he built and provided, and from the part of me that wonders whether I am worthy of that same level of respect. It is the inner critic borrowing the voice of someone I loved to hold me to a bar that he never actually set for me in that way.
+
+What I've noticed as I've gotten older is that the second voice has gotten quieter. The evidence has accumulated. The receipts have piled up. The 2006 conversation and what followed are their own answer to the question the voice was asking.
+
+*Notes for writing: Two distinct critic voices — one mocking (self/competence), one judging (father/worthiness). The father's voice is not cruelty but reverence reversed — a borrowed standard from someone deeply respected. The quieting of that voice over time is itself a receipt. Important: the father's voice was never directed at Brian this way — the inner critic borrowed it. Do not misrepresent the father's actual relationship, which was one of deep mutual respect. Connects to Chapter 5 (inner critic full treatment), Chapter 4 (father portrait), Chapter 1 (inner critic as ego protection mechanism). Protect: "It is the inner critic borrowing the voice of someone I loved to hold me to a bar that he never actually set for me in that way."*
+
+---
+
+## #26 — What does your inner advocate sound like? When does it show up?
+
+The inner advocate shows up when it is really needed — when the inner critic is pushing toward comfort over growth and needs something to push back. It doesn't run constantly in the background the way the critic does. It arrives when the stakes call for it.
+
+Most of the time it sounds like my own voice, but with more behind it. Not the mocking version. The steadier one. "You got this." "I can do hard things." Short, direct, not interested in argument. It doesn't debate the critic. It just moves.
+
+Sometimes it sounds like one of my kids.
+
+That one is harder to explain and doesn't need much explanation. When the voice of someone you are doing all of this for shows up in your own head at the moment you need it most, the inner critic doesn't have much left to say. That's the keyword made audible. The future those photographs represent, speaking before the photographs exist.
+
+*Notes for writing: The inner advocate arrives when needed, not constantly — contrast with the critic's persistent background noise. Two versions: the steady self-voice ("you got this," "I can do hard things") and the children's voice. The children's voice is the Why Power made audible — the same future "Pictures" points to, arriving as sound rather than image. Contrast with critic: critic borrows the voice of someone from the past (the father); advocate borrows the voice of someone in the future (the kids). Do not name which child. Connects to Chapter 5 (inner advocate), Chapter 4 (Pictures, Why Power), Chapter 6 (the circle).*
+
+---
+
+## #28 — How do you use the 5 second rule in the weight room? Walk me through a specific moment.
+
+A few weeks ago I loaded the bar for the bench press at a weight and rep combination I hadn't attempted before. That moment — bar loaded, sitting at the bench, about to begin — is exactly where the inner critic operates most comfortably.
+
+Bench press is one of the exercises that requires the most focus. You can't drift. The mechanics matter, the breathing matters, the commitment to the movement matters. The critic knew that. Its line wasn't aggressive. It was reasonable. "I don't know. Maybe another day. Maybe you're not quite ready." That's the sneaky version — not a declaration, just a seed of hesitation dressed up as good judgment.
+
+5-4-3-2-1. Move.
+
+The countdown engages the pre-frontal cortex before the emotional brain can finish making its case. It doesn't argue with the critic. It doesn't evaluate whether the critic has a point. It just closes the window. The brain shifts from doubt to execution in five seconds, and by the time the count hits one, the body is already in motion.
+
+The lift was successful. The payoff was real. The critic's "maybe another day" became a receipt — evidence that the day was exactly right, and that the critic's reasonable-sounding caution was the same thing it always is. Comfort dressed up as wisdom.
+
+*Notes for writing: The bench press story is the 5 second rule made concrete and physical. The critic's line is key: not loud or dramatic, but reasonable-sounding — "maybe another day, maybe you're not quite ready." That's the sneaky version — connects to Hyper Achiever and Hyper Vigilant saboteurs. The pre-frontal cortex detail links to the "When Nothing Happens" post. The successful lift becomes a receipt against the critic's case. Connects to Chapter 5 (5 second rule, inner critic in the weight room), Chapter 3 (exercise as brain investment), and the "When Nothing Happens, Nothing Happens" post.*
+
+---
+
+## #148 — Daring greatly in public: what did the inner critic say when you started writing publicly? What made you do it anyway?
+
+Twenty posts into the Substack, the inner critic arrived with a simple question: "Who cares?"
+
+Not before the first post. After twenty. That timing matters. The doubt didn't show up to prevent the practice from going public. It showed up after the work was already in the world, looking for a way to retroactively justify stopping. That's the sneaky version — not the loud objection at the starting line, but the quiet erosion after the momentum has built.
+
+The honest answer to "who cares?" is that the question deserves a real answer, not a dismissal. The hope practice started as a gift to myself and my family. It became outward because the practice demanded it. More people bringing hope into a difficult world is good for all of us. The writing exists to share what the practice taught — not to build a brand, not to perform transformation. That answer came from the inner advocate, not the critic. It took the critic's question seriously and answered it on its own terms.
+
+What made doing it anyway possible: the practice was already running. The Epiphany Sunday star word had already arrived. The health journey was already producing receipts. Writing publicly wasn't a leap into the unknown — it was the Release step of the Hope Cycle. You build, you receive, you recognize, and then you release. The writing was just the releasing made visible.
+
+*Notes for writing: The "who cares?" moment is post twenty, not post one — the critic's timing is itself revealing. The answer was genuine, not deflective. Writing publicly as the Release step of the Hope Cycle is the framing. Daring greatly in public = releasing hope without knowing who it will reach. Connects to Chapter 5 (inner critic/advocate, FOPO, daring greatly), Hope's Infinite Loop post, and the "For Anyone Looking for Something to Grab Onto" post.*
+
+---
+
+## #149 — PI saboteur profile in the health journey: which showed up most?
+
+The Hyper Vigilant saboteur showed up most clearly in the health journey. It is the one that scans constantly for what could go wrong, generating anxiety in the form of thoroughness. In the early months of 2025, that looked like tracking everything: exercise, eating, hydration, weight, body composition. Every data point captured, every metric logged.
+
+Debby noticed before I did. She would say I was going a little over the top with the tracking. She wasn't wrong. What I knew at the time was that I needed that data to understand why the early wins were happening. The Hyper Vigilant saboteur and genuine analytical need can look identical from the inside. The difference is that the need has a purpose and an endpoint. The saboteur doesn't want to stop.
+
+The moment the scaffolding came down was vivid. I cancelled my Whoop subscription. The data it was providing had become, for the most part, irrelevant to where I was in the practice. I had gotten what I needed from it. The internal structure had taken over. Cancelling it felt like relief, not loss. That's the signal — when letting go of a tracking tool feels like freedom rather than risk, the Hyper Vigilant saboteur has been managed.
+
+*Notes for writing: The Hyper Vigilant saboteur is the analytical one — necessary scaffolding becomes anxiety when the goal shifts from learning to controlling. Debby sees it before Brian does — We Power as corrective mirror. The Whoop cancellation as receipt of Hyper Vigilant managed: relief not loss. Connects to Chapter 5 (PI saboteur profile), Chapter 3 (Whoop, scaffolding coming down). Protect: "When letting go of a tracking tool feels like freedom rather than risk, the Hyper Vigilant saboteur has been managed."*
+
+
+---
+
+## #121 — When receipts are ambiguous, how do you keep the inner critic from writing the story before the evidence is in?
+
+One day after a workout, I stepped on the scale and the weight had ticked up. The hope practice was running — workouts consistent, habits mostly intact. Nutrition had softened slightly. A few more treats, a little more often. Nothing dramatic. Just a small loosening in one dimension. The inner critic was already at work with a ready story: the hope practice is drifting.
+
+The problem was that the receipt was incomplete.
+
+The Hyper Achiever saboteur — one of the loudest voices in my Positive Intelligence profile — finds the gap in the receipts and calls it a failure before the evidence arrives. It compares where you are to where you should be and decides the distance is a character flaw. Its story: the hope practice is slipping. Hope is eroding.
+
+The inner advocate had a quieter counter: the receipt is incomplete. Wait.
+
+A few weeks later, the full receipt arrived. Not drift. Growth. The weight was up because the practice was building lean muscle mass. The story the inner critic wrote before the data arrived was wrong.
+
+The lesson: the inner critic doesn't need facts. It needs a gap. Give it an ambiguous number, an incomplete receipt, a silence where the answer hasn't arrived yet, and it will write the story. The hope practice's counter-move is not optimism. It is the discipline of holding the question open until the answer actually arrives.
+
+The inner critic doesn't wait for evidence. The hope practice does. That difference is everything.
+
+*Notes for writing: The incomplete receipt story is one of the clearest illustrations of the inner critic vs. inner advocate dynamic in the book. The Hyper Achiever saboteur is the mechanism — it fills ambiguity with the worst possible story. The counter-move is patience as data literacy, which is a form of hope. The scale going up being muscle not drift is the receipt that vindicates the advocate. Connects to Chapter 5 (inner critic, PI saboteur profile), Chapter 8 (drift concept), Chapter 3 (InBody receipts). Protect: "The inner critic doesn't need facts. It needs a gap." and "The inner critic doesn't wait for evidence. The hope practice does."*
 
