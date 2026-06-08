@@ -306,7 +306,7 @@ The specific scenario: waking at 4:30am to use the bathroom, not wanting to go b
 
 132. Can you describe a specific moment when the outer filibuster — accumulated obligations, the news cycle, a crowded schedule — genuinely threatened the practice? What did reclaiming look like in that moment?
 
-133. The Pleaser saboteur makes the reclaiming move hard to make. When have you given something your time that you knew was crowding out the practice, and what made it hard to say no?
+133. ✓ The Pleaser saboteur makes the reclaiming move hard to make. When have you given something your time that you knew was crowding out the practice, and what made it hard to say no?
 
 ### Metrics Evolution — It Works Until It Doesn't
 
@@ -351,7 +351,7 @@ The specific scenario: waking at 4:30am to use the bathroom, not wanting to go b
 
 ## New Questions — Added June 5, 2026 (Chapter 5)
 
-146. FOPO in action: describe a specific moment when Fear of Other People's Opinions showed up and nearly stopped you from doing something that mattered. What did the critic say? What did you do?
+146. ✓ FOPO in action: describe a specific moment when Fear of Other People's Opinions showed up and nearly stopped you from doing something that mattered. What did the critic say? What did you do?
 
 147. Shame and the critic: has the inner critic ever used shame as its weapon — not just "you can't do this" but something deeper, more personal? What did that sound like?
 

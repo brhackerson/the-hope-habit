@@ -1628,3 +1628,38 @@ The inner critic doesn't wait for evidence. The hope practice does. That differe
 
 *Notes for writing: The incomplete receipt story is one of the clearest illustrations of the inner critic vs. inner advocate dynamic in the book. The Hyper Achiever saboteur is the mechanism — it fills ambiguity with the worst possible story. The counter-move is patience as data literacy, which is a form of hope. The scale going up being muscle not drift is the receipt that vindicates the advocate. Connects to Chapter 5 (inner critic, PI saboteur profile), Chapter 8 (drift concept), Chapter 3 (InBody receipts). Protect: "The inner critic doesn't need facts. It needs a gap." and "The inner critic doesn't wait for evidence. The hope practice does."*
 
+
+---
+
+## #133 — The Pleaser saboteur: when have you given something your time that was crowding out the practice, and what made it hard to say no?
+
+The clearest example isn't about over-scheduling or saying yes to too many favors. It's more specific than that.
+
+My company had a significant deal to close. I had been in similar situations before and could see serious risks — risks that threatened both the client outcome and the profitability of the engagement. I raised those concerns with the leadership team. They heard me, agreed with my rationale, and appreciated that I brought it forward. Then they went ahead anyway. I am the leader in charge of delivering it, I believe there is real trouble ahead, and I feel less than safe in the situation.
+
+The Pleaser saboteur lives here. Not in the yes I said, but in the weight I carry. The obligation to be the dependable one. The identity of the person who shows up for hard things even when the conditions aren't right. That identity is load-bearing. It is also a trap the Pleaser builds quietly over years.
+
+What makes it harder to set down: legacy. I don't want my last project to be a dumpster fire. That's not fear of failure in the abstract — it's the same thread that runs through the hope practice. The photographs will tell a story. The professional ones too. I want to be able to look back at this chapter and say I showed up with integrity and did the best I could with what I could control.
+
+The good news: I no longer carry the same existential worry I used to about employment. Financial security changes the texture of the fear. The floor is there. That freedom matters — it means the hope practice can run on the real fuel, which is legacy and meaning, rather than the anxious fuel, which is survival.
+
+The work now is letting go of what I cannot control and focusing entirely on what I can. That is not the Pleaser's answer. That is the inner advocate's answer.
+
+*Notes for writing: The Pleaser saboteur in professional context — not over-commitment but the weight of identity as the dependable one. The legacy thread connects directly to the Pictures keyword: the professional photographs matter too. Financial security as inner freedom — the floor being there changes the fuel source from anxiety to meaning. The "let go of what I cannot control" resolution is the inner advocate's answer, not the Pleaser's. Connects to Chapter 5 (Pleaser saboteur, inner advocate), Chapter 4 (Pictures, legacy), and the infinite game framing from Chapter 2.*
+
+---
+
+## #146 — FOPO in action: a specific moment when Fear of Other People's Opinions nearly stopped you.
+
+The clearest example isn't from the hope Substack. It's from the early days of Agile Best Self.
+
+Michaele had been in the agile community for years. She had relationships, credibility, and a room full of people who already knew and trusted her. I was the new guy. When we delivered the first workshop in April 2019, I knew one person in that room besides Michaele herself. The inner critic was running its FOPO playbook clearly: Michaele is the real star here. These are her people. Nobody came to hear from you.
+
+The reception we got that night quieted the critic temporarily. Early posts on the Agile Best Self Substack still carried that weight. The question underneath every one was whether anyone would care about what I had to contribute.
+
+What moved me past it wasn't silencing the critic. It was March 2020. The pandemic arrived, and the agile community suddenly needed something specific: connection and space for change agents to focus on themselves while relearning how to navigate a world that had changed overnight. We weren't teaching anyone how to do their jobs. We were creating space for coaches and practitioners to connect with one another and show up for themselves. The community needed us in the mix. The work mattered more than the FOPO. When purpose got loud enough, the fear of other people's opinions got quieter.
+
+That's the pattern. FOPO rarely loses an argument. It loses its grip when something larger than the opinion of others becomes more pressing than the opinion itself.
+
+*Notes for writing: FOPO in professional/community context — the unknown collaborator standing next to the established expert. The April 2019 meetup as the first test. The pandemic as the moment purpose overrode FOPO — not by teaching skills but by creating space for connection and self-focus. The pattern worth naming: FOPO doesn't lose arguments, it loses its grip when purpose gets loud enough. Connects to Chapter 5 (FOPO, Gervais, inner critic), Chapter 4 (ABS origin story, April 2019 meetup, Michaele), and the Daring Greatly dimension of going public.*
+
