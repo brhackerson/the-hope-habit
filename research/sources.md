@@ -565,3 +565,49 @@ Arnold's Pump Club daily email, June 1, 2026
 ---
 
 *Last updated: June 2, 2026*
+
+### Wakeman, Cy
+**Reality-based Leadership: Ditch the Drama, Restore Sanity to the Workplace, and Turn Excuses into Results**
+Jossey-Bass, 2010
+- Core concept: eliminating "mental drama" — the stories we tell ourselves that amplify problems and drain energy
+- Key tool: "What would great look like right now?" — a question that moves the mind from the inner critic's noise to real problem-solving with rational solutions
+- Relevant to the book: the shame counter-move in Chapter 5; the inner advocate routing around the critic; the hope practice as drama diffusion
+- Also relevant: Cy Wakeman's TED Talk on YouTube (link TBD — Brian to find when online)
+- **Status:** Referenced — not read in full by Brian. Key concept confirmed from secondary sources.
+- **Possible relevance:** Chapter 5 (shame, inner advocate), Chapter 7 (self-discipline), post seeds
+
+---
+
+### Roosevelt, Theodore
+**"Citizenship in a Republic" (The Man in the Arena)**
+Speech delivered at the Sorbonne, Paris, France. April 23, 1910.
+- Key passage (used by Brené Brown as epigraph for *Daring Greatly*): "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows the great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat."
+- Attribution: confirmed — Theodore Roosevelt, April 23, 1910, Sorbonne, Paris
+- Full speech available at Theodore Roosevelt Center (theodorerooseveltcenter.org)
+- **Status:** Verified. Quote confirmed from primary source.
+- **Possible relevance:** Chapter 5 (shame, daring greatly), post seed (Man in the Arena shame thread)
+
+---
+
+### Schwarzenegger, Arnold (Arnold's Pump Club)
+**"Monday Motivation: Roll Downhill"**
+Arnold's Pump Club daily email, June 8, 2026
+- Core concept: the morning anchor — a fixed sequence that runs on autopilot before the mind can argue. Coffee, bike, gym, bike, breakfast. No decisions. The body carries you through it.
+- Key quote: "Your energy is limited — you only get so much of it in a day. When you spend it deciding whether to do the things you already know you should do, you have nothing left for the things that actually require thought."
+- The Budapest story: schedule flipped upside down, but the anchor ran anyway. The practice works in disrupted conditions.
+- Also in same email: VO2 max study — 750,000 U.S. veterans, low fitness rivaled smoking as mortality risk factor. Every one-MET improvement = 13-15% lower mortality risk. Least-fit group carried ~4x mortality risk of fittest group. (Observational data — association not proof.)
+- **Status:** Brian received and read this email.
+- **Possible relevance:** Post seed (morning anchor), Chapter 7 (self-discipline, routine), Chapter 3 (fitness and longevity)
+
+---
+
+### Banksy (attributed, disputed)
+**"If you get tired, learn to rest, not to quit."**
+- Attribution: widely attributed to Banksy; origin disputed and not confirmed
+- Encountered: photographed at lodge in Lac Seul, Ontario, Canada. June 2026.
+- **Status:** Quote noted. Attribution uncertain — use with disclaimer.
+- **Possible relevance:** Chapter 3 (couch scenario, rest vs. quit), Chapter 5 (inner critic when depleted), Chapter 8 (drift vs. rest), post seed
+
+---
+
+*Last updated: June 8, 2026*

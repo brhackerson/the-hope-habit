@@ -1668,15 +1668,15 @@ That's the pattern. FOPO rarely loses an argument. It loses its grip when someth
 
 ## #147 — Shame and the critic: the deeper weapon.
 
-Brené Brown's research identifies shame as the inner critic's most powerful weapon — not "you made a mistake" but "you are a mistake." It is the deepest version of the critic's attack, and the one most corrosive to hope.
+Shame shows up most specifically around the fear of falling short for the people I love most. The inner critic in my own voice runs a specific line in those moments: "You fell short. You should have known. You're not working hard enough." That's not competence being questioned. That's worthiness. That's exactly what Brené Brown describes.
 
-Honest answer: shame doesn't show up prominently for me. Not recently, and not in the way Brown describes the full register of it. The mocking voice attacks competence. The judgy voice borrowed from my father questions worthiness. Neither reaches the place where the verdict is on who I am as a person rather than what I did or didn't do.
+The male shame response she identifies is the one I recognize: weakness, falling short, being unworthy. It doesn't arrive loudly. It arrives in the quiet after something didn't go the way it should have, when the gap between what I hoped to give and what I actually delivered becomes visible. Everyone who loves someone knows that gap. The hope practice doesn't close it permanently. It gives you a way back from it.
 
-I think I know why. I play it pretty safe. The conditions that give shame its fullest grip — exposure without a safety net, vulnerability in front of people whose opinion carries weight — are conditions I tend to manage rather than walk into. The Hyper Vigilant saboteur is partly responsible for that. So is a lifetime of operating inside values — commitment, respect, courage — that provide a floor the critic can't dig below.
+Most of the time the counter-move works. I've learned enough about how meditation functions to step outside what the inner critic is saying with some curiosity — observe it rather than become it — and call in the advocate to find out what's actually true. Cy Wakeman's Reality-based Leadership framework offers a practical question for this moment: what would great look like right now? That question moves the mind from the critic's noise to real problem-solving with rational solutions.
 
-That is not the same as saying shame has no presence. It is saying the hope practice, the Scrum values, and the internal structure that's been built over decades have done their work. The floor is there.
+When the internal shift doesn't work, I feel it the way Brown describes it. The critic's case gets loud. The shame register opens fully.
 
-*Notes for writing: The honest absence is more useful than a manufactured example. The absence of shame as an active weapon connects to the foundation built in Chapter 4 — values provide a floor the critic can't dig below. The Hyper Vigilant saboteur as shame prevention through risk management is worth a sentence. Brown's framework earns a citation here. Connects to Chapter 5 (shame, Brown, inner critic), Chapter 4 (Scrum values as personal operating system), and the inner critic as ego protection mechanism from Chapter 1.*
+*Notes for writing: The specific trigger — fear of falling short for the people you love most — is universal without naming specific situations or people. The male shame response (weakness, unworthy) from Brown is worth naming explicitly. Cy Wakeman's "what would great look like right now" is a practical tool that deserves a citation. The Roosevelt "Man in the Arena" quote connects here — used by Brown as the epigraph for Daring Greatly. Connects to Chapter 5 (shame, Brown, inner advocate, Wakeman), and the Daring Greatly post seed.*
 
 ---
 
