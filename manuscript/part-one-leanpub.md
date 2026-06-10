@@ -1,4 +1,17 @@
 
+<style>
+h1, h2, h3 {
+  line-height: 1.2;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+p {
+  margin-bottom: 1em;
+  line-height: 1.6;
+  text-indent: 0;
+}
+</style>
+
 {frontmatter}
 
 # Hope Is Not a Feeling: It's a Practice Worth Building
