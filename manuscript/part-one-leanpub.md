@@ -44,7 +44,10 @@ Start here. The rest is coming.
 
 {mainmatter}
 
-# Chapter 1: I Called It Hope. I Was Just Waiting.
+{class: center}
+## Chapter 1
+
+# I Called It Hope. I Was Just Waiting.
 
 There is an idea about hope most of us grew up with that turns out to be wrong. Not slightly off, not in need of a minor adjustment, but fundamentally, consequentially wrong in a way that leaves people stuck for years without understanding why.
 
@@ -152,7 +155,10 @@ Your journey looks different from mine. The costs you've been carrying are shape
 
 ---
 
-# Chapter 2: Hope Looks Different From Here
+{class: center}
+## Chapter 2
+
+# Hope Looks Different From Here
 
 The visit itself didn't take long. The doctor looked at the weight metric on the screen, tapped his finger on it, and was short and to the point. No lengthy explanation. No softening. Just the number on the screen, a prescription for a Type 2 diabetes medication, and a clear implication that things had gone on long enough. I had no response. No excuse. Nothing to say. I felt defeated. My internal reaction was something close to: oh goody, more drugs.
 
@@ -270,7 +276,10 @@ The hope you were waiting for was never going to arrive on its own. Waiting does
 
 ---
 
-# Chapter 3: The 90 Percent
+{class: center}
+## Chapter 3
+
+# The 90 Percent
 
 My father stopped sleeping in a bed years before he died. At some point during his Alzheimer's decline, his sense of day and night reversed. He would be awake at 3 am, restless and confused, and then asleep in his chair through the afternoon. The circadian rhythm that organizes everything, the hormone cycles, the memory consolidation, the cellular repair, had simply failed. A man who had always been up early, engaged and present, was now untethered from time.
 
@@ -414,7 +423,10 @@ Ask yourself one question before the next morning begins: what does my system ne
 
 ---
 
-# Chapter 4: The Foundation You're Already Standing On
+{class: center}
+## Chapter 4
+
+# The Foundation You're Already Standing On
 
 The hope practice didn't come from nowhere. That is what I want you to understand before we go further. By February 2025, when the doctor's visit changed everything, I had been building something for years. I just didn't know it yet.
 
@@ -610,7 +622,10 @@ Look back before you look forward. The foundation is already under you. The work
 
 ---
 
-# Chapter 5: Name It Before It Names You
+{class: center}
+## Chapter 5
+
+# Name It Before It Names You
 
 The inner critic doesn't wait for permission. It arrives before the alarm goes off. It is already running when you open your eyes at 5 am, fully formed, with a complete inventory of reasons why today should be different. Stay in bed. You're tired. One day won't matter. It has been practicing longer than the hope practice has existed. It knows your specific vulnerabilities better than almost anyone.
 
