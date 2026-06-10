@@ -40,14 +40,14 @@ Think about the last time hope felt hard to access. What were you doing? Holding
 I'm not telling you this from the safe distance of someone who figured it out early. I spent decades waiting for hope to show up on its own terms, in its own time, when the conditions aligned. I was still waiting in the spring and summer of 2020, sitting in front of a news cycle that had no good news to offer, watching the world contract in ways none of us had mapped or anticipated. The dread settled in quietly at first, manageable in small doses, something I could set aside when the day demanded it. Then it became constant. I stopped expecting the situation to improve, not as a decision but as a drift, the way you drift when you stop swimming and let the current take you somewhere you didn't choose to go. Hope just stopped showing up, and after a while I stopped noticing it was gone.
 What that felt like in practice was a loss of the pause: the space between what happens and how you respond. The media mentioned a toilet paper supply chain disruption and there was sudden, low-grade panic in our house. The plan changed immediately: find whatever supply we could before it disappeared. Looking back, it seems almost funny, the kind of story everyone from that period tells at dinner parties and laughs about together. In the moment it felt completely rational, even urgent, because I no longer had the reserves to sort the trivial from the serious. Everything registered as a threat. Everything demanded a response. I suspect many of you had similar stories during that difficult time. That's what waiting for hope looks like from the inside: not dramatic despair, but a slow erosion of perspective that leaves you reactive to events that shouldn't require a reaction at all.
 
-* * *
+---
 
 Before I go further, let me say something about the life I was living when all of this was happening, because the story isn't about someone who had lost everything and had only one direction left. That story exists, and it's worth telling, but it isn't mine.
 My life in 2020 was good in most of the ways that matter. My work was going well. I was doing meaningful work with talented people and finding real satisfaction in it. My wife Debby and I had built a life together worth being proud to call ours. Our family was healthy and close. I had friendships and community and a sense of purpose in my professional life. None of that was in question.
 What I had lost, quietly and without making a single conscious decision about it, was my health. Not catastrophically. I wasn't incapacitated, I wasn't in crisis, I wasn't confronting anything that demanded immediate attention. Consistently, over years, in the way that happens when you care deeply about everything in your life except yourself. Work got my best energy. Debby and the kids got plenty too. I want to be clear about that; I was present and engaged and invested in all of it. What kept getting pushed to the back of the line was me. My own wellbeing sat there, always one more thing away from getting the attention it needed, while everything else felt more urgent and more rewarding and more worthy of my time. I was carrying more weight than was good for me, managing it with more medication than I wanted, and choosing clothes designed to hide rather than fit. Not vanity. Just the small daily act of making the gap between where I was and where I wanted to be a little less visible.
 I attempted to do something about it in January 2020, three months before the pandemic arrived. Progress was real. Then March happened, and my focus shifted entirely to helping my family navigate something none of us had anticipated or prepared. My health went back to the back of the line, where it had lived for most of my adult life, and where it stayed for another five years.
 
-* * *
+---
 
 I didn't understand then what I understand now: that waiting for hope and neglecting yourself are related problems. They come from the same source. Buried inside both, humming in the background through all of it, were two internal forces I had never properly named or examined.
 The first is what I call the inner critic. Everyone has one, though most people spend their lives reacting to it without ever stopping to look at what it truly is or what it does. The inner critic is the internal narrator running a constant, low-grade commentary on your limitations, your failures, your odds, and your fundamental worthiness to attempt what you want to attempt. It doesn't need evidence. It doesn't need logic, or consistency, or even coherence. It just needs silence and enough unguarded time to fill the space with its preferred telling of your story, which is always a version in which you are less capable, less deserving, and less likely to succeed than you are.
@@ -60,7 +60,7 @@ Both voices showed up clearly during the journey this book describes. The inner 
 That's the foundation this book rests on: not a credential or a title, but a lived practice. If you're looking for a textbook, this isn't it. If you're looking for something that works, the distinction between those two voices, inner critic and imposter syndrome, is where to start, because both will try to talk you out of building exactly what this book teaches.
 Here's what they have in common and why naming them matters: they are wrong far more often than they are accurate. The inner critic mistakes caution for wisdom. Imposter syndrome mistakes unfamiliarity for unworthiness. Learning to recognize them, not silence them (that's not realistic), but stop letting them make your decisions, is one of the most consequential shifts the hope practice makes possible.
 
-* * *
+---
 
 What changed first was not my circumstances. For months before that February morning, I had been quietly wrestling with what hope actually meant, trying to reconcile the version I had always carried with something that felt truer and harder and more demanding. That wrestling happened during some of the most difficult weeks of my life, sitting with my mother in her final days, watching her face and trying to hold on to something I couldn't yet name. The church meeting in February 2026 was where it solidified. I heard people describing hope not as a feeling they were waiting to have, but as something they were doing, consistently, in the direction of something that mattered. That reframe changed everything. Once the definition shifted, the framework became visible. I stopped waiting for hope to arrive and started understanding that I had been building it all along, one decision at a time, without knowing what to call it.
 Which brings us to what hope really is.
@@ -71,7 +71,7 @@ Optimism says things will be okay. Hope shows you what to do next.
 Ask yourself honestly: when the pressure comes, which one are you reaching for? If the answer is optimism, if you find yourself believing it will work out without a clear sense of what you plan to do, that's the gap this book is designed to close.
 Dr. Michael Gervais, one of the world's leading performance psychologists, teaches that optimism is a trainable disposition, worth cultivating, useful in practice, but ultimately a stance toward the future rather than a plan for navigating it.[5] Hope is something different. Hope is active, directional, and tied to specific action in specific moments. It arrived differently in my own experience than optimism ever did, and the clearest moment came somewhere I wouldn't have predicted. Shortly after my mother passed, a single word arrived during an Epiphany Sunday service: hope. What I felt wasn't simply comfort or the softening of grief. My next steps became clear. I needed to understand what hope truly was, what it required, and how to build it deliberately into my daily life. A pathway appeared in the middle of loss. That is not optimism. That is agency finding a route forward when the going is hardest.
 
-* * *
+---
 
 Hope is also not the same as grit, and that distinction matters because the two get conflated regularly, often by people who are working hard and wondering why it doesn't feel like enough.
 Dr. Angela Duckworth's research on grit describes the combination of passion and perseverance that allows people to stay the course through difficulty and disappointment over long stretches of time.[2] Grit is about endurance: keeping going when the work is slow and the results are invisible. It is real, it is measurable, and it predicts success across a remarkable range of domains. Grit and hope work differently. Grit says keep going. Hope says keep looking for the way. A person with grit but without hope can spend years grinding forward in a direction that stopped making sense long ago, sustained by stubbornness but cut off from the flexibility to find a better route. A person with hope but without grit finds the path and loses it at the first serious obstacle, never building the staying power the journey requires. You need both. Knowing the difference between them matters, because they fail in different ways and need different remedies.
@@ -79,7 +79,7 @@ Mark Manson argues in *Everything Is F*cked* that the loss of hope in modern lif
 It's worth pausing on those two sources before moving on. The inability to tolerate discomfort — that one shows up differently for different people. For some it's the 5 am alarm. For others it's a conversation they keep postponing, or a number on a screen they'd rather not see, or a decision they've been circling for months. The confusion about what truly deserves hope is subtler and often harder to name. What are you actually hoping for right now? Not the socially acceptable answer. The real one. If it's fuzzy, that fuzziness is worth sitting with, because the hope practice needs something specific to aim at. The clearer your target, the more useful everything that follows.
 Before reading on, it's worth asking: what are you hoping for right now? Not what you wish were true. What are you actively moving toward? If the answer is fuzzy, that's useful information. The hope practice starts with clarity about what matters enough to deserve your life's energy.
 
-* * *
+---
 
 One more thing deserves clarity before we go further, and it's about the word winning.
 I want to be transparent: this framing comes from a Christian tradition, and it is one I find personally meaningful. If it doesn't align with your beliefs, set it aside and take the principle: the worst moment is not the final word, and hope invites you to act accordingly.
@@ -87,7 +87,7 @@ It shows up in how I think and talk about the hope practice, and I want to be cl
 That framing is wide enough to hold every kind of story. For someone on a recoverable journey, working toward better health, rebuilding something that fell apart, recovering from a setback with a path forward, the win looks like momentum. A result better than the last one. A morning you showed up when staying home was easier. A conversation you chose to have instead of avoiding. For someone facing something permanent and irreversible, a terminal diagnosis, a loss that cannot be undone, a condition that no amount of effort will change, the win looks entirely different. One more day of full presence. One more act of meaning made in the time that remains. The story continuing, even when continuing is the hardest possible thing. The Resurrection does not erase the Crucifixion. It says the Crucifixion was not the end of the story.
 That is what hope does. Not promise the tomb won't come. Say that the tomb does not get the final word and invite you to act accordingly.
 
-* * *
+---
 
 Here is what I want you to believe by the time you finish this book, if you take nothing else from it: you can do difficult things when the why is important enough.
 I didn't fully believe that about myself before February 2025. The inner critic had been building its case for years, and I had been half-listening long enough that the argument had started to feel like fact. A doctor's visit that month made the situation very clear about where I was and where the road I was on was taking me. The question that followed wasn't confident or bold or powered by sudden motivation. It was small, uncertain, and completely honest: what would it look like if I could figure this out?
@@ -98,7 +98,7 @@ Hope is available, in genuine abundance, to anyone willing to build toward it. T
 In the chapters ahead, I'll walk you through exactly how agency and pathways become a daily practice, how to build the circle that holds you accountable, and how to find the anchor that reconnects you to your deepest why when the inner critic is loudest.
 Your journey looks different from mine. The costs you've been carrying are shaped by your history and your situation and the lines your version of the inner critic likes to run. What transfers across all those differences is the truth at the center of everything that follows: waiting doesn't work. The practice does. You have more of what you need to start than the inner critic will ever be willing to admit.
 
-* * *
+---
 
 # Chapter 2: Hope Looks Different From Here
 
@@ -118,7 +118,7 @@ The first morning looked ordinary from the outside. I walked into the gym with a
 What I had done, without knowing it yet, was restore something Snyder calls agency: the belief that your choices matter and can change what happens next. Not confidence. Not certainty. Not a guarantee of results. Agency, at first, is often small and fragile. It begins as the felt sense that forward movement is possible and that you are the one doing the moving. It's what gets you out of bed at 5 am when every other part of you is voting to stay. It's the engine that runs before motivation shows up, because motivation is a passenger, not a driver. You don't wait for it. You move, and it follows.
 The second engine Snyder describes is pathways: the ability to find or create another route when the obvious one closes. Hopeful people don't just push harder when they hit a wall. They look for another door. They ask a better question. They adjust. The distinction matters because persistence without flexibility isn't hope. It's stubbornness wearing hope's clothes.
 
-* * *
+---
 
 About three months into the journey, an InBody scan showed something I hadn't expected. An InBody scan is a body composition measurement that separates muscle mass, body fat, and water distribution into distinct numbers, giving a far more precise picture than a standard scale. Both muscle mass and body fat were dropping at the same time. That wasn't the goal. I wanted fat loss, not muscle loss. I asked trainer Kaylee at Life Time what was happening.
 She introduced me to creatine monohydrate.
@@ -127,7 +127,7 @@ Two weeks later the scan came back. Body weight kept dropping. Muscle mass rever
 Here's the honest version. I trusted what Kaylee told me, but I still needed the receipt before I believed it. The scan was the receipt. A receipt, as I use the word throughout this book, is concrete evidence that the practice is working. Not a feeling. Not wishful thinking. Proof. The InBody scan showing muscle mass moving back up was a receipt. The morning the alarm went off and I was already awake was a receipt. The first time I walked past a mirror and stopped instead of looking away was a receipt. Receipts show up in all kinds of forms, and learning to recognize them matters because the inner critic is good at pretending they don't count. That experience changed how I think about obstacles. The wall isn't always a dead end. Sometimes it's a redirect sign.
 Pathways, in real life, don't always look like plans. They look like asking the right person the precise question at exactly the right moment, staying curious when something isn't working, and staying open to an answer you wouldn't have found on your own.
 
-* * *
+---
 
 I recognize that some of what made this practice possible, the time, the resources, the support, not everyone has in equal measure. The tools look different for different people. The practice doesn't.
 In 2022, a team of researchers built on Snyder's framework and added something the original model had been missing.[6] The first extension is Why Power: hope fueled by goals aligned with personal identity and purpose, goals larger than self-interest. The second is We Power: the interpersonal dimension, where hope emerges from connection to other people and draws strength from it. High-hope people seek out community, support others in their goals, and welcome help in return. Hope is not a solo pursuit. It never was.
@@ -142,7 +142,7 @@ That was enough. I started the creatine. Two weeks later the scan confirmed it w
 That's We Power in practice. Kaylee found the route. Dr. Lee validated it. Debby gave me the room to do the work. I didn't have to figure it out alone. The circle didn't just encourage me. It solved a real problem at the right moment. That's what the circle does. Hope that only lives inside one person is fragile. Hope shared, witnessed, and strengthened by other people is harder to extinguish.
 Who in your life has already played some version of this role, even if they didn't know it? The person who said the thing at the right moment. The one who showed up when you needed a witness. The one who found the route you couldn't find on your own. They are already part of your circle, whether or not you've named it that. Giving it a name indicates you are attaching value to it. Where there is value, one can more easily protect and maintain it.
 
-* * *
+---
 
 Daniel Pink's research on intrinsic motivation identifies three things that help people sustain effort over time: autonomy, the freedom to direct your own work; mastery, the satisfaction of getting better at something that matters; and purpose, the sense that your effort connects to something larger than yourself.[7] External pressure, a doctor's prescription, a number on a scale, somebody else's expectation, can start the engine. It usually doesn't keep it running. The fuel has to come from inside. Pink's framework helps explain why the one-day sprint worked for me: it gave me full ownership of the commitment. Nobody was watching. Nobody was grading. The autonomy was complete.
 Simon Sinek's concept of the infinite game sits underneath all of this.[8] A finite game has a winner and a finish line. An infinite game doesn't. The point isn't to win once. The point is to keep playing, keep building, and leave the people who come after you better than you found them.
@@ -154,14 +154,14 @@ By the time we had to move him to memory care, he was a shell of the man I had k
 When I stood in that driveway in February 2025, his face was in my mind. I could not keep repeating his patterns. Somewhere along the way he stopped building, stopped learning, stopped moving toward anything new, and I watched what that cost him over a decade of slow decline. I don't know whether his choices caused what happened to him. What Dr. Sanjay Gupta argues in his brain-health work is that most cognitive decline is tied to lifestyle rather than genetics, which means the odds are more shapeable than most people think. That doesn't promise an outcome. It does put responsibility back in your hands. The practice works on the probabilities. That was enough for me.
 Not from fear alone, though. From something larger. The infinite game isn't played primarily in the gym. It's played in the moments when you show up for the people who need you present, when you bring your fullest attention to a conversation that matters, when you choose contribution over withdrawal on the days that make withdrawal feel reasonable. The hope practice isn't a project with a completion date. Hope is the fuel that keeps the infinite game running. The Hope Cycle, the engine at the center of this practice, moves through four stages: build, receive, recognize, release. Each rotation generates more fuel for the next. Hope produces more of itself. You just have to stay with it long enough to see it happen.
 
-* * *
+---
 
 In May 2025, I walked into Dr. Lee's office carrying about 40 fewer pounds than I had in February. The medications hadn't been removed yet, but the trajectory was unmistakable. He could see it. I could see it. The data told a story the inner critic couldn't argue with, and for once the critic had nothing to say.
 That visit was the first moment I felt real momentum: not the intention of it, not the hope of it, but the receipt of it. Concrete evidence that the practice was working. Evidence that the cycle was renewable. Evidence that the decision made alone on a bright interstate in February had been sound.
 I think about the reader sitting with a hard number on a screen, a difficult conversation, a diagnosis that arrived on an ordinary Tuesday and changed the landscape. What I want to say is what it took me too long to believe: it's data. Not a judgment. Not a verdict on your character or your capacity. The receipt that can fund the next decision.
 The receipt is never the end of the story. It's the beginning of another sprint.
 
-* * *
+---
 
 Your agency looks different from mine. Your pathways run through different terrain. The circle that holds your practice together carries other names. The why at the center of your infinite game is yours alone to name, and no one can tell you what it is or whether it's large enough, because only you know what it has to carry.
 What transfers across all of it is the structure. Two engines, agency and pathways, under every meaningful effort to move forward. A why big enough to carry you when the how feels impossible. A community that steadies you when the inner critic gets loud. A practice that starts producing its own fuel if you stay with it. That is how hope works.
@@ -170,7 +170,7 @@ A boss of mine kept a quote on his board. I don't know who first said it, but it
 Ask yourself where you are right now. Which engine is running? Agency, the belief that your choices matter? Pathways, the willingness to find another route when the first one closes? Both are available right now. Neither requires certainty. Neither requires a perfect plan. They require a decision to take one intentional step today, as small and honest as the one made on a bright interstate in February, then show up tomorrow and do it again.
 The hope you were waiting for was never going to arrive on its own. Waiting doesn't work. The practice does. Stay with it long enough and it starts to compound.
 
-* * *
+---
 
 # Chapter 3: The 90 Percent
 
@@ -180,7 +180,7 @@ In 2006, after his mother died, he sat down with me and asked me to be a better 
 It felt more like an honor than a burden. I could see from the look on his face how serious he was, and I received it with the same weight he gave it. This was his life's work, his and my mother's, and he needed to know it wouldn't be foolishly spent. I owed him that. I owed my family that. So I said yes, and I meant it, and I carried it until the day the last item was closed and the work was done.
 The hope practice that began in February 2025 was always partly an answer to what happened to him. Not the grief, though that was real. The fear. The specific, honest fear that I was watching a trajectory and needed to decide whether to follow it.
 
-* * *
+---
 
 Dr. Sanjay Gupta, a neurosurgeon and one of the most respected voices in brain health, documents something in *Keep Sharp* that stopped me when I first encountered it: roughly 90 percent of cognitive decline is lifestyle-related, not genetic.[10] Only about 10 percent is determined by DNA. The rest is shaped by the choices made every day: what you eat, how you move, how you sleep, who you spend time with, and whether you keep challenging your brain with new learning.
 That number doesn't promise anything. My father's outcome is not guaranteed to be mine. Nothing in the research says that. What it does say is that the odds are shapeable. The lifestyle choices available to any person willing to make them shift the probabilities in a measurable direction. That's not magical thinking. It's the honest version of what the hope practice actually offers: not control over the result, but influence over the conditions.
@@ -188,7 +188,7 @@ I had already heard the principle from Dr. Lee before I ever read Gupta's book. 
 My fear had a specific face. It was my father's. Yours may look completely different. It might be a diagnosis you received and haven't told many people about. A number on a screen that changed the terms of the conversation. A pattern you've been watching in yourself for years and hoping would reverse on its own. A body that has been sending quieter signals for longer than you've been comfortable hearing. Whatever form it takes: name it. The fear is not the problem. The fear, clearly named, is the beginning of the practice. It is the honest acknowledgment that the current direction isn't the one you'd choose, and that the odds are more shapeable than you currently believe. That acknowledgment is enough to start.
 What surprised me most when I found it: building a hope practice isn't just good for your soul. It is good for your brain. A better brain builds better hope. The connection runs in both directions, which is why the physical infrastructure of the hope practice matters as much as the mental and emotional work. This chapter is about that infrastructure: exercise, sleep, nutrition, and social connection, the four pillars that support not just a healthy body, but a mind capable of sustaining hope.
 
-* * *
+---
 
 Exercise was the first pillar because it changed my brain fastest. Dr. John Ratey, a clinical professor of psychiatry at Harvard Medical School, makes a case in *Spark* that changed how I think about every morning workout.[11] The case is this: aerobic exercise physically remodels the brain. Not metaphorically, not in some general mood-improvement sense, but structurally, measurably, at the cellular level. The mechanism is BDNF, brain-derived neurotrophic factor, which Ratey describes as "miracle-gro for the brain." Exercise stimulates BDNF production. BDNF supports the growth and strengthening of neural connections and is associated with better alertness, attention, and motivation. A brain that exercises regularly is biologically different from one that doesn't.
 That biology runs the same for everyone. BDNF doesn't require a gym. A twenty-minute walk triggers it. A bike ride. A swim. Anything that raises your heart rate. The specific activity matters far less than the decision to move at all. Your version of this pillar doesn't have to look like mine — it just has to be yours, done consistently, in whatever form is actually available to you right now.
@@ -200,7 +200,7 @@ The morning training routine isn't, for me, a vanity project or a fitness goal d
 You don't have to start where I started. A morning walk is a brain investment. A bike ride. Twenty minutes of anything that elevates your heart rate. The mechanism is the same. What matters is that you choose the deposit. Every one of them is a small act of hope.
 The question worth asking before you move to the next pillar: what would one degree of movement look like for you? Not a transformation. One degree. What would you do tomorrow morning if you decided to treat your brain as something worth investing in?
 
-* * *
+---
 
 I recognize that not everyone has a gym or a Life Time membership, or mornings that are theirs to design. The privilege that made this particular version of the practice possible is real, and I don't want to gloss over it. The tool looks different for different people. The principle — your brain needs movement to do its best work — doesn't. Start with what you have.
 Sleep was the hidden pillar because it determined whether the rest of the system could do its work. Sleep is the brain's maintenance window, when it does essential overnight repair and reset work, and most people don't treat it that way.
@@ -212,7 +212,7 @@ There's also a failure mode worth naming, because the inner critic is at its mos
 The solution wasn't willpower. It was engineering. Removing the conditions that made the trap plausible: the caffeine timing, the sleep hygiene habits, the Whoop data creating accountability to something measurable. The couch wins less often now. The last time it happened is hard to remember.
 Your version of the couch is probably different. But you likely know what it is — the thing that feels like rest but leaves you worse off. The question isn't whether it shows up. It's whether you have engineered your environment to make the right choice easier than the wrong one. One small change here often produces a disproportionate return.
 
-* * *
+---
 
 Nutrition taught me to notice, not just consume. It changed how I think, not just how I look.
 The shift started gradually, as most of the important shifts in this journey did. The more attention I paid to what I was eating, the more I noticed the connection between specific foods and how my mind felt afterward. Not just energy levels. Actual cognitive clarity, or the absence of it. That awareness became the feeling I sought. It made choices easier, especially in restaurants. The question changed: "what sounds good?" became "what makes me feel good?" Those are different questions with different answers, and learning to ask the right one is a cognitive skill in its own right.
@@ -224,7 +224,7 @@ The learning arrived through contrast. Onion rings make me feel terrible. A side
 Of all the cognitive improvements in the hope practice, mindfulness improved the most for me. By that I mean the ability to notice what was happening in my body and mind, rather than operating on autopilot. Not just hunger and fullness, but whether I felt clear or foggy, energized or flat. That noticing is a skill that developed over months of paying close attention. The hope practice built the observer.
 None of this requires my exact system. The question worth asking is simpler: what would you have to notice, just notice, to know whether what you're putting in your body is working for your practice or against it? Not a diet. Not a protocol. Just paying attention to the connection between what you consume and how your mind operates afterward. That awareness, once it arrives, doesn't leave. It changes the question at every meal from "what sounds good?" to "what makes me feel capable?" Those are different questions. The second one is a hope question.
 
-* * *
+---
 
 Connection made the whole hope practice sustainable. Dr. Gupta dedicates a chapter of *Keep Sharp* to a concept he calls "connection for protection," and the evidence he marshals is substantial.[10] The research is clear: social connection is as essential to brain health as exercise, sleep, and nutrition. Isolation is a cognitive risk factor. Loneliness can accelerate decline. The relationships that hold you, challenge you, and witness your effort are doing biological work, not just emotional work.
 The circle, Debby, Kaylee, Dr. Lee, and the others who held the hope practice together, wasn't just emotional support. It was infrastructure. The creatine story is one illustration: Kaylee found the route, Dr. Lee validated it, the hope practice required both of them. Neither of them knew they were contributing to brain health when they played their parts. They were just doing their jobs. That's how We Power works. The community's contribution is often invisible to the contributors.
@@ -235,14 +235,14 @@ The nameless gym community is a quieter version of the same thing. The same peop
 Connection is not, in my experience, a luxury add-on to the hope practice. It is foundational. Whatever your version of a circle looks like, even one person who sees what you're building and says so, it's worth more than you'll know until you need it.
 The question for this pillar is honest and direct: are you more isolated right now than you need to be? Not lonely necessarily — isolated from the people who could witness what you're building. That's a different kind of alone, and it's one the hope practice is particularly vulnerable to. If the answer is yes, that's not a character flaw. It's a gap in the infrastructure. And it's fixable with a smaller move than you think.
 
-* * *
+---
 
 A brief word on the physical infrastructure more broadly, because it goes beyond the four pillars.
 The hope practice depends on consistency, and consistency is easier when the body has what it needs to keep showing up. For me, after 50, that meant taking an honest look at what the training required and filling the gaps systematically — including creatine monohydrate, which the research supports for both muscle preservation and possible cognitive benefits in older adults.[9] The specifics are mine and were developed with Dr. Lee. The principle is yours: the body is the vehicle the hope practice runs on. What does yours need that it isn't getting?
 That question looks different at every age and stage. It might be sleep. It might be that you're under-eating protein. It might be that you haven't moved your body in a way that felt good in longer than you can remember. The hope practice is not a mental exercise that happens to live in a body. It is a whole-person practice, and the body gets a vote on how well the rest of it runs.
 None of this replaces the hope practice. It supports the conditions the hope practice requires.
 
-* * *
+---
 
 By the time I walked into Dr. Lee's office in May 2025, the cognitive shift was already underway. The monitoring tools that had been essential in the early months, the app notifications, the food logging, the constant data tracking, had started to feel less necessary. The hope practice was internalizing. The scaffolding was coming down because the internal structure had taken its place.
 My head felt lighter. That's the most accurate description I have. The physical lightness of carrying forty fewer pounds was real too. There was also a cognitive lightness. The overhead of managing a new system had decreased because the system had become a way of life. The inner critic still showed up, still made its case, still tried to find the gap between what I intended and what I actually did. It had less room to operate. A brain that sleeps better, moves more, eats with intention, and stays connected to people worth being accountable to is not the same brain that was waiting for hope to arrive on its own.
@@ -251,7 +251,7 @@ The other shift was harder to measure but easier to feel. Hard things stopped ge
 That's the 90 percent: a probability shift made available through daily choices, one morning at a time.
 If the four pillars feel like more than you can take on right now, pick one. Behavioral science is fairly consistent on this point: lasting change is more likely to come from one habit practiced faithfully than from several habits started all at once. So choose the pillar that asks the least of you up front while offering the greatest return in your life right now, and give it thirty days of real commitment. That might mean a little more movement, a better boundary around sleep, a more intentional approach to one meal a day, or one honest conversation with someone who understands what you’re trying to build. That is the 90 percent too. Not four things at once, but one honest thing, done faithfully.
 
-* * *
+---
 
 That does not mean the path will look the same for everyone, or even that everyone begins from the same position. Some people face chronic conditions, caregiving responsibilities, financial constraints, or histories that make the starting line look very different. I recognize that. The privilege of time, resources, and support that made this hope practice possible for me is not equally distributed. The tools look different for different people. The hope practice doesn't.
 The point is not to copy my system. The point is to ask, honestly and without self-contempt, what is possible in your life right now that would move the probabilities in a better direction. Sometimes that's a morning workout. Sometimes it's a single walk. Sometimes it's one conversation with one person who sees you clearly. The 90 percent is not a single path. It's a direction.
@@ -261,7 +261,7 @@ The brain you have in ten years is not entirely predetermined. It is being shape
 The hope practice doesn't just build hope. It builds the brain that sustains hope when everything else is trying to drain it. That's not a minor benefit. That's the whole point.
 Ask yourself one question before the next morning begins: what does my system need today to give it the best shot? The answer changes. The question stays the same.
 
-* * *
+---
 
 # Chapter 4: The Foundation You're Already Standing On
 
@@ -269,7 +269,7 @@ The hope practice didn't come from nowhere. That is what I want you to understan
 The foundation wasn't labeled. It didn't look like preparation. It looked like a career pivot I almost didn't make, a training room I almost didn't walk into, a letter my father wrote when I was young that I filed away and didn't think about again for decades. It looked like a collaboration that started as a conference presentation idea and turned into something neither of us expected. It looked like a word that arrived on an ordinary morning and changed how I started every day that followed.
 Looking back, the thread is unmistakable. The choices, the relationships, the principles, the moments of discomfort I pushed through rather than turned away from: all of it was pointing somewhere. When the moment came that I needed something solid to stand on, the ground held. That is not luck. That is what accumulated foundation does. The same is true for you, even if you cannot see it yet. This chapter is about what that foundation looked like, and how it got there, yours as much as mine.
 
-* * *
+---
 
 In June 2017, I walked into a training room at 3M. The co-creator of Scrum was teaching a Product Owner course, and I had to understand the real thing. I had worked with Scrum teams for years. I had even impersonated a Product Owner at one point. I had never gone to the source. I was curious, and curiosity has always been one of the better decisions I've made.
 What I found in that room was not what I expected. Dr. Jeff Sutherland and his colleague stood in front of an audience that included a fair number of skeptics. Corporate training rooms have a way of attracting people who have decided in advance that the thing being taught will not apply to them. These two did not perform enthusiasm. They stood in it. They had done the work, and the work had receipts, and the receipts were sitting right there on the slides and in the results and in the quiet confidence of people who know what they built and why it works. That was not performance. That was what it looks like when you have built something real and spent years proving it.
@@ -283,7 +283,7 @@ Commitment to showing up, especially on the days when showing up is hard. Focus 
 I carried those values into the lab transformation. I carry them into the weight room at 5 am. I carry them into this book.
 What are yours? Not the ones you'd cite in a performance review. The ones that kept showing up even when you didn't call them by name, the commitments you kept finding yourself making, the line you kept refusing to cross. They are already there. This chapter is partly about learning to see them.
 
-* * *
+---
 
 I want to take you back further. To July 3, 1985.
 My father wrote a letter that summer. He addressed it to his children. He titled it "Things I Have Learned (Sometimes at Great Expense) Over the Past 22 Plus Years of Married Life." It had eleven items. I was nineteen years old when he wrote it.
@@ -301,7 +301,7 @@ I think about my father often. He spent his final years losing himself to Alzhei
 That is the shadow that follows this journey. Part of what drives it. The 90 percent of dementia risk that research tells us is modifiable sits in the same conversation as the five Scrum values and the ABS principles and the keyword. All of it points at the same thing. The hope practice is not just about feeling better. It is about staying present for the life still ahead.
 He couldn't build the hope practice he deserved. I can build mine. I owe it to him to do exactly that.
 
-* * *
+---
 
 In 2018, I attended the Global Scrum Gathering in Minneapolis. I had been living inside the Scrum world for only a couple of months at that point. I had taken on the role that scared me. The credentials were starting to accumulate.
 Something was still missing. The agile community was full of people who transformed teams and organizations. The retrospectives, the sprint reviews, the daily standups were all designed to make groups of people more effective together. Very few people were asking the harder question. What about the individual? What about the person showing up to those retrospectives, carrying their own backlog of unexamined habits, unaddressed fears, and unasked questions?
@@ -322,7 +322,7 @@ The North Star Workshop became our flagship exercise. Sessions followed. Convers
 Principle 8 is the one that lives in my daily practice most visibly. It is being more over doing more. I heard a version of this idea from Dr. Michael Gervais years earlier, in a different context. What it does is shift the fundamental question. The question stops being what I will accomplish today and becomes who I am becoming. Not how many reps I completed, but whether I am becoming the person I said I wanted to be.
 The inner critic is very happy to offer things to do that prioritize comfort over progress. That is a feature, not a bug. It is doing exactly what it was designed to do. It keeps you safe and familiar and unchanged. Principle 8 breaks that pattern by changing the question entirely. You are not asking whether you should go to the gym. You are asking whether you are becoming the person in those pictures. That second question is much harder to refuse.
 
-* * *
+---
 
 Which brings me to the word I have not mentioned yet in this book.
 Pictures.
@@ -348,7 +348,7 @@ Your keyword is yours to find. It won't be Pictures. It will be whatever holds t
 Here is how to try. Set aside ten minutes when you won't be interrupted. Think past the week and the month, all the way out to the years still ahead. Ask yourself: what moments am I still building toward? Whose face comes to mind when I think about why any of this matters? What would I regret most not having done or become? What would I want someone who loves me to say about who I showed up as?
 Let a word or a short phrase arrive. Don't force it — let it surface. Then say it out loud. Not in your head. Out loud, the way you'd say it at 5 am when you're half awake and the inner critic is already running. Does it slow your breath? Does something tighten across your chest or your shoulders? Does it feel true in a way that's hard to argue with? That physical response is the signal Gervais describes. If it's there, you found it. If it isn't, try a different word. Some people land on theirs in ten minutes. Others need a few days of circling. Either is fine. What matters is that when you find it, it doesn't just make sense — it lands.
 
-* * *
+---
 
 Chip Conley walked into Airbnb at 52 as the oldest person on the leadership team by a margin that was hard to ignore. Surrounded by people half his age who knew things about technology and culture and the assumptions of a new generation that he didn't, he came in as the so-called adult in the room. What he brought was different: pattern recognition, emotional intelligence, a long memory for what had worked and what hadn't in organizations he had built over three decades.[17]
 What he discovered in that experience became his framework for what he calls the Modern Elder, someone who arrives at midlife not with obsolescence, but with accumulated wisdom. Someone who has built enough, failed enough, and learned enough to be genuinely useful in a world that often assumes experience is a liability. His core argument is simple. What you have built over decades is not a weight to carry. It is an asset to spend.
@@ -357,7 +357,7 @@ I was not starting from zero. None of us are.
 Conley's work names something that most of us feel but rarely say. At 60, the goal is not to pretend the years didn't happen. The goal is to use them. Every hard conversation you navigated. Every role that scared you before you took it. Every relationship that taught you something you didn't know you needed. Every principle you lived before you named it. All of it counts. All of it is available.
 The hope practice didn't replace what I had built. It organized it. It gave it direction and urgency. It asked a better question. The measure was no longer what I had accomplished. It was who I am still becoming, and what that person needs from me today.
 
-* * *
+---
 
 Here is what I want you to take from this chapter.
 You probably have more foundation than you think.
@@ -374,14 +374,14 @@ I am aware that not everyone has a letter from a father who knew how to write on
 Yours may be smaller than mine, and it will still hold. I have a rich pile to stand on, and I know it, and I know how that can read from where you are sitting. So let me say the quiet part plainly. The method does not require a letter or a career or a co-creator. It works on scraps. One promise you kept when it would have been easier to break it. One teacher who saw something in you for a single afternoon and said so. One time you were certain you would quit and did not. That is foundation. It does not look like much because foundation never does from the inside. The man who poured mine thought he was just writing his kids a note. The smallest true thing you have done is load-bearing. You do not need a deep foundation to stand. You need a real one, and you already have more real than you think.
 Look back before you look forward. The foundation is already under you. The work is learning to stand on it.
 
-* * *
+---
 
 # Chapter 5: Name It Before It Names You
 
 The inner critic doesn't wait for permission. It arrives before the alarm goes off. It is already running when you open your eyes at 5 am, fully formed, with a complete inventory of reasons why today should be different. Stay in bed. You're tired. One day won't matter. It has been practicing longer than the hope practice has existed. It knows your specific vulnerabilities better than almost anyone.
 This chapter is about learning to name it before it names you. Because a named thing loses some of its power. Not all of it. Enough.
 
-* * *
+---
 
 My inner critic has two distinct voices, and I want to name both of them precisely, because precision is the beginning of the work.
 The first voice sounds like me. It is mocking, self-deprecating, and usually profane. It attacks competence. The line it runs most often questions my intelligence, my judgment, my ability to do the thing in front of me. It doesn't build a case. It doesn't need one. It just narrows the aperture on what seems possible, quietly and persistently, until the room feels smaller than it was.
@@ -391,7 +391,7 @@ That question sounds like judgment. It is actually reverence. My father never di
 As I have gotten older, that second voice has gotten quieter. The evidence accumulated. The receipts kept arriving. The 2006 conversation and everything that followed became their own answer to the question his voice was asking. The critic borrowed the voice. The advocate earned the answer.
 Naming both voices was the first act of the inner advocate.
 
-* * *
+---
 
 Here is what the inner critic actually is. Not an enemy. Not a failure of character. Not something wrong with you that needs to be fixed before the hope practice can work.
 It is an ego protection mechanism. Its job is to keep you safe, familiar, and unchanged. It was designed for that purpose, and it is very good at its work. When you stand at the edge of something new and the critic gets loud, that is the system functioning as intended. The loudness is not evidence that you are wrong. It is evidence that you are growing.
@@ -399,7 +399,7 @@ C.R. Snyder's Hope Theory gives the inner critic its proper place in the framewo
 I learned to read the critic as a signal rather than a verdict. If it isn't making noise, I am probably not growing. The noise means I am heading somewhere. The somewhere is usually worth the noise.
 Understanding the mechanism doesn't silence it. What it does is change the relationship. You stop taking it personally and start taking it seriously as information. The critic is telling you something about what matters to you, which direction has stakes, which choice has enough weight to trigger the protection system. That is useful data. The critic just doesn't get to interpret it.
 
-* * *
+---
 
 Dr. Michael Gervais names a specific dimension of the inner critic that most people don't isolate. He calls it FOPO: the Fear of Other People's Opinions.[15] It is the social version of the critic, the one that doesn't say "you can't do this" but says "what will they think if you try and fail?" FOPO is particularly insidious because it targets the hope practice at its most exposed moment, when you release something into the world and wait to see where it lands.
 The clearest experience I have with FOPO wasn't the hope Substack. It was the early days of Agile Best Self.
@@ -409,7 +409,7 @@ That moment arrived in March 2020. The pandemic changed everything. The agile co
 That's the pattern worth knowing. FOPO rarely loses an argument. It loses its grip. The grip loosens when the why becomes larger than the what-will-they-think. Find the why that's large enough, and FOPO becomes irrelevant.
 Before moving on: where does FOPO show up most reliably in your hope practice? Not the obvious public version — the subtler one. The thing you haven't started because of what someone might think. The version of yourself you haven't let out yet because the imagined audience has already rendered its verdict. Name the specific place where FOPO has a seat at your table. That's where the why needs to get louder.
 
-* * *
+---
 
 Shirzad Chamine's Positive Intelligence framework identifies ten saboteurs, specific versions of the inner critic that each operate differently and require different counter-moves.[19] My profile: Hyper Vigilant at 8, Pleaser at 8, Hyper Achiever at 6.
 Three saboteurs. Three specific failure modes. All of them showed up in the health journey with recognizable faces.
@@ -426,7 +426,7 @@ What makes it harder to set down: legacy. I don't want my last project to be a d
 The good news: I no longer carry the same existential worry about employment that I once did. Financial security changes the texture of the fear. The floor is there. The hope practice can run on the real fuel, legacy and meaning, rather than the anxious fuel, which is survival. The work now is letting go of what I cannot control and focusing entirely on what I can.
 That is not the Pleaser's answer. That is the inner advocate's.
 
-* * *
+---
 
 Brené Brown identifies shame as the inner critic's most powerful weapon.[20] Not "you made a mistake" but "you are a mistake." Not a verdict on the action but a verdict on the person. It is the deepest version of the critic's attack and the one most corrosive to hope, because it doesn't just block the next step. It argues that the next step is not yours to take.
 For me, shame shows up most specifically around the fear of falling short for the people I love most. The inner critic in my own voice runs a particular line in those moments: You fell short. You should have known. You're not working hard enough. That's not competence being questioned. That's worthiness. It is the critic at its deepest register.
@@ -435,7 +435,7 @@ Most of the time the counter-move works. When I can step outside what the inner 
 Brown opens *Daring Greatly* with Roosevelt's "Man in the Arena," and it names the thing exactly: the man who strives valiantly, who errs, who comes short again and again, because there is no effort without error and shortcoming.[22] The inner critic wants to make falling short a character verdict. The arena says it is the price of showing up at all.
 The floor is still there. The values built over decades, the receipts accumulated, the practice still running every morning: none of it prevents the gap from appearing. It prevents the gap from becoming the final word.
 
-* * *
+---
 
 Mel Robbins spent years studying the gap between intention and action, the space where the inner critic lives most comfortably.[16] Her answer is the 5 second rule: 5-4-3-2-1, move. The countdown engages the prefrontal cortex, the part of the brain responsible for deliberate decision-making, before the emotional brain can override the impulse with a reason to stay still. You're not pushing through the feeling. You're routing around it entirely.
 A few weeks ago I loaded the bar for the bench press at a weight and rep combination I hadn't attempted before. Bench press requires focus. You can't drift. The mechanics matter, the breathing matters, the commitment to the movement matters. The critic knew that. Its line wasn't aggressive. It was reasonable. "I don't know. Maybe another day. Maybe you're not quite ready."
@@ -444,7 +444,7 @@ That's the sneaky version. Not a declaration, just a seed of hesitation dressed 
 The countdown doesn't argue with the critic. It doesn't evaluate whether the critic has a point. It just closes the window. The brain shifts from doubt to execution in five seconds, and by the time the count reaches one, the body is already in motion. The lift was successful. The critic's "maybe another day" became a receipt. Evidence that the day was exactly right, and that the critic's reasonable-sounding caution was the same thing it always is: comfort dressed up as wisdom.
 I use the rule at 5 am when the alarm goes off and every part of me wants to stay in bed. I use it in the weight room when the set is heavier than yesterday. I use it before difficult conversations when the Pleaser is making the case for postponement. The mechanism is the same every time. The window is the same five seconds. The critic loses the window more often than it wins.
 
-* * *
+---
 
 The inner advocate doesn't always arrive first. Most mornings the critic gets there ahead of it. What matters is that the advocate shows up at all, and that it knows its job: not to win the argument, but to move.
 Most of the time the advocate sounds like my own voice, steadier than the mocking version. "You got this." "I can do hard things." Short, direct, not interested in debate. It doesn't engage the critic's case. It acts before the case is fully made.
@@ -455,7 +455,7 @@ The clearest moment I have of the advocate winning happened the first morning I 
 The day the clearance came, the critic's "be careful" lost its standing. The conditions had changed. The advocate didn't need to argue. It just moved. The critic's caution had been appropriate for the circumstances it was describing. Those circumstances no longer applied. Trust in the surgeon, compliance earned through the recovery, and then the freedom to walk back into the weight room without apology or negotiation.
 That morning, the advocate didn't need to be loud. It just needed to be present.
 
-* * *
+---
 
 You already know what your inner critic sounds like. You have been living with it your whole life. The question is not how to silence it. You cannot silence it, and that is not the goal. A silenced critic would mean you were never risking anything. The noise is the evidence that the stakes are real.
 The question is whether you can name it fast enough to keep it from writing the story before you do.
@@ -464,6 +464,6 @@ Then move before it finishes the sentence.
 5-4-3-2-1. The keyword. The picture in your mind. The voice of someone whose face will be in the photographs. Use whatever closes the window. The advocate doesn't win by being louder. It wins by moving first.
 Name it before it names you. The hope practice starts the moment you do.
 
-* * *
+---
 
 *End of Chapter 5*
