@@ -44,9 +44,6 @@ Start here. The rest is coming.
 
 {mainmatter}
 
-{class: center}
-## Chapter 1
-
 # I Called It Hope. I Was Just Waiting.
 
 There is an idea about hope most of us grew up with that turns out to be wrong. Not slightly off, not in need of a minor adjustment, but fundamentally, consequentially wrong in a way that leaves people stuck for years without understanding why.
@@ -99,7 +96,7 @@ What changed first was not my circumstances. For months before that February mor
 
 Which brings us to what hope really is.
 
-C.R. Snyder spent decades studying hope as a psychological construct and arrived at a definition that dismantles everything most of us think we know about it. Hope, Snyder argued, is not an emotion. It is cognitive, a motivational state built on two distinct engines. The first is agency: the belief that you have the capacity to move forward, that your choices matter and can change what happens next, and that you are not simply a passenger in your own circumstances. The second is pathways: the ability to find or create alternative strategies when the obvious route is blocked, the willingness to look for another way when the first way closes. Neither engine is passive. Both require active, ongoing engagement. Hope is not a feeling that arrives when you wait long enough. It is something you build, deliberately, through the choices you make and the actions you take. By practice, I mean something specific: a set of repeated behaviors, small daily commitments, taken consistently in the direction of something that matters deeply to you. For me, on an ordinary Tuesday, it looks like this: the alarm goes off at 5 am, I get to the gym, I do my training, and I take my time cleaning up for the day. I leave looking and feeling my best. That sequence is the hope practice made visible. Not dramatic. Not complicated. Just a set of repeated commitments, taken one morning at a time, in the direction of something that matters.[1]
+C.R. Snyder spent decades studying hope as a psychological construct and arrived at a definition that dismantles everything most of us think we know about it. Hope, Snyder argued, is not an emotion. It is cognitive, a motivational state built on two distinct engines. The first is agency: the belief that you have the capacity to move forward, that your choices matter and can change what happens next, and that you are not simply a passenger in your own circumstances. The second is pathways: the ability to find or create alternative strategies when the obvious route is blocked, the willingness to look for another way when the first way closes. Neither engine is passive. Both require active, ongoing engagement. Hope is not a feeling that arrives when you wait long enough. It is something you build, deliberately, through the choices you make and the actions you take. By practice, I mean something specific: a set of repeated behaviors, small daily commitments, taken consistently in the direction of something that matters deeply to you. For me, on an ordinary Tuesday, it looks like this: the alarm goes off at 5 am, I get to the gym, I do my training, and I take my time cleaning up for the day. I leave looking and feeling my best. That sequence is the hope practice made visible. Not dramatic. Not complicated. Just a set of repeated commitments, taken one morning at a time, in the direction of something that matters.^[Snyder, C.R. *The Psychology of Hope: You Can Get There from Here*. Free Press, 1994.]
 
 Sit with that for a moment, because there's more to it than first appears. If hope is a feeling, your job is to hold out for the conditions to align. If hope is a practice, something you construct through deliberate action, then the conditions don't have to be ideal first. You build it anyway. You start with what you have, where you are, right now. The waiting was never the path. It was the obstacle.
 
@@ -109,15 +106,15 @@ Optimism says things will be okay. Hope shows you what to do next.
 
 Ask yourself honestly: when the pressure comes, which one are you reaching for? If the answer is optimism, if you find yourself believing it will work out without a clear sense of what you plan to do, that's the gap this book is designed to close.
 
-Dr. Michael Gervais, one of the world's leading performance psychologists, teaches that optimism is a trainable disposition, worth cultivating, useful in practice, but ultimately a stance toward the future rather than a plan for navigating it.[5] Hope is something different. Hope is active, directional, and tied to specific action in specific moments. It arrived differently in my own experience than optimism ever did, and the clearest moment came somewhere I wouldn't have predicted. Shortly after my mother passed, a single word arrived during an Epiphany Sunday service: hope. What I felt wasn't simply comfort or the softening of grief. My next steps became clear. I needed to understand what hope truly was, what it required, and how to build it deliberately into my daily life. A pathway appeared in the middle of loss. That is not optimism. That is agency finding a route forward when the going is hardest.
+Dr. Michael Gervais, one of the world's leading performance psychologists, teaches that optimism is a trainable disposition, worth cultivating, useful in practice, but ultimately a stance toward the future rather than a plan for navigating it.^[Gervais, Dr. Michael. *Finding Your Best*. HarperOne, 2024.] Hope is something different. Hope is active, directional, and tied to specific action in specific moments. It arrived differently in my own experience than optimism ever did, and the clearest moment came somewhere I wouldn't have predicted. Shortly after my mother passed, a single word arrived during an Epiphany Sunday service: hope. What I felt wasn't simply comfort or the softening of grief. My next steps became clear. I needed to understand what hope truly was, what it required, and how to build it deliberately into my daily life. A pathway appeared in the middle of loss. That is not optimism. That is agency finding a route forward when the going is hardest.
 
 ---
 
 Hope is also not the same as grit, and that distinction matters because the two get conflated regularly, often by people who are working hard and wondering why it doesn't feel like enough.
 
-Dr. Angela Duckworth's research on grit describes the combination of passion and perseverance that allows people to stay the course through difficulty and disappointment over long stretches of time.[2] Grit is about endurance: keeping going when the work is slow and the results are invisible. It is real, it is measurable, and it predicts success across a remarkable range of domains. Grit and hope work differently. Grit says keep going. Hope says keep looking for the way. A person with grit but without hope can spend years grinding forward in a direction that stopped making sense long ago, sustained by stubbornness but cut off from the flexibility to find a better route. A person with hope but without grit finds the path and loses it at the first serious obstacle, never building the staying power the journey requires. You need both. Knowing the difference between them matters, because they fail in different ways and need different remedies.
+Dr. Angela Duckworth's research on grit describes the combination of passion and perseverance that allows people to stay the course through difficulty and disappointment over long stretches of time.^[Duckworth, Angela. *Grit: The Power of Passion and Perseverance*. Scribner, 2016.] Grit is about endurance: keeping going when the work is slow and the results are invisible. It is real, it is measurable, and it predicts success across a remarkable range of domains. Grit and hope work differently. Grit says keep going. Hope says keep looking for the way. A person with grit but without hope can spend years grinding forward in a direction that stopped making sense long ago, sustained by stubbornness but cut off from the flexibility to find a better route. A person with hope but without grit finds the path and loses it at the first serious obstacle, never building the staying power the journey requires. You need both. Knowing the difference between them matters, because they fail in different ways and need different remedies.
 
-Mark Manson argues in *Everything Is F*cked* that the loss of hope in modern life comes primarily from two sources: an inability to tolerate discomfort, and confusion about what truly deserves our hope.[3] Both ring true. A real hope practice requires a level of honesty about reality that positive thinking can't sustain and wishful optimism can't provide. It requires clear-eyed acknowledgment of what is hard, what is true, and what truly matters, followed by consistent, deliberate action in that direction even when the action is uncomfortable. Especially then.
+Mark Manson argues in *Everything Is F*cked* that the loss of hope in modern life comes primarily from two sources: an inability to tolerate discomfort, and confusion about what truly deserves our hope.^[Manson, Mark. *Everything Is F\*cked: A Book About Hope*. HarperOne, 2019.] Both ring true. A real hope practice requires a level of honesty about reality that positive thinking can't sustain and wishful optimism can't provide. It requires clear-eyed acknowledgment of what is hard, what is true, and what truly matters, followed by consistent, deliberate action in that direction even when the action is uncomfortable. Especially then.
 
 It's worth pausing on those two sources before moving on. The inability to tolerate discomfort — that one shows up differently for different people. For some it's the 5 am alarm. For others it's a conversation they keep postponing, or a number on a screen they'd rather not see, or a decision they've been circling for months. The confusion about what truly deserves hope is subtler and often harder to name. What are you actually hoping for right now? Not the socially acceptable answer. The real one. If it's fuzzy, that fuzziness is worth sitting with, because the hope practice needs something specific to aim at. The clearer your target, the more useful everything that follows.
 
@@ -129,7 +126,7 @@ One more thing deserves clarity before we go further, and it's about the word wi
 
 I want to be transparent: this framing comes from a Christian tradition, and it is one I find personally meaningful. If it doesn't align with your beliefs, set it aside and take the principle: the worst moment is not the final word, and hope invites you to act accordingly.
 
-It shows up in how I think and talk about the hope practice, and I want to be clear about what it means, because the wrong definition makes the whole thing smaller than it is. Senator Raphael Warnock, preaching on Easter Sunday 2026 from Ebenezer Baptist Church, offered a framing that has stayed with me since I first heard it.[4] He said the Resurrection is the original hope practice. The win is not the absence of the tomb. The win is that the tomb does not get the last word.
+It shows up in how I think and talk about the hope practice, and I want to be clear about what it means, because the wrong definition makes the whole thing smaller than it is. Senator Raphael Warnock offered a framing in a CNN interview that has stayed with me since I first heard it.^[Warnock, Raphael G. CNN interview, 2026.] He said the Resurrection is the original hope practice. The win is not the absence of the tomb. The win is that the tomb does not get the last word.
 
 That framing is wide enough to hold every kind of story. For someone on a recoverable journey, working toward better health, rebuilding something that fell apart, recovering from a setback with a path forward, the win looks like momentum. A result better than the last one. A morning you showed up when staying home was easier. A conversation you chose to have instead of avoiding. For someone facing something permanent and irreversible, a terminal diagnosis, a loss that cannot be undone, a condition that no amount of effort will change, the win looks entirely different. One more day of full presence. One more act of meaning made in the time that remains. The story continuing, even when continuing is the hardest possible thing. The Resurrection does not erase the Crucifixion. It says the Crucifixion was not the end of the story.
 
@@ -154,9 +151,6 @@ In the chapters ahead, I'll walk you through exactly how agency and pathways bec
 Your journey looks different from mine. The costs you've been carrying are shaped by your history and your situation and the lines your version of the inner critic likes to run. What transfers across all those differences is the truth at the center of everything that follows: waiting doesn't work. The practice does. You have more of what you need to start than the inner critic will ever be willing to admit.
 
 ---
-
-{class: center}
-## Chapter 2
 
 # Hope Looks Different From Here
 
@@ -196,7 +190,7 @@ About three months into the journey, an InBody scan showed something I hadn't ex
 
 She introduced me to creatine monohydrate.
 
-Creatine monohydrate is a naturally occurring compound the body makes from amino acids, and you also get small amounts from meat and fish. Most of it gets stored in skeletal muscle, where it helps produce rapid energy during exercise. The issue for older adults is simple: muscle mass and strength tend to decline with age, and research shows creatine, especially when paired with resistance training, can help improve lean mass, strength, and functional capacity.[9] That was the part that mattered to me. I was losing muscle along with fat, and Kaylee thought this was the missing piece.
+Creatine monohydrate is a naturally occurring compound the body makes from amino acids, and you also get small amounts from meat and fish. Most of it gets stored in skeletal muscle, where it helps produce rapid energy during exercise. The issue for older adults is simple: muscle mass and strength tend to decline with age, and research shows creatine, especially when paired with resistance training, can help improve lean mass, strength, and functional capacity.^[Antonio, J., et al. "Creatine for Exercise and Sports Performance, with Recovery Considerations for Healthy Populations." *Nutrients*, vol. 13, no. 6, 2021. https://pmc.ncbi.nlm.nih.gov/articles/PMC8228369/] That was the part that mattered to me. I was losing muscle along with fat, and Kaylee thought this was the missing piece.
 
 Two weeks later the scan came back. Body weight kept dropping. Muscle mass reversed course and trended clearly upward. The pathway I hadn't planned was working.
 
@@ -208,7 +202,7 @@ Pathways, in real life, don't always look like plans. They look like asking the 
 
 I recognize that some of what made this practice possible, the time, the resources, the support, not everyone has in equal measure. The tools look different for different people. The practice doesn't.
 
-In 2022, a team of researchers built on Snyder's framework and added something the original model had been missing.[6] The first extension is Why Power: hope fueled by goals aligned with personal identity and purpose, goals larger than self-interest. The second is We Power: the interpersonal dimension, where hope emerges from connection to other people and draws strength from it. High-hope people seek out community, support others in their goals, and welcome help in return. Hope is not a solo pursuit. It never was.
+In 2022, a team of researchers built on Snyder's framework and added something the original model had been missing.^[Camacho-Morles, J., et al. "A New Hope for Positive Psychology: A Dynamic Systems Reconceptualization of Hope Theory." *Frontiers in Psychology*, vol. 13, 2022. https://doi.org/10.3389/fpsyg.2022.809053] The first extension is Why Power: hope fueled by goals aligned with personal identity and purpose, goals larger than self-interest. The second is We Power: the interpersonal dimension, where hope emerges from connection to other people and draws strength from it. High-hope people seek out community, support others in their goals, and welcome help in return. Hope is not a solo pursuit. It never was.
 
 Why Power showed up for me as a question I couldn't quit asking: what story do I want my kids to tell when they look at the photographs years from now? Not how I looked. Who I was. Whether I was present. That question was bigger than any fitness goal. It reached past the gym and past the scale into the part of a life that outlasts the person living it. The photographs would still be there after I was gone. The story they told was still getting written.
 
@@ -218,7 +212,7 @@ Finding the anchor took deliberate work. I already had the tools. Simon Sinek's 
 
 The standard in Gervais's work is under 25 words. I took it further. One word. Simple enough to access in a fraction of a second, specific enough to carry the full weight of the why. When I land on the right word, I feel it in my spine and across my shoulders. The body confirms what the mind was reaching for. That response is the signal. It means the anchor is real.
 
-I'll come back to this word and the full story of how it emerged in Chapter 4. What matters here is the mechanism: the anchor is the Why Power made portable. A sufficiently meaningful why can carry you through the moments when the how feels impossible.
+I'll come back to this word and the full story of how it emerged later in this book. What matters here is the mechanism: the anchor is the Why Power made portable. A sufficiently meaningful why can carry you through the moments when the how feels impossible.
 
 We Power showed up as Debby, then Kaylee, then Dr. Lee, and the rest of the circle that helped hold this together. Here's one example of what that looked like in practice.
 
@@ -232,9 +226,9 @@ Who in your life has already played some version of this role, even if they didn
 
 ---
 
-Daniel Pink's research on intrinsic motivation identifies three things that help people sustain effort over time: autonomy, the freedom to direct your own work; mastery, the satisfaction of getting better at something that matters; and purpose, the sense that your effort connects to something larger than yourself.[7] External pressure, a doctor's prescription, a number on a scale, somebody else's expectation, can start the engine. It usually doesn't keep it running. The fuel has to come from inside. Pink's framework helps explain why the one-day sprint worked for me: it gave me full ownership of the commitment. Nobody was watching. Nobody was grading. The autonomy was complete.
+Daniel Pink's research on intrinsic motivation identifies three things that help people sustain effort over time: autonomy, the freedom to direct your own work; mastery, the satisfaction of getting better at something that matters; and purpose, the sense that your effort connects to something larger than yourself.^[Pink, Daniel. *Drive: The Surprising Truth About What Motivates Us*. Riverhead Books, 2009.] External pressure, a doctor's prescription, a number on a scale, somebody else's expectation, can start the engine. It usually doesn't keep it running. The fuel has to come from inside. Pink's framework helps explain why the one-day sprint worked for me: it gave me full ownership of the commitment. Nobody was watching. Nobody was grading. The autonomy was complete.
 
-Simon Sinek's concept of the infinite game sits underneath all of this.[8] A finite game has a winner and a finish line. An infinite game doesn't. The point isn't to win once. The point is to keep playing, keep building, and leave the people who come after you better than you found them.
+Simon Sinek's concept of the infinite game sits underneath all of this.^[Sinek, Simon. *The Infinite Game*. Portfolio/Penguin, 2019.] A finite game has a winner and a finish line. An infinite game doesn't. The point isn't to win once. The point is to keep playing, keep building, and leave the people who come after you better than you found them.
 
 Before I tell you what mine is: what would yours be, if you let yourself say it out loud? It’s the awkward, unfinished first draft that has been rattling around in your head for some time, just waiting to come out.
 
@@ -276,9 +270,6 @@ The hope you were waiting for was never going to arrive on its own. Waiting does
 
 ---
 
-{class: center}
-## Chapter 3
-
 # The 90 Percent
 
 My father stopped sleeping in a bed years before he died. At some point during his Alzheimer's decline, his sense of day and night reversed. He would be awake at 3 am, restless and confused, and then asleep in his chair through the afternoon. The circadian rhythm that organizes everything, the hormone cycles, the memory consolidation, the cellular repair, had simply failed. A man who had always been up early, engaged and present, was now untethered from time.
@@ -293,7 +284,7 @@ The hope practice that began in February 2025 was always partly an answer to wha
 
 ---
 
-Dr. Sanjay Gupta, a neurosurgeon and one of the most respected voices in brain health, documents something in *Keep Sharp* that stopped me when I first encountered it: roughly 90 percent of cognitive decline is lifestyle-related, not genetic.[10] Only about 10 percent is determined by DNA. The rest is shaped by the choices made every day: what you eat, how you move, how you sleep, who you spend time with, and whether you keep challenging your brain with new learning.
+Dr. Sanjay Gupta, a neurosurgeon and one of the most respected voices in brain health, documents something in *Keep Sharp* that stopped me when I first encountered it: roughly 90 percent of cognitive decline is lifestyle-related, not genetic.^[Gupta, Dr. Sanjay. *Keep Sharp: Build a Better Brain at Any Age*. Simon & Schuster, 2021.] Only about 10 percent is determined by DNA. The rest is shaped by the choices made every day: what you eat, how you move, how you sleep, who you spend time with, and whether you keep challenging your brain with new learning.
 
 That number doesn't promise anything. My father's outcome is not guaranteed to be mine. Nothing in the research says that. What it does say is that the odds are shapeable. The lifestyle choices available to any person willing to make them shift the probabilities in a measurable direction. That's not magical thinking. It's the honest version of what the hope practice actually offers: not control over the result, but influence over the conditions.
 
@@ -305,7 +296,7 @@ What surprised me most when I found it: building a hope practice isn't just good
 
 ---
 
-Exercise was the first pillar because it changed my brain fastest. Dr. John Ratey, a clinical professor of psychiatry at Harvard Medical School, makes a case in *Spark* that changed how I think about every morning workout.[11] The case is this: aerobic exercise physically remodels the brain. Not metaphorically, not in some general mood-improvement sense, but structurally, measurably, at the cellular level. The mechanism is BDNF, brain-derived neurotrophic factor, which Ratey describes as "miracle-gro for the brain." Exercise stimulates BDNF production. BDNF supports the growth and strengthening of neural connections and is associated with better alertness, attention, and motivation. A brain that exercises regularly is biologically different from one that doesn't.
+Exercise was the first pillar because it changed my brain fastest. Dr. John Ratey, a clinical professor of psychiatry at Harvard Medical School, makes a case in *Spark* that changed how I think about every morning workout.^[Ratey, Dr. John. *Spark: The Revolutionary New Science of Exercise and the Brain*. Little, Brown and Company, 2008.] The case is this: aerobic exercise physically remodels the brain. Not metaphorically, not in some general mood-improvement sense, but structurally, measurably, at the cellular level. The mechanism is BDNF, brain-derived neurotrophic factor, which Ratey describes as "miracle-gro for the brain." Exercise stimulates BDNF production. BDNF supports the growth and strengthening of neural connections and is associated with better alertness, attention, and motivation. A brain that exercises regularly is biologically different from one that doesn't.
 
 That biology runs the same for everyone. BDNF doesn't require a gym. A twenty-minute walk triggers it. A bike ride. A swim. Anything that raises your heart rate. The specific activity matters far less than the decision to move at all. Your version of this pillar doesn't have to look like mine — it just has to be yours, done consistently, in whatever form is actually available to you right now.
 
@@ -365,7 +356,7 @@ None of this requires my exact system. The question worth asking is simpler: wha
 
 ---
 
-Connection made the whole hope practice sustainable. Dr. Gupta dedicates a chapter of *Keep Sharp* to a concept he calls "connection for protection," and the evidence he marshals is substantial.[10] The research is clear: social connection is as essential to brain health as exercise, sleep, and nutrition. Isolation is a cognitive risk factor. Loneliness can accelerate decline. The relationships that hold you, challenge you, and witness your effort are doing biological work, not just emotional work.
+Connection made the whole hope practice sustainable. Dr. Gupta dedicates a chapter of *Keep Sharp* to a concept he calls "connection for protection," and the evidence he marshals is substantial.^[Gupta, Dr. Sanjay. *Keep Sharp: Build a Better Brain at Any Age*. Simon & Schuster, 2021.] The research is clear: social connection is as essential to brain health as exercise, sleep, and nutrition. Isolation is a cognitive risk factor. Loneliness can accelerate decline. The relationships that hold you, challenge you, and witness your effort are doing biological work, not just emotional work.
 
 The circle, Debby, Kaylee, Dr. Lee, and the others who held the hope practice together, wasn't just emotional support. It was infrastructure. The creatine story is one illustration: Kaylee found the route, Dr. Lee validated it, the hope practice required both of them. Neither of them knew they were contributing to brain health when they played their parts. They were just doing their jobs. That's how We Power works. The community's contribution is often invisible to the contributors.
 
@@ -385,7 +376,7 @@ The question for this pillar is honest and direct: are you more isolated right n
 
 A brief word on the physical infrastructure more broadly, because it goes beyond the four pillars.
 
-The hope practice depends on consistency, and consistency is easier when the body has what it needs to keep showing up. For me, after 50, that meant taking an honest look at what the training required and filling the gaps systematically — including creatine monohydrate, which the research supports for both muscle preservation and possible cognitive benefits in older adults.[9] The specifics are mine and were developed with Dr. Lee. The principle is yours: the body is the vehicle the hope practice runs on. What does yours need that it isn't getting?
+The hope practice depends on consistency, and consistency is easier when the body has what it needs to keep showing up. For me, after 50, that meant taking an honest look at what the training required and filling the gaps systematically — including creatine monohydrate, which the research supports for both muscle preservation and possible cognitive benefits in older adults.^[Antonio, J., et al. "Creatine for Exercise and Sports Performance, with Recovery Considerations for Healthy Populations." *Nutrients*, vol. 13, no. 6, 2021. https://pmc.ncbi.nlm.nih.gov/articles/PMC8228369/] The specifics are mine and were developed with Dr. Lee. The principle is yours: the body is the vehicle the hope practice runs on. What does yours need that it isn't getting?
 
 That question looks different at every age and stage. It might be sleep. It might be that you're under-eating protein. It might be that you haven't moved your body in a way that felt good in longer than you can remember. The hope practice is not a mental exercise that happens to live in a body. It is a whole-person practice, and the body gets a vote on how well the rest of it runs.
 
@@ -422,9 +413,6 @@ The hope practice doesn't just build hope. It builds the brain that sustains hop
 Ask yourself one question before the next morning begins: what does my system need today to give it the best shot? The answer changes. The question stays the same.
 
 ---
-
-{class: center}
-## Chapter 4
 
 # The Foundation You're Already Standing On
 
@@ -554,15 +542,15 @@ The timing wasn't planned. Jim didn't know what the word Pictures had come to me
 
 The research, it turns out, had already explained why this works. I found the keyword intuitively. The science explains why it was exactly right.
 
-C.R. Snyder spent decades studying hope and identified two engines. There is agency, the belief that you can move forward, and pathways, the ability to find a route when the obvious one is blocked. Neither is passive. Both require action. Pictures serves both simultaneously. It activates agency, giving me a reason to move, and it opens a pathway in the direction of something worth pursuing. When the inner critic chooses comfort, the word reconnects me to will and direction in under a second.[13]
+C.R. Snyder spent decades studying hope and identified two engines. There is agency, the belief that you can move forward, and pathways, the ability to find a route when the obvious one is blocked. Neither is passive. Both require action. Pictures serves both simultaneously. It activates agency, giving me a reason to move, and it opens a pathway in the direction of something worth pursuing. When the inner critic chooses comfort, the word reconnects me to will and direction in under a second.^[Snyder, C.R. *The Psychology of Hope: You Can Get There from Here*. Free Press, 1994.]
 
-Jane McGonigal's research in neuroscience surfaced something counterintuitive. When you imagine your future self, your brain treats that person as a stranger. Literally. MRI studies show neural patterns similar to imagining someone you've never met. This is why decisions that harm the person you will be tomorrow feel so easy to make today. Your future self is not yet real enough to protect.[14]
+Jane McGonigal's research in neuroscience surfaced something counterintuitive. When you imagine your future self, your brain treats that person as a stranger. Literally. MRI studies show neural patterns similar to imagining someone you've never met. This is why decisions that harm the person you will be tomorrow feel so easy to make today. Your future self is not yet real enough to protect.^[McGonigal, Jane. *Imaginable: How to See the Future Coming and Feel Ready for Anything*. Spiegel & Grau, 2022.]
 
 McGonigal calls the solution Episodic Future Thinking. The method is to simulate specific future experiences in vivid, sensory detail. Not "I want to be healthy someday." A specific room. A specific face. A specific moment, close enough to touch in your imagination. The more vivid the simulation, the more real your future self becomes. Present-day decisions shift toward that person.
 
 Pictures is a personal future simulation compressed into a single word. When I say it, I am not thinking abstractly about health goals. I am seeing specific photographs. Specific faces. Specific moments still ahead. My future self stops being a stranger and becomes someone worth getting out of bed for at 5 am.
 
-Dr. Sanjay Gupta, in his research on brain health, documents how meaningful purpose activates the brain differently than obligation does. You can get yourself to the gym out of guilt. The neurochemistry of guilt is not the same as the neurochemistry of meaning. When you speak a keyword with genuine conviction, when you feel that physical response Gervais describes, your brain releases something different. The hope practice is not just psychological. Every morning the keyword works, it is also a small act of brain training.[18]
+Dr. Sanjay Gupta, in his research on brain health, documents how meaningful purpose activates the brain differently than obligation does. You can get yourself to the gym out of guilt. The neurochemistry of guilt is not the same as the neurochemistry of meaning. When you speak a keyword with genuine conviction, when you feel that physical response Gervais describes, your brain releases something different. The hope practice is not just psychological. Every morning the keyword works, it is also a small act of brain training.^[Gupta, Dr. Sanjay. *Keep Sharp: Build a Better Brain at Any Age*. Simon & Schuster, 2021.]
 
 Not every morning lands the same way. I should tell you that, because you are going to have the morning I am about to describe. There are days I say the word and the response is slow to come. No flood in the spine, no pull across the shoulders, not yet. Just me in the kitchen, half dressed, saying a word to myself while the inner critic gets louder. It does not argue with the word on those mornings. It just turns up the volume on the thing it always wants, which is comfort over growth, the bed over the gym, today over the years still ahead. What I learned is that the feeling is not the practice. The feeling is a gift when it comes on time. When it is slow, the word is still a decision, and I can make a decision before I feel like it. So I say Pictures and I start moving anyway, half dressed, unconvinced. The going is the practice. The feeling almost always catches up, usually somewhere on the drive, and by the time it does I am already on my way.
 
@@ -578,7 +566,7 @@ Let a word or a short phrase arrive. Don't force it — let it surface. Then say
 
 ---
 
-Chip Conley walked into Airbnb at 52 as the oldest person on the leadership team by a margin that was hard to ignore. Surrounded by people half his age who knew things about technology and culture and the assumptions of a new generation that he didn't, he came in as the so-called adult in the room. What he brought was different: pattern recognition, emotional intelligence, a long memory for what had worked and what hadn't in organizations he had built over three decades.[17]
+Chip Conley walked into Airbnb at 52 as the oldest person on the leadership team by a margin that was hard to ignore. Surrounded by people half his age who knew things about technology and culture and the assumptions of a new generation that he didn't, he came in as the so-called adult in the room. What he brought was different: pattern recognition, emotional intelligence, a long memory for what had worked and what hadn't in organizations he had built over three decades.^[Conley, Chip. *Wisdom at Work: The Making of a Modern Elder*. Currency, 2018.]
 
 What he discovered in that experience became his framework for what he calls the Modern Elder, someone who arrives at midlife not with obsolescence, but with accumulated wisdom. Someone who has built enough, failed enough, and learned enough to be genuinely useful in a world that often assumes experience is a liability. His core argument is simple. What you have built over decades is not a weight to carry. It is an asset to spend.
 
@@ -622,9 +610,6 @@ Look back before you look forward. The foundation is already under you. The work
 
 ---
 
-{class: center}
-## Chapter 5
-
 # Name It Before It Names You
 
 The inner critic doesn't wait for permission. It arrives before the alarm goes off. It is already running when you open your eyes at 5 am, fully formed, with a complete inventory of reasons why today should be different. Stay in bed. You're tired. One day won't matter. It has been practicing longer than the hope practice has existed. It knows your specific vulnerabilities better than almost anyone.
@@ -661,7 +646,7 @@ Understanding the mechanism doesn't silence it. What it does is change the relat
 
 ---
 
-Dr. Michael Gervais names a specific dimension of the inner critic that most people don't isolate. He calls it FOPO: the Fear of Other People's Opinions.[15] It is the social version of the critic, the one that doesn't say "you can't do this" but says "what will they think if you try and fail?" FOPO is particularly insidious because it targets the hope practice at its most exposed moment, when you release something into the world and wait to see where it lands.
+Dr. Michael Gervais names a specific dimension of the inner critic that most people don't isolate. He calls it FOPO: the Fear of Other People's Opinions.^[Gervais, Dr. Michael. *Finding Your Best*. HarperOne, 2024.] It is the social version of the critic, the one that doesn't say "you can't do this" but says "what will they think if you try and fail?" FOPO is particularly insidious because it targets the hope practice at its most exposed moment, when you release something into the world and wait to see where it lands.
 
 The clearest experience I have with FOPO wasn't the hope Substack. It was the early days of Agile Best Self.
 
@@ -677,7 +662,7 @@ Before moving on: where does FOPO show up most reliably in your hope practice? N
 
 ---
 
-Shirzad Chamine's Positive Intelligence framework identifies ten saboteurs, specific versions of the inner critic that each operate differently and require different counter-moves.[19] My profile: Hyper Vigilant at 8, Pleaser at 8, Hyper Achiever at 6.
+Shirzad Chamine's Positive Intelligence framework identifies ten saboteurs, specific versions of the inner critic that each operate differently and require different counter-moves.^[Chamine, Shirzad. *Positive Intelligence*. Greenleaf Book Group Press, 2012.] My profile: Hyper Vigilant at 8, Pleaser at 8, Hyper Achiever at 6.
 
 Three saboteurs. Three specific failure modes. All of them showed up in the health journey with recognizable faces.
 
@@ -707,21 +692,21 @@ That is not the Pleaser's answer. That is the inner advocate's.
 
 ---
 
-Brené Brown identifies shame as the inner critic's most powerful weapon.[20] Not "you made a mistake" but "you are a mistake." Not a verdict on the action but a verdict on the person. It is the deepest version of the critic's attack and the one most corrosive to hope, because it doesn't just block the next step. It argues that the next step is not yours to take.
+Brené Brown identifies shame as the inner critic's most powerful weapon.^[Brown, Brené. *Daring Greatly*. Gotham Books, 2012.] Not "you made a mistake" but "you are a mistake." Not a verdict on the action but a verdict on the person. It is the deepest version of the critic's attack and the one most corrosive to hope, because it doesn't just block the next step. It argues that the next step is not yours to take.
 
 For me, shame shows up most specifically around the fear of falling short for the people I love most. The inner critic in my own voice runs a particular line in those moments: You fell short. You should have known. You're not working hard enough. That's not competence being questioned. That's worthiness. It is the critic at its deepest register.
 
 Brown's research on male shame is specific: the response tends to land as weakness, failure, unworthiness. It doesn't arrive loudly. It arrives in the quiet after something didn't go the way it should have, when the gap between what you hoped to give and what you actually delivered becomes visible. Everyone who loves someone knows that gap. The hope practice doesn't close it permanently. It gives you a way back from it.
 
-Most of the time the counter-move works. When I can step outside what the inner critic is saying and observe it with some curiosity rather than inhabit it, the advocate has room to ask what's actually true. Cy Wakeman's Reality-based Leadership framework offers a practical question for exactly this moment: what would great look like right now?[21] That question moves the mind from the critic's noise to real problem-solving. It is the advocate's most direct route past shame.
+Most of the time the counter-move works. When I can step outside what the inner critic is saying and observe it with some curiosity rather than inhabit it, the advocate has room to ask what's actually true. Cy Wakeman's Reality-based Leadership framework offers a practical question for exactly this moment: what would great look like right now?^[Wakeman, Cy. *Reality-Based Leadership*. Jossey-Bass, 2010.] That question moves the mind from the critic's noise to real problem-solving. It is the advocate's most direct route past shame.
 
-Brown opens *Daring Greatly* with Roosevelt's "Man in the Arena," and it names the thing exactly: the man who strives valiantly, who errs, who comes short again and again, because there is no effort without error and shortcoming.[22] The inner critic wants to make falling short a character verdict. The arena says it is the price of showing up at all.
+Brown opens *Daring Greatly* with Roosevelt's "Man in the Arena," and it names the thing exactly: the man who strives valiantly, who errs, who comes short again and again, because there is no effort without error and shortcoming.^[Brown, Brené. *Daring Greatly*. Gotham Books, 2012.] The inner critic wants to make falling short a character verdict. The arena says it is the price of showing up at all.
 
 The floor is still there. The values built over decades, the receipts accumulated, the practice still running every morning: none of it prevents the gap from appearing. It prevents the gap from becoming the final word.
 
 ---
 
-Mel Robbins spent years studying the gap between intention and action, the space where the inner critic lives most comfortably.[16] Her answer is the 5 second rule: 5-4-3-2-1, move. The countdown engages the prefrontal cortex, the part of the brain responsible for deliberate decision-making, before the emotional brain can override the impulse with a reason to stay still. You're not pushing through the feeling. You're routing around it entirely.
+Mel Robbins spent years studying the gap between intention and action, the space where the inner critic lives most comfortably.^[Robbins, Mel. *The 5 Second Rule*. Savio Republic, 2017.] Her answer is the 5 second rule: 5-4-3-2-1, move. The countdown engages the prefrontal cortex, the part of the brain responsible for deliberate decision-making, before the emotional brain can override the impulse with a reason to stay still. You're not pushing through the feeling. You're routing around it entirely.
 
 A few weeks ago I loaded the bar for the bench press at a weight and rep combination I hadn't attempted before. Bench press requires focus. You can't drift. The mechanics matter, the breathing matters, the commitment to the movement matters. The critic knew that. Its line wasn't aggressive. It was reasonable. "I don't know. Maybe another day. Maybe you're not quite ready."
 
@@ -767,4 +752,3 @@ Name it before it names you. The hope practice starts the moment you do.
 
 ---
 
-*End of Chapter 5*
