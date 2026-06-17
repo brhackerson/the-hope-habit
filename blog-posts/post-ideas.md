@@ -106,7 +106,17 @@ Also joy knowing there's a reservation for next year. Same time, same friends, s
 
 ---
 
-## Completed Posts (for reference)
+---
+
+## Quotes to Save
+
+### Jane Fonda
+**"Showing up is an act of hope."**
+- Source: No Kings concert/rally, June 2026
+- Heard live by Brian, June 14, 2026
+- Connects directly to the hope practice's central argument — showing up is the practice, not a prerequisite for it
+- Possible use: Chapter 1, Chapter 7, closing of a post, Substack Note
+- **Status:** Unverified exact wording — Brian heard it live. Confirm before using in print.
 
 | Title | Substack | Published | File |
 |---|---|---|---|

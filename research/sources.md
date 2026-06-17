@@ -611,3 +611,21 @@ Arnold's Pump Club daily email, June 8, 2026
 ---
 
 *Last updated: June 8, 2026*
+
+### Brown, Brené
+**The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are**
+Hazelden Publishing, 2010
+- Key concepts relevant to the book:
+  - Joy vs. happiness: joy is a deep contentment linked to gratitude and available even amid difficult circumstances; happiness depends on how things are going and rises and falls with conditions
+  - Joy as a "good mood of the soul" — cultivated through gratitude practice, not dependent on external circumstances
+  - People with the greatest capacity for joy share one variable: they practice gratitude
+  - Gratitude as an active discipline, not a passive feeling — requires daily practice
+  - Vulnerability as the path to joy — leaning into joy requires the courage to be seen
+  - Shame resilience and wholehearted living as foundations for joy
+- **Connection to the book:** Connecting Joy and Hope post; Chapter 6 (Hope Cycle Receive/Recognize steps); gratitude as the discipline that sustains joy through adversity
+- **Status:** Ordered — not yet read by Brian. Key concepts drawn from secondary sources and confirmed research summaries. Brian to verify specific passages upon receipt.
+- **Possible relevance:** Post (Connecting Joy and Hope), Chapter 6 (Hope Cycle), Chapter 9 (community and connection)
+
+---
+
+*Last updated: June 16, 2026*

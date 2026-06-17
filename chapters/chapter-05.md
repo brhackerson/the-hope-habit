@@ -54,6 +54,8 @@ That's the pattern worth knowing. FOPO rarely loses an argument. It loses its gr
 
 Shirzad Chamine's Positive Intelligence framework identifies ten saboteurs, specific versions of the inner critic that each operate differently and require different counter-moves.[¹⁹] My profile: Hyper Vigilant at 8, Pleaser at 8, Hyper Achiever at 6.
 
+Chamine's work includes a free assessment at positiveintelligence.com that identifies your own saboteur profile. It takes about five minutes and the results are worth sitting with. Most people find the profile matches what they already suspected about their inner critic, and names a few things they hadn't quite articulated yet.
+
 Three saboteurs. Three specific failure modes. All of them showed up in the health journey with recognizable faces.
 
 The Hyper Vigilant saboteur scans constantly for what could go wrong. In the early months of 2025, that looked like tracking everything: workouts, eating, hydration, weight, body composition. Every data point logged, every metric captured. Debby noticed before I did. She would say I was going a little over the top with the tracking. She wasn't wrong.
@@ -62,6 +64,8 @@ What I knew at the time was that I needed that data to understand why the early 
 
 The scaffolding came down in a vivid, specific moment. I cancelled my Whoop subscription. The data no longer served where I was in the practice. I had gotten what I needed from it. The internal structure had taken over. Cancelling it felt like relief, not loss. That is the signal: when letting go of a tracking tool feels like freedom rather than risk, the Hyper Vigilant saboteur no longer runs the show.
 
+It shows up differently for different people. Obsessive research before a medical decision. Checking in on a relationship so often the checking becomes the problem. Monitoring a financial situation so closely the anxiety becomes the point rather than the data. The form changes. The pattern doesn't.
+
 The Hyper Achiever operates differently. It fills ambiguity with the worst possible story, before the evidence arrives. One morning after a workout, the scale showed a number that had increased. The hope practice was running. Workouts consistent, habits mostly intact. The Hyper Achiever had a ready story: the hope practice is drifting.
 
 The problem was that the receipt was incomplete. The inner advocate's counter was quieter. Wait.
@@ -69,6 +73,8 @@ The problem was that the receipt was incomplete. The inner advocate's counter wa
 A few weeks later, the full receipt arrived. Not drift. Growth. Lean muscle mass, building from the inside, not yet visible in the overall number. The story the Hyper Achiever wrote before the data arrived turned out to be wrong. That is the pattern with this saboteur: it doesn't need facts. It needs a gap. Give it incomplete data and it will fill the silence, confidently, in the worst possible light.
 
 The inner critic doesn't wait for evidence. The hope practice does. That difference is everything.
+
+The pattern is the same whether the ambiguous receipt is a scale, a quarterly review, a silent stretch in a relationship, or a creative project that hasn't produced results yet. The Hyper Achiever fills every gap with the worst possible story. The counter-move is always the same: hold the question open and wait for the actual receipt.
 
 The Pleaser is the sneakiest of the three because it hides inside values I actually respect. Reliability. Commitment. Showing up when it matters. My company had a significant deal to close, and I could see serious risks: risks that threatened both the client outcome and the profitability of the engagement. I raised those concerns with the leadership team. They heard me, agreed with my rationale, and went ahead anyway. I am the leader in charge of delivering it. I believe there is real trouble ahead. I feel less than safe.
 
@@ -80,6 +86,8 @@ The good news: I no longer carry the same existential worry about employment tha
 
 That is not the Pleaser's answer. That is the inner advocate's.
 
+The Pleaser's weight looks different for a caregiver who has given everything and has nothing left, or a parent who keeps saying yes to the wrong things because saying no feels like failing the people who need them. The identity is the same: the one who shows up, regardless. The counter-move is also the same: name what you can control, release what you can't, and let the inner advocate answer instead of the Pleaser.
+
 ---
 
 Brené Brown identifies shame as the inner critic's most powerful weapon.[²⁰] Not "you made a mistake" but "you are a mistake." Not a verdict on the action but a verdict on the person. It is the deepest version of the critic's attack and the one most corrosive to hope, because it doesn't just block the next step. It argues that the next step is not yours to take.
@@ -88,9 +96,9 @@ For me, shame shows up most specifically around the fear of falling short for th
 
 Brown's research on male shame is specific: the response tends to land as weakness, failure, unworthiness. It doesn't arrive loudly. It arrives in the quiet after something didn't go the way it should have, when the gap between what you hoped to give and what you actually delivered becomes visible. Everyone who loves someone knows that gap. The hope practice doesn't close it permanently. It gives you a way back from it.
 
-Most of the time the counter-move works. Learning enough about how meditation functions to step outside what the inner critic is saying with some curiosity, observing it rather than becoming it, makes it possible to call the advocate in to find out what's actually true. Cy Wakeman's Reality-based Leadership framework offers a practical question for exactly this moment: what would great look like right now?[²¹] That question moves the mind from the critic's noise to real problem-solving. It is the advocate's most direct route past shame.
+Most of the time the counter-move works. Learning enough about how meditation functions to step outside what the inner critic is saying with some curiosity, observing it rather than becoming it, makes it possible to call the advocate in to find out what's actually true. Cy Wakeman's Reality-based Leadership framework offers a practical question for exactly this moment: what would great look like right now?[²¹] Not what did I do wrong, not how bad is the damage, not what does the critic say this means. What would great look like, starting from here. That question moves the mind from the critic's noise to real problem-solving. It is the advocate's most direct route past shame, and you can use it anywhere the critic has started writing a verdict.
 
-Roosevelt's "Man in the Arena," used by Brown as the epigraph for *Daring Greatly,* names the thing exactly: the man who strives valiantly, who errs, who comes short again and again, because there is no effort without error and shortcoming.[²²] The inner critic wants to make falling short a character verdict. The arena says it is the price of showing up at all.
+Roosevelt's "Man in the Arena," used by Brown as the epigraph for *Daring Greatly,* names the thing exactly: the man who strives valiantly, who errs, who comes short again and again, because there is no effort without error and shortcoming, and who at the worst, if he fails, at least fails while daring greatly.[²²] The inner critic wants to make falling short a character verdict. The arena says it is the price of showing up at all. If you are in the arena, if the gap appeared because you were trying to do something that mattered, the critic does not get to write that verdict. Roosevelt wrote that in 1910. Brown built a book around it. The hope practice runs on the same principle every morning.
 
 The floor is still there. The values built over decades, the receipts accumulated, the practice still running every morning: none of it prevents the gap from appearing. It prevents the gap from becoming the final word.
 
