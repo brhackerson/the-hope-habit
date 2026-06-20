@@ -1745,3 +1745,72 @@ Hope doesn't only live in the future. It lives in the distance already traveled,
 
 *Notes for writing: This is the most significant layer the keyword has revealed since its origin. Pictures works in both directions, forward (the wedding, the grandchildren) and backward (the InBody history, the dumbbell ritual, the father's uniform photo, the visitation photo loop). The concept of "borrowed hope from the past self" is original and strong: receiving hope from someone who had less reason to hope than you do now, not pity for who you used to be. The Shedd harbor quote ("ships are safe in harbor, but that's not what ships are built for") illustrates that the same old evidence can be read two ways depending on whether you're still in the harbor. Connects to Chapter 6 (keyword evolution, the central insight of the chapter), Chapter 4 (Pictures origin), Chapter 8 (receipts, InBody history), and the "Hope Doesn't Only Live in the Future" post.*
 
+
+---
+
+## #96 — What does it mean to build a hope practice for your future grandchildren in a world that feels uncertain?
+
+I don't have grandchildren yet. But building a hope practice for them means more than being present in their lives someday. It means being fully engaged, physically engaged, for a long time.
+
+Playing sports with them. Golfing, eventually, the way I once learned from my own father. Throwing a ball. Dribbling a soccer ball. Shooting a basketball. These are not abstract hopes. They are specific, physical, ordinary moments that require a body capable of doing them, not just a body that shows up to watch.
+
+That is the just cause underneath the keyword. Pictures is not only about being in the photograph. It is about being able to do something in the frame. A grandparent who can still get down on the ground to play, still chase a ball, still keep up, is offering something different than a grandparent who can only watch from a chair. Both are presence. Only one is the full version I am building toward.
+
+The uncertainty of the world doesn't change this. I cannot control what the world looks like when these grandchildren arrive. I can control whether the body waiting for them is capable of meeting them on the ground they'll want to play on.
+
+*Notes for writing: Important clarification — Brian has no grandchildren yet; this is entirely future-facing and should be phrased as "future grandchildren" throughout. The shift from presence to physical engagement is the key insight — not just showing up, but keeping up. The three specific activities (throwing, dribbling, shooting) ground the abstraction in real physical capability. This is the just cause material Chapter 6 needs: not a vague hope but a specific, embodied reason for the daily self-discipline. Connects to Chapter 6 (just cause, Sinek), Chapter 4 (Pictures origin, golf introduced by Brian's father at age 10), Chapter 12 (golf, breaking 80, physical capability as the target).*
+
+---
+
+## #34 — What future moment are you most hoping toward right now?
+
+Right now, I am hoping we will start spending winters in Florida, beginning this next one. The picture, likely a string of ordinary selfies, is Debby and me enjoying different activities and each other's company during a season we don't normally get to enjoy together. Minnesota winter keeps your body clenched without you noticing it. Shoulders up, jaw tight, contracted against the cold for months at a time.
+
+This isn't only about escaping the cold. It's about macro recovery, designed and planned rather than just hoped for. The same principle showed up on a recent trip: stepping off the plane into warm air, and both of us feeling our shoulders drop at the same moment. Neither of us said much. We didn't need to. That release was the practice working exactly as it's supposed to.
+
+Planning the Florida winters in advance is itself part of the hope practice. A vivid, specific future makes the present investment feel worthwhile. It's not just a future to look forward to. It's a future I'm actively building toward right now, in the choices that get made today.
+
+*Notes for writing: This connects directly to the "Shoulders Down" post and the macro recovery concept (Gervais — no off-season, only seasons of emphasis). The Florida winter hope is a near-term, attainable version of the Pictures keyword, distinct from the wedding and grandchildren scenes which are further out. Worth noting in Chapter 6 as a third type of future moment: not a milestone event, but a recurring season of life, planned and designed rather than waited for. Connects to Chapter 6 (specific future moments, just cause), Chapter 10 (recovery as part of the practice, Renewal Loop), and the Shoulders Down post.*
+
+---
+
+## #79 — What are you most proud of from this past year?
+
+Consistency. Not the dramatic version of it. The boring version: getting to the gym, eating with intention, protecting sleep, showing up on the days when none of it felt impressive.
+
+The clearest proof of this isn't a big win. It's a leg press machine refusing the weight outright, no warning, just a flat no from the body. I reduced the weight and finished the workout anyway. That's not a superpower moment. It looks like a bad day at the gym. But it's exactly what consistency actually is: not performing at your best, just showing up and finding a way to continue.
+
+The deeper test came from July through December 2025, during my mother's decline. Hospital visits, assisted living, the emotional and logistical weight of coordinating with family, all while a full caregiving load ran in parallel with everything else. It would have been completely justifiable to stop showing up for myself during that season. Nobody would have blamed that decision.
+
+I'm proud that I didn't make it. Choosing to keep going meant one thing: get there. And the discovery surprised me. The practice added energy instead of depleting it. Showing up for myself during the hardest season is what made showing up for my mother possible.
+
+In October 2025, on the day a nurse practitioner first raised hospice care with my mother, the morning workout was already done before I got the call. I was able to be fully present for that conversation because I had put myself first earlier that day, without my own emotions consuming the room. My mother asked what I thought. I answered calmly. She relaxed. That presence didn't happen by accident. It happened because consistency had already done its work that morning.
+
+That's what I'm proudest of. Not a transformation people can see in a photo. The thousand ordinary mornings that made the hardest day possible.
+
+*Notes for writing: This is the strongest material yet for what consistency actually means in the book — not perfect sessions, but showing up to imperfect ones and adapting. The leg press refusal is a vivid, specific, non-triumphant image that illustrates the principle better than any success story could. The October 2025 hospital room day is the chapter's emotional peak: consistency in the gym directly enabling presence in a hospice conversation. Connects to Chapter 3 (the hospital room story, already used there), Chapter 8 (consistency as the Build step of the Hope Cycle), and the "Consistency Doesn't Look Like a Superpower" post. Note: this material overlaps with #142 and #143, already answered — cross-reference rather than duplicate when drafting.*
+
+---
+
+## #80 — What are you still working on? What part of the practice is still hard?
+
+Staying distanced from the news cycle. So much happens every day, and the volume makes it hard to create any real separation from it. It's a constant drumbeat, and I still get wrapped up in it sometimes.
+
+What that looks like for me is mostly time lost and a noticeable mood shift. Not catastrophic, but real. An hour gone to scrolling. A heavier feeling that wasn't there before I looked.
+
+It is still hard. I haven't solved it. But it is noticeably easier to get through than it used to be. That's not nothing. The practice hasn't eliminated the struggle, but it has changed my capacity to move through it without losing as much ground.
+
+*Notes for writing: This is an honest, ongoing struggle rather than a resolved one, which matters for the book's credibility. The "easier to get through" detail is the receipt within the difficulty — progress doesn't always look like the problem disappearing, sometimes it looks like recovering faster from the same problem. Connects directly to Chapter 9's "Tuning the Instrument" section (filtering the world's noise, signal vs. noise, the news cycle as a finite game). Also connects to Chapter 5 (the inner critic feeding on the news cycle the way it feeds on ambiguous personal data). Avoid resolving this too neatly in the prose — the honesty of "still hard" is the point.*
+
+---
+
+## #81 — What do you wish you had known at the beginning that you know now?
+
+I wish I had known how much the volume and sheer pace of unsettling events in the world would test the practice. It isn't one bad headline. It's the accumulation, the sense that the ground is shifting faster than expected, that things once assumed to be stable aren't guaranteed.
+
+At the beginning, I underestimated how much that destabilization would compete with the practice for attention and energy. I thought the hardest adversity would be personal: the health numbers, the body, the inner critic. I didn't fully appreciate how much the wider world's noise would also need a place in the practice, not as a distraction from it, but as something the practice itself would have to learn to hold.
+
+What I know now: the practice has to be big enough for both. The personal adversity and the world's adversity aren't separate tracks. They show up in the same body, on the same mornings, competing for the same attention. Building a hope practice that only addresses one of them isn't enough.
+
+*Notes for writing: This answer stays within the writing rules — names the emotional weight of destabilization without partisan attribution, preserving universal accessibility. Connects directly to Chapter 9 ("Tuning the Instrument," filtering the world's noise) and #80 (still working on staying distanced from the news cycle). The insight that personal and world-level adversity compete for the same attention, in the same body, is a useful framing for the book broadly. Avoid any specific political reference when drafting from this.*
+

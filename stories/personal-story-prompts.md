@@ -73,7 +73,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 31. ✓ Tell me the full story of how "Pictures" became your keyword. Was there a specific moment it arrived?
 32. ✓ Describe a specific morning when the word "Pictures" saved you. What was happening and what did the word do?
 33. ✓ When you picture the photographs that will outlive you, what do you see specifically? Who is in them?
-34. What future moment are you most hoping toward right now?
+34. ✓ What future moment are you most hoping toward right now?
 35. What would you tell someone who can't find their keyword? What question would you ask them?
 
 ### Chapter 7: Autonomy — The System Nobody Else Can Build For You
@@ -146,9 +146,9 @@ Answer as much or as little as feels right for each question. Some will unlock a
 
 77. What does your hope practice look like right now, today, in this season of recovery and transition?
 78. How has the practice changed since the early dramatic days of the journey?
-79. What are you most proud of from this past year?
-80. What are you still working on — what part of the practice is still hard?
-81. What do you wish you had known at the beginning that you know now?
+79. ✓ What are you most proud of from this past year?
+80. ✓ What are you still working on — what part of the practice is still hard?
+81. ✓ What do you wish you had known at the beginning that you know now?
 82. ✓ What would you say to someone who is exactly where you were on the day of that doctor's visit?
 
 ---
@@ -163,7 +163,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 93. What is the difference for you between being saddened by what's happening in the world and losing hope? How do you hold both?
 94. ✓ Is there a moment where you saw hope practiced in your community — by a neighbor, a stranger, an institution — that stayed with you?
 95. What do you want readers who are struggling with the state of the world to take from this book? What would you say to someone who feels like hope is naive given everything that's happening?
-96. What does it mean to build a hope practice for your grandchildren in a world that feels uncertain? What are you hoping toward on their behalf?
+96. ✓ What does it mean to build a hope practice for your grandchildren in a world that feels uncertain? What are you hoping toward on their behalf?
 
 ---
 
