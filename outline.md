@@ -142,16 +142,18 @@ Some elements live in both categories simultaneously. Recovery is doing (you sch
 
 *Key sources:* Agile Best Self Principles 4, 8, 10, 12; Snyder (agency and pathways as active disciplines); Gervais (recovery as self-discipline); Clear (identity-based habits); Sinek (infinite game requiring renewal); Colla et al. 2022 (We Power as contribution discipline)
 
-### Chapter 6: Purpose — Find Your Why and Make It a Keyword
-The keyword as the daily access point to the whole practice. The three criteria from Dr. Michael Gervais: 25 words or less, speakable under duress, felt somewhere in your body when you say it.
+### Chapter 6: The Why Big Enough to Carry You
+Pictures was named in Chapter 4. This chapter doesn't re-introduce the word. It opens what's actually inside it.
 
-Dr. Jane McGonigal's Episodic Future Thinking — your brain treats your future self as a stranger. Vivid future simulation makes that person real enough to protect. "Pictures" is a personal future simulation compressed into one word.
+Sinek's just cause, applied directly to the keyword — not just a word that works neurologically, but a cause large enough to survive contact with a bad morning. The specific, named future moments Pictures actually contains: kids graduating, weddings, grandchildren not yet born, breaking 80 in retirement, winters somewhere warm with Debby. Each one given real weight instead of a passing list.
 
-The word "Pictures" — specific photographs, specific faces, specific moments that matter. The keyword finds you back.
+Dr. Jane McGonigal's Episodic Future Thinking gets its full treatment here. Your brain treats your future self as a stranger — MRI studies show the neural pattern resembles imagining someone you've never met. Vivid, specific future simulation is what makes that stranger real enough to protect. Pictures works because it is never abstract. It is a specific room, a specific face, a specific moment, rehearsed until the future self stops being a stranger.
 
-*Story woven in:* The full origin of "Pictures." The ABS North Star and Intention Canvas workshops. "Year of health" as identity declaration. The text message from Jim after surgery — the keyword arriving literal and real at the exact right moment.
+The keyword also evolves. What "Pictures" meant in February 2025 — survival, a reason to get out of bed — is not exactly what it means now. Returning to the word a year later and finding new layers in it is itself a receipt: evidence that the why was big enough to grow, not just big enough to start with.
 
-*Key sources:* Gervais (Finding Your Best — three criteria), McGonigal (Imaginable — EFT), Snyder (agency/pathways)
+*Story woven in:* Sitting with the word again, later in the practice, and noticing it had deepened. The specific future moments Pictures protects, named in detail. The difference between the word as a tool (Chapter 4) and the word as a cause (Chapter 6).
+
+*Key sources:* Sinek (Infinite Game — just cause), McGonigal (Imaginable — Episodic Future Thinking), Snyder (agency/pathways, Why Power)
 
 ### Chapter 7: Autonomy — The System Nobody Else Can Build For You
 The personal system — the workout plan, the nutrition approach, the sleep discipline, the supplement strategy. Designed for this body, this life, this season.
@@ -249,15 +251,15 @@ The dumbbell milestone ritual. Sutherland's retrospective reframed — hope comp
 *Part Three looks forward. The hope practice is not a means to an end — it is the thing itself, sustained and deepened over time.*
 
 ### Chapter 12: Hope Has a Target
-Hope is not vague aspiration. It needs something specific to aim at.
+Hope is not vague aspiration. It needs something specific to aim at — and Chapter 6 already named the cause. This chapter is where that cause gets lived, on a golf course, in a harness, on a trip with the people it was always for.
 
-Sinek's just cause. The Pictures concept as a just cause made personal and specific. Graduations. Weddings. Grandchildren. Breaking 80. The harness at Universal Epic Universe closing with room to spare — the receipt of a body prepared for what's still coming.
+The golf journey as the clearest evidence of hope having a target. Breaking 80. The harness at Universal Epic Universe closing with room to spare — the receipt of a body prepared for what's still coming.
 
 Conley's Modern Elder framing — the second half of life is not a slow decline. It is a season of purpose and contribution.
 
 *Story woven in:* The golf journey. The Orlando trip. The harness. The future recovery planned together.
 
-*Key sources:* Snyder, Sinek (Infinite Game), Pink (Drive — purpose), Conley (Wisdom at Work)
+*Key sources:* Snyder, Conley (Wisdom at Work)
 
 ### Chapter 13: Hope Forward
 The most powerful hope is the hope that reaches beyond your own lifetime.
@@ -342,5 +344,5 @@ Hope is not a feeling. It's a practice worth building. And it starts wherever yo
 
 *Total estimated chapters: 14 + Introduction + Part Two Introduction + Conclusion*
 *Estimated length: 200-300 pages*
-*Status: Seventh draft — Chapter 5 title updated to "Name It Before It Names You"; Chapters 1-4 complete*
-*Last updated: June 5, 2026*
+*Status: Eighth draft — Chapter 6 redefined as "The Why Big Enough to Carry You" (just cause, McGonigal, keyword evolution) since Pictures is now fully revealed in Chapter 4; Chapter 12 lightened accordingly; Chapters 1-5 complete*
+*Last updated: June 19, 2026*
