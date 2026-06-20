@@ -365,3 +365,18 @@ The specific scenario: waking at 4:30am to use the bathroom, not wanting to go b
 
 *Total questions: 150*
 *Last updated: June 5, 2026*
+
+---
+
+## New Questions — Added June 19, 2026 (Chapter 6)
+
+151. What did "Pictures" mean to you in February 2025, in the earliest days of the practice? How is that different from what it means to you now?
+
+152. Walk me through the specific future moments inside the word "Pictures." Not just "kids graduating" in general — the actual scenes you picture. What do you see, specifically?
+
+153. Is there a moment where you returned to the keyword later in the practice and found something new in it — a layer you hadn't noticed when you first chose the word?
+
+---
+
+*Total questions: 153*
+*Last updated: June 19, 2026*

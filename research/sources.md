@@ -629,3 +629,16 @@ Hazelden Publishing, 2010
 ---
 
 *Last updated: June 16, 2026*
+
+### Shedd, John A. (attributed)
+**"Ships are safe in harbor, but that's not what ships are built for."**
+- Widely attributed to John A. Shedd, from *Salt from My Attic* (1928), a collection of aphorisms
+- Used in the book to illustrate how old receipts (photographs, scan data, past evidence) can be read two different ways: as proof the harbor is safer, or as proof of what was always possible
+- The person who stays in the harbor reads old evidence as a warning. The person who leaves reads the same evidence as confirmation.
+- **Relevance to the book:** "Hope Doesn't Only Live in the Future" post; Chapter 6 (keyword working backward as well as forward); the inner critic's selective reading of past evidence vs. the practice's honest reading
+- **Status:** Quote attribution to be verified against *Salt from My Attic* before print publication.
+- **Possible relevance:** Chapter 6, Chapter 8 (reading the receipt)
+
+---
+
+*Last updated: June 19, 2026*
