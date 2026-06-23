@@ -1814,3 +1814,22 @@ What I know now: the practice has to be big enough for both. The personal advers
 
 *Notes for writing: This answer stays within the writing rules — names the emotional weight of destabilization without partisan attribution, preserving universal accessibility. Connects directly to Chapter 9 ("Tuning the Instrument," filtering the world's noise) and #80 (still working on staying distanced from the news cycle). The insight that personal and world-level adversity compete for the same attention, in the same body, is a useful framing for the book broadly. Avoid any specific political reference when drafting from this.*
 
+
+---
+
+## Breaking 80 (near miss) — the specific scene.
+
+I shot 80 today. So close. Had a real chance on the last hole.
+
+On the 18th, I was faced with a second shot that required hitting the ball low to stay under a tree, then rolling it up onto the green. The smart decision was simple: take a longer club, don't swing hard, make a smooth pass. No hero swing, no big hook around the tree. Just discipline applied to a single shot.
+
+It worked. The ball stayed under the tree and rolled up just past the green, leaving a flat chip shot with a real birdie chance. I played the chip well. It lipped out and stopped a foot away. Tap-in par. 80.
+
+What stays with me most is what wasn't there. The inner critic was not present on that hole. My brain was fully occupied with creative problem-solving: how do I get myself into position to make a birdie. There was no space left over for doubt to occupy.
+
+The lip-out wasn't disappointing. It was a low-probability shot to begin with. I gave it my best and was happy for the opportunity. The goal was never the putt. The goal was the shot under the tree, and that one came off close to flawless.
+
+Eighty is close enough now to feel real instead of theoretical.
+
+*Notes for writing: This is the breaking-80 scene Chapter 6 and Chapter 12 both need. The key insight: the inner critic wasn't silenced, it simply had no opening, because the mind was fully occupied with creative, present-moment problem-solving. That's a different mechanism than the 5 second rule or the keyword interrupting the critic. This is flow displacing it entirely. The smart, disciplined club selection (longer club, smooth swing, no hero shot) mirrors the hope practice's core argument: self-discipline, not heroics, produces the result. The calm response to the near-miss (low probability shot, gave it the best attempt, no disappointment) models the inner advocate's posture toward outcomes. Connects to Chapter 6 (breaking 80 as a specific future-turned-present moment), Chapter 12 (golf, breaking 80 as the recurring horizon), and Chapter 5 (the absence of the critic as its own kind of receipt).*
+

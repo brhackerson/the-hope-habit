@@ -1,6 +1,8 @@
 # Joy Showed Up When I Stopped Chasing It
 ## The hope practice cleared the path. Joy walked in.
 
+*Published: hopeisnotafeeling.substack.com — June 23, 2026*
+
 ---
 
 Joy is not the goal of the hope practice.
@@ -21,17 +23,25 @@ More landed. That is the clearest way I can say it. The practice had cleared som
 
 Brené Brown's research makes a distinction I find useful here, documented in *The Gifts of Imperfection.* Joy and happiness are not the same thing. Happiness depends on how things are going. It rises and falls with circumstances. Joy is something different, what Brown calls a good mood of the soul. It is available even when circumstances aren't favorable, and it deepens through gratitude, not through conditions improving.
 
-My experience at Lac Seul fits that description better than I expected. The fishing was good but not exceptional. The weather had a rainy day in it. Nothing about the trip was objectively perfect. Joy showed up anyway, because I showed up differently than I had before. The practice had done something to the receiver.
+My experience at Lac Seul fits that description better than I expected. The fishing was good but not exceptional. The mosquitoes were thick at times. Nothing about the trip was objectively perfect. Joy showed up anyway, because I showed up differently than I had before. The hope practice had affected the receiver.
 
 ---
 
-When the group came off the lake each day, photos went to a shared drive. One photo from this trip stopped me cold. Same pose I've had in every fishing trip photo for years: standing on the boat, holding a walleye, grinning. I searched the shared drives from 2023 and 2024 and found the same pose.
+This matters for more than a fishing trip. Circumstances improving is not a requirement for joy. Brown's distinction is precise about this: joy depends on gratitude, not on conditions getting better. That is the difference that makes it relevant to someone whose body will not get healthier, no matter what the practice looks like for them.
+
+For someone living with a terminal condition, the friction the hope practice clears is not always physical. It can be the friction of constant calculation, the mental noise of treatment schedules, prognosis, and fear that crowds out the ordinary moment in front of them. Presence is still the ingredient joy needs. It does not require a perfect body. It requires a mind that is here, now, with the people in the room, the meal on the table, the light through the window.
+
+The hope practice does not promise to fix the body. It promises to clear what it can, so that joy still has a place to land when it shows up. That is not a smaller hope. It may be the most important version of it.
+
+---
+
+When the group came off the lake each day, photos were posted to a shared drive. One photo from this trip stopped me cold. Same pose I've had in every fishing trip photo for years: standing on the boat, holding a nice big walleye, grinning. I searched the shared drives from 2023 and 2024 and found the same pose.
 
 The contrast was striking. Leaner face. Defined jawline. The body visibly changed across three years of photographs.
 
-I felt proud. Not the performing kind of proud, where you want someone to notice. The quiet kind, where the receipt arrives and you just sit with it for a moment. The photographs are not trophies. They are a reminder of who I am trying to become, and confirmation that the practice is working.
+I felt proud. Not the performing kind of proud, where you want someone to notice. The quiet kind, where the receipt arrives, and you sit with it for a moment. The photographs are not trophies. They are a reminder of who I am trying to become, and confirmation that the hope practice is working.
 
-They are also fuel. The keyword that started all of this was Pictures: the photographs still ahead, at weddings and retirements and ordinary Sundays that haven't happened yet. Now I have photographs from the practice itself. Evidence that the version I was becoming is arriving. The inner critic has a harder time arguing with three years of the same pose, side by side.
+They are also fuel. The keyword that started all of this was Pictures: the photographs still ahead, at weddings and retirements and ordinary Sundays that haven't happened yet. Now I have photographs from the hope practice itself. Evidence that the version I was becoming is arriving. The inner critic has a harder time arguing with three years of the same pose, side by side.
 
 The hope practice generated the pictures that motivated it from the beginning.
 
@@ -45,32 +55,20 @@ Knowing there is a reservation for next year, same time, same friends, same reso
 
 ---
 
-This coming Sunday is Father's Day. I get to spend the whole day with Debby and my kids.
+This past Sunday was Father's Day. I got to spend the whole day with Debby and my kids. These days come fewer and further between nowadays. I know that, and I knew it while it was happening. So I drank it in, every bit of it. I won't list the details here. The details aren't the point. The point is that I noticed. I was present enough to know, in real time, that I was receiving something I won't always get to receive. Less friction meant more presence. More presence meant the day landed the way it deserved.
 
-I know what that means differently than I would have three years ago. Not because the day changes, but because I have. Less friction means more presence. More presence means the day lands the way it deserves to land. The people the practice was built for, all in one place, for one ordinary Sunday.
-
-That is joy that hasn't arrived yet. The hope practice creates the conditions for it in advance.
+It is, for me, pure joy.
 
 ---
 
-Your practice looks different from mine. Your keyword is not Pictures. The place where joy finds you is somewhere else, with different people around it. What the practice produces is presence, and presence is the ingredient joy needs regardless of the setting. A walk, a meal, a conversation that actually went somewhere. These carry the same architecture as the shore lunch. The practice makes presence possible. Joy finds presence in any of those.
+Your practice looks different from mine. Your keyword is not Pictures. The place where joy finds you is somewhere else, with different people around it. What the hope practice produces is presence, and presence is the ingredient joy needs regardless of the setting. A walk, a meal, a conversation that actually went somewhere. These carry the same architecture as the shore lunch. The hope practice makes presence possible. Joy finds presence in any of those.
 
----
+Show up consistently in the direction of something that matters, and the hope practice will clear the friction that was keeping you from receiving what was already there. The joy was not new at Lac Seul. The version of me who could receive it was.
 
-Your practice looks different from mine. Your keyword is not Pictures. Your shore lunch is something else, somewhere else, with different people around it. The mechanism is the same.
+In joy, even for a moment, hope is present. The hope practice builds toward both. Not as goals. As byproducts of the hope practice.
 
-Show up consistently, in the direction of something that matters, and the practice will clear the friction that was keeping you from receiving what was already there. The joy was not new at Lac Seul. The version of me who could receive it was.
+Build the hope practice. Receive the joy. Name it before it passes. Point it forward.
 
-In joy, even for a moment, hope is present. The practice builds toward both. Not as goals. As byproducts of the practice.
-
-Build the practice. Receive the joy. Name it before it passes. Point it forward.
-
-That is the Hope Cycle running the way it was always designed to run.
+That is the Hope Cycle working as intended. Now let it find you.
 
 *Copyright © 2026 Brian Hackerson*
-
----
-
-## Notes
-
-Brown, Brené. *The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are.* Hazelden Publishing, 2010. *(Ordered — specific page references to be added upon receipt.)*
