@@ -642,3 +642,18 @@ Hazelden Publishing, 2010
 ---
 
 *Last updated: June 19, 2026*
+
+### Arnold's Pump Club / Bornstein, Adam and Ketchell, Daniel
+**"Are You Searching For Meaning? Start Here"**
+Arnold's Pump Club daily email, July 1, 2026
+- Core research finding: meaning has three components — mattering (your existence counts), purpose (you have direction and goals), and coherence (your life makes sense). Across three studies, mattering was the most consistent predictor of whether people later called their lives meaningful. Purpose and coherence added little additional benefit once mattering was present.
+- Key insight: meaning comes less from big goals and more from making a difference to people. "Purpose points you somewhere. Mattering makes the trip feel worth taking."
+- Practical implication: mattering doesn't require scale — it lives in the call to a friend who depends on you, the child you help handle a bad day, the coworker you check in on
+- **Connection to the book:** Strengthens We Power (Colla et al. 2022) and Why Power — the keyword Pictures is fundamentally about mattering to specific people, not about achieving goals. Relevant to Chapter 6 (the why big enough to carry you), Chapter 9 (You Can't Build It Alone — mattering as the mechanism underneath the circle), Chapter 2 (Why Power deepened)
+- **Status:** Brian received and read this email. Underlying research to be verified before citing in manuscript — source study not named in email.
+- **Note:** The underlying study referenced in this email needs to be identified and cited directly in the book rather than citing the Pump Club email as the source.
+- **Possible relevance:** Chapter 6, Chapter 9, Chapter 2, possible post seed
+
+---
+
+*Last updated: July 1, 2026*
