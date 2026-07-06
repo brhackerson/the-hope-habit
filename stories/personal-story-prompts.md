@@ -50,7 +50,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 ### Chapter 4: The Foundation You're Already Standing On
 
 20. ✓ How did the Agile Best Self framework come to exist? What problem were you and Michaele trying to solve?
-21. Which of the 12 Agile Best Self principles showed up most powerfully in this journey — and when?
+21. ✓ Which of the 12 Agile Best Self principles showed up most powerfully in this journey — and when?
 22. What does Jeff Sutherland's work mean to you personally, beyond the professional context?
 23. ✓ What did Jesse Fewell capture in Chapter 7 of Untapped Agility that felt true about you?
 24. ✓ Looking back, what foundation was already in place before the journey began that made it possible?

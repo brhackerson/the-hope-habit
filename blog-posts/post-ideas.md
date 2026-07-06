@@ -124,7 +124,7 @@ Also joy knowing there's a reservation for next year. Same time, same friends, s
 | When Nothing Happens, Nothing Happens | hopeisnotafeeling | June 3, 2026 | when-nothing-happens.md |
 | Hope's Infinite Loop | hopeisnotafeeling | April 19, 2026 | hopes-infinite-loop.md |
 | For Anyone Looking for Something to Grab Onto | hopeisnotafeeling | May 20, 2026 | for-anyone-looking.md |
-| Before You Think That Hope Is Drifting | hopeisnotafeeling | May 18, 2026 | before-hope-drifts.md |
+| The Hope Practice Doesn't Require a Favorable Outcome | hopeisnotafeeling | July 3, 2026 | release-isnt-surrender.md |
 
 
 ---
@@ -157,3 +157,16 @@ When the outcome is out of your hands, the practice is not. Keep building it. Th
 - Reader bridge: caregivers, patients, parents — anyone who has done everything right and still lost control of the outcome
 - Connects to: Chapter 9 (Release step), Chapter 5 (Pleaser saboteur — the weight of being the responsible one), the "Before You Think That Hope Is Drifting" post
 
+
+## Completed Posts (updated)
+
+| Title | Substack | Published | File |
+|---|---|---|---|
+| Strong and Majestic | hopeisnotafeeling | May 2026 | strong-and-majestic.md |
+| Hope's Infinite Loop | hopeisnotafeeling | April 19, 2026 | hopes-infinite-loop.md |
+| For Anyone Looking for Something to Grab Onto | hopeisnotafeeling | May 20, 2026 | for-anyone-looking.md |
+| Before You Think That Hope Is Drifting | hopeisnotafeeling | May 18, 2026 | before-hope-drifts.md |
+| When Nothing Happens, Nothing Happens | hopeisnotafeeling | June 3, 2026 | when-nothing-happens.md |
+| Hope Found In The Scrum Values | hopeisnotafeeling | June 15, 2026 | hope-found-in-scrum-values.md |
+| Joy Showed Up When I Stopped Chasing It | hopeisnotafeeling | June 23, 2026 | connecting-joy-and-hope.md |
+| The Hope Practice Doesn't Require a Favorable Outcome | hopeisnotafeeling | July 3, 2026 | release-isnt-surrender.md |

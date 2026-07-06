@@ -1833,3 +1833,20 @@ Eighty is close enough now to feel real instead of theoretical.
 
 *Notes for writing: This is the breaking-80 scene Chapter 6 and Chapter 12 both need. The key insight: the inner critic wasn't silenced, it simply had no opening, because the mind was fully occupied with creative, present-moment problem-solving. That's a different mechanism than the 5 second rule or the keyword interrupting the critic. This is flow displacing it entirely. The smart, disciplined club selection (longer club, smooth swing, no hero shot) mirrors the hope practice's core argument: self-discipline, not heroics, produces the result. The calm response to the near-miss (low probability shot, gave it the best attempt, no disappointment) models the inner advocate's posture toward outcomes. Connects to Chapter 6 (breaking 80 as a specific future-turned-present moment), Chapter 12 (golf, breaking 80 as the recurring horizon), and Chapter 5 (the absence of the critic as its own kind of receipt).*
 
+
+---
+
+## #21 — Which ABS principle showed up most powerfully in the journey, and when?
+
+Principle 8: being more over doing more.
+
+It showed up most recently when I reset my North Star from "be a light" to "strong and majestic." The North Star is the output of the Agile Best Self North Star Workshop, which Michaele and I built for the Agile 2020 conference and have since delivered to multiple organizations. The workshop culminates in what we call a cereal box — a short, personal declaration that meets Gervais's three criteria: under 25 words, speakable under duress, felt somewhere in the body when you say it.
+
+"Be a light" made sense when I chose it. It described what I wanted to offer others. Over time I recognized it was too passive, in the same way optimism is passive compared to hope. It pointed outward rather than inward. It described a service, not an identity.
+
+"Strong and majestic" describes who I am becoming. Pictures is how I connect with what that looks like in practice — the specific future moments where being strong and majestic becomes visible in a photograph. The North Star points at the being. The keyword points at the evidence of the being.
+
+That is Principle 8 in action: not what I accomplish, but who I am turning into.
+
+*Notes for writing: The North Star reset illustrates Principle 8 working on itself — the hope practice matured enough to outgrow its original anchor word and replace it with something more active and identity-based. The "be a light" vs. "strong and majestic" contrast maps directly onto the hope vs. optimism distinction from Chapter 1. The cereal box metaphor needs a brief grounding sentence on first use. Connects to Chapter 6 (ABS Principle 8, keyword evolution), Chapter 4 (ABS origin story, North Star Workshop), and the Strong and Majestic post.*
+
