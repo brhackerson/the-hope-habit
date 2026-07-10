@@ -143,17 +143,29 @@ Some elements live in both categories simultaneously. Recovery is doing (you sch
 *Key sources:* Agile Best Self Principles 4, 8, 10, 12; Snyder (agency and pathways as active disciplines); Gervais (recovery as self-discipline); Clear (identity-based habits); Sinek (infinite game requiring renewal); Colla et al. 2022 (We Power as contribution discipline)
 
 ### Chapter 6: The Why Big Enough to Carry You
-Pictures was named in Chapter 4. This chapter doesn't re-introduce the word. It opens what's actually inside it.
+Chapter 4 named the word. This chapter opens what's inside it. Pictures was chosen in February 2025 as a quick interruption tool. That's not what it is anymore. This chapter is about what it became, and why a keyword that works has to grow with the practice or it stops working.
 
-Sinek's just cause, applied directly to the keyword — not just a word that works neurologically, but a cause large enough to survive contact with a bad morning. The specific, named future moments Pictures actually contains: kids graduating, weddings, grandchildren not yet born, breaking 80 in retirement, winters somewhere warm with Debby. Each one given real weight instead of a passing list.
+**Goals Fade. Causes Don't.**
+A keyword isn't just a cognitive shortcut. Sinek's concept of the just cause — a purpose worth the daily sacrifice, something larger than a single goal — is what separates a keyword that lasts from one that fades. Pictures qualifies as a just cause not because it's a single future moment but because it contains an entire architecture of people, occasions, and versions of presence that don't exist yet.
 
-Dr. Jane McGonigal's Episodic Future Thinking gets its full treatment here. Your brain treats your future self as a stranger — MRI studies show the neural pattern resembles imagining someone you've never met. Vivid, specific future simulation is what makes that stranger real enough to protect. Pictures works because it is never abstract. It is a specific room, a specific face, a specific moment, rehearsed until the future self stops being a stranger.
+**The Photographs That Don't Exist Yet**
+The specific scenes inside the word. Not "family milestones" in the abstract. The actual images the word contains when it does its work: Emily's wedding (Debby and Brian in formal wear, the same size as 1989), future grandchildren (throwing a ball, dribbling a soccer ball, keeping up physically), Florida winters with Debby (selfies, a season of life never had together), breaking 80 (the 18th hole, the shot under the tree, the tap-in par). Each one vivid, specific, embodied.
 
-The keyword also evolves. What "Pictures" meant in February 2025 — survival, a reason to get out of bed — is not exactly what it means now. Returning to the word a year later and finding new layers in it is itself a receipt: evidence that the why was big enough to grow, not just big enough to start with.
+**Why the Brain Needs a Specific Picture**
+McGonigal's Episodic Future Thinking: your brain treats your future self as a stranger. MRI studies show the neural pattern resembles imagining someone you've never met. This is why decisions that harm the person you'll be tomorrow come easily — that person isn't real enough to protect yet. Vivid, specific simulation of a future moment makes that stranger real. Pictures doesn't point at a concept. It points at a room, a face, a day, a body capable of doing something that matters.
 
-*Story woven in:* Sitting with the word again, later in the practice, and noticing it had deepened. The specific future moments Pictures protects, named in detail. The difference between the word as a tool (Chapter 4) and the word as a cause (Chapter 6).
+**The Receipt That Was Already There**
+The keyword works in both directions. At the mother's visitation, a photo loop played near the entrance — an older, heavier version of Brian caught in passing. Not grief. Hope. The father's Air Force uniform photo extends the keyword further back. The Shedd harbor quote: the same evidence reads differently depending on which direction you're standing. Hope doesn't only live in the future. It lives in the distance already traveled.
 
-*Key sources:* Sinek (Infinite Game — just cause), McGonigal (Imaginable — Episodic Future Thinking), Snyder (agency/pathways, Why Power)
+**When the Word Stops Being Enough**
+"Be a light" was the North Star before "strong and majestic." It described a service, not an identity. Too passive — the same relationship between optimism and hope. When the hope practice outgrew the original anchor, the North Star reset. ABS Principle 8 demanded it: being more over doing more. Not what the practice produces. Who the practice is building. Pictures is the evidence of "strong and majestic" becoming visible in a photograph.
+
+**Now Find Yours**
+Your keyword is not Pictures. Your just cause is yours to name. The work of this chapter isn't to adopt this keyword but to find the one that meets the same criteria: specific enough to produce a physical response, vivid enough to make the future self real, large enough to survive contact with a bad morning. If your keyword fades after a few weeks, it was a goal, not a cause. A cause grows. It deepens. It earns new layers as the practice matures.
+
+*Story woven in:* The keyword's evolution from tool to just cause. The specific future scenes. The visitation photo loop. The father's uniform. The North Star reset. Breaking 80 on the 18th hole.
+
+*Key sources:* Sinek (Infinite Game — just cause), McGonigal (Imaginable — Episodic Future Thinking), Snyder (agency/pathways, Why Power), Gervais (personal philosophy criteria), Clear (identity-based habits), ABS Principle 8
 
 ### Chapter 7: Autonomy — The System Nobody Else Can Build For You
 The personal system — the workout plan, the nutrition approach, the sleep discipline, the supplement strategy. Designed for this body, this life, this season.
@@ -344,5 +356,5 @@ Hope is not a feeling. It's a practice worth building. And it starts wherever yo
 
 *Total estimated chapters: 14 + Introduction + Part Two Introduction + Conclusion*
 *Estimated length: 200-300 pages*
-*Status: Eighth draft — Chapter 6 redefined as "The Why Big Enough to Carry You" (just cause, McGonigal, keyword evolution) since Pictures is now fully revealed in Chapter 4; Chapter 12 lightened accordingly; Chapters 1-5 complete*
-*Last updated: June 19, 2026*
+*Status: Eighth draft — Chapter 6 fully outlined with section headers confirmed; Chapters 1-5 complete*
+*Last updated: July 9, 2026*
