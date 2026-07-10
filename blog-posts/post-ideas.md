@@ -212,3 +212,4 @@ Aim it honestly. Hope knows which direction to look.
 - Personal illustration: three fishing trip photos, same pose, same lake, 2023/2024/2026
 - Connects to: Hope's Infinite Loop post (Recognize step), Before You Think That Hope Is Drifting post (inner critic vs. inner advocate reading the same data differently), Chapter 6 (keyword working backward as well as forward), Chapter 8 (reading the receipt)
 - Privilege note: not needed — comparison with former self is universally available regardless of resources
+| Comparison Didn't Steal My Joy. It Built It. | hopeisnotafeeling | July 10, 2026 | comparison-post.md |
