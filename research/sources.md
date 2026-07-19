@@ -657,3 +657,51 @@ Arnold's Pump Club daily email, July 1, 2026
 ---
 
 *Last updated: July 1, 2026*
+
+### Roosevelt, Theodore (attributed, disputed)
+**"Comparison is the thief of joy."**
+- Widely attributed to Theodore Roosevelt, but origin unconfirmed
+- Does not appear in verified Roosevelt writings or speeches
+- Circulates extensively online and in popular culture under his name
+- **Status:** Attribution disputed — use "widely attributed to Theodore Roosevelt" rather than stating it as fact. Verify before book publication.
+- **Possible relevance:** "Comparison Didn't Steal My Joy. It Built It." post
+
+---
+
+*Last updated: July 9, 2026*
+
+### Schwarzenegger, Arnold (Arnold's Pump Club)
+**"Monday Motivation: Just Keep Attacking"**
+Arnold's Pump Club daily email, July 13, 2026
+- Core concept: success is not avoiding misses — it is missing and lining up the next shot anyway. The highlight reel shows only the goals, not the 90% of the game that is failure. The failure is what creates the drama, the suspense, and ultimately the skill.
+- Arnold's story: came to America, lost his first contest and cried all night. Told his accent was too thick, his body too big, his name unpronounceable. Kept attacking anyway.
+- Michael Jordan: missed 9,000+ shots, lost 300+ games, missed 26 game-winners. Put those numbers in a commercial. "That's why I succeed." Not despite the misses — because of them.
+- Soccer mentality: the player who misses doesn't hang his head. He resets for the next play. The miss is already behind him. Eyes back on the goal.
+- Key quote: "The stakes are the joy, not the highlights."
+- Second article in same email: self-forgiveness after a bad week — guilt treated as accountability keeps you stuck; those who forgave themselves for procrastination procrastinated less on the next attempt.
+- **Connection to the book:** The hope practice as full footage not highlight reel; miss as a receipt that documents showing up; inner critic editing your story into a highlight reel before it's finished; the comparison post (your full story vs. someone else's edited version); Chapter 8 (receipts); Chapter 14 (the practice never ends — keeps attacking)
+- **Status:** Brian received and read this email.
+- **Possible relevance:** Post seed (Just Keep Attacking / hope practice as full footage), Chapter 8 (receipts, reading the receipt), Chapter 14 (practice never ends)
+
+---
+
+*Last updated: July 13, 2026*
+
+### McKibben Dana, MaryAnn — COMPARABLE TITLE
+**Hope: A User's Manual**
+Eerdmans Publishing, August 2022
+- Author: Presbyterian pastor, writer, ministry coach. Also writes The Blue Room newsletter.
+- Structure: essay collection. Chapters: What Hope Is Not / What Hope Is / Hope Lives in the Body / Hope Travels in Story / The Practice of Hope / Hope Beyond Hope.
+- Core framing overlaps with this book: hope is not optimism, not toxic positivity; "real hope demands that we do something with it. That we live it out." Includes a chapter titled "The Practice of Hope."
+- Perspective: written from a Christian vantage point though not overtly religious; shaped by the pandemic era; closes with Jesus calming the storm — hope as enduring and persevering through the storm.
+- **Differentiation for Brian's book:**
+  1. Spine: her essays reflect on hope; Brian's book documents building it through one continuous personal transformation narrative with receipts.
+  2. Engine: Brian's book runs on Snyder's research (agency + pathways), Scrum values, ABS mindset — an implementable operating system. Her mechanism is spiritual endurance.
+  3. Central expression: "self-discipline meets adversity and wins," the keyword, the Hope Cycle, receipts, inner critic/advocate — none present in her frame.
+  4. Audience posture: pastor to the weary faithful vs. practitioner to anyone looking for something to grab onto.
+- **Status:** Discovered in bookstore July 2026. NOT yet read. Read in full before publication — both to cite honestly and to confirm language separation.
+- **Possible relevance:** Book proposal comparable titles section; positioning statement ("hers answers what hope is and where it lives; this book answers how to build it and how to know it's working").
+
+---
+
+*Last updated: July 16, 2026*

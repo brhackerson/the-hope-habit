@@ -213,3 +213,25 @@ Aim it honestly. Hope knows which direction to look.
 - Connects to: Hope's Infinite Loop post (Recognize step), Before You Think That Hope Is Drifting post (inner critic vs. inner advocate reading the same data differently), Chapter 6 (keyword working backward as well as forward), Chapter 8 (reading the receipt)
 - Privilege note: not needed — comparison with former self is universally available regardless of resources
 | Comparison Didn't Steal My Joy. It Built It. | hopeisnotafeeling | July 10, 2026 | comparison-post.md |
+
+---
+
+### The Hope Practice Isn't a Highlight Reel
+**Substack:** hopeisnotafeeling.substack.com
+**Status:** Seed — July 13, 2026
+**Source:** Arnold's Pump Club email, July 13, 2026 ("Just Keep Attacking")
+
+**Core idea:** Social media shows everyone's highlight reel — the goals, the finished bodies, the successful businesses. Nobody shows the misses. The hope practice is the full footage: the reduced-weight leg press, the morning the couch won, the InBody scan that ticked the wrong direction. The misses are not evidence against the practice. They are part of it. You miss, you reset, you line up the next shot.
+
+**Key connections:**
+- Arnold's quote: "The stakes are the joy, not the highlights." The hope practice creates stakes, which is exactly what makes it meaningful.
+- Michael Jordan: not despite the misses — because of them. Every miss documented that he showed up.
+- The receipt concept: a miss is still a receipt. It proves you were in the arena.
+- Chapter 5 (inner critic): "maybe another day" is the inner critic editing your story into a highlight reel before it's finished.
+- The comparison post: your full story vs. someone else's edited version — this adds a third dimension.
+- Self-forgiveness after a bad week (second article in same email): connects to the inner advocate and grace.
+
+**Possible angle:** The hope practice keeps attacking. Not because every shot goes in. Because the practice knows the game is longer than any single miss.
+
+**Possible closing line:** Miss. Reset. Line up the next shot. That is the hope practice working exactly as intended.
+
