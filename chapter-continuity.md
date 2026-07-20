@@ -1,7 +1,7 @@
 # Chapter Continuity File
 ## Hope is Not a Feeling: It's a Practice Worth Building
 *By Brian Hackerson*
-*Last updated: May 27, 2026*
+*Last updated: July 19, 2026*
 
 ---
 
@@ -53,6 +53,26 @@ This file tracks what each chapter introduces, what it references forward, and w
 | The 90% | Chapter 3 | Gupta — 90% of cognitive decline is lifestyle-related, not genetic |
 | Circadian rhythm | Chapter 3 | Sleep infrastructure; father's loss of it as worst-case illustration |
 | Whoop | Chapter 3 | Recovery/sleep tracking device used in the practice |
+| Scrum values | Chapter 4 | Commitment, focus, openness, respect, courage — personal operating system |
+| Agile Best Self (ABS) | Chapter 4 | Mindset for continuous personal growth — always a mindset, never a framework |
+| ABS Principle 8 | Chapter 4 | Being more over doing more; drives the North Star reset in Chapter 6 |
+| The North Star Workshop | Chapter 4 | Gervais-based keyword method Brian and Michaele built |
+| The cereal box | Chapter 4 | Short personal declaration meeting Gervais's three criteria: under 25 words, speakable under duress, felt in the body |
+| Pictures (the keyword) | Chapter 4 | Revealed here for the first time; full architecture and evolution in Chapter 6 |
+| Episodic Future Thinking | Chapter 4 | McGonigal — brain treats future self as a stranger; vivid simulation makes it real. Deepened in Chapter 6 with the visibility/Sutherland connection |
+| The Modern Elder | Chapter 4 | Conley — accumulated wisdom as an asset, not a weight |
+| FOPO | Chapter 5 | Fear of Other People's Opinions — Gervais |
+| The inner advocate | Chapter 5 | Full treatment; counters the inner critic |
+| Positive Intelligence saboteurs | Chapter 5 | Chamine's ten-saboteur framework; Brian's profile: Hyper Vigilant 8, Pleaser 8, Hyper Achiever 6 |
+| The 5 Second Rule | Chapter 5 | Robbins — 5-4-3-2-1, move; routes around the critic rather than fighting it |
+| Shame as the critic's weapon | Chapter 5 | Brown — "you are a mistake" vs. "you made a mistake" |
+| "What would great look like right now?" | Chapter 5 | Wakeman's counter-move question for shame spirals |
+| Man in the Arena | Chapter 5 | Roosevelt, used by Brown as the *Daring Greatly* epigraph |
+| The just cause | Chapter 6 | Sinek — the distinction between a keyword that fades (goal) and one that lasts (cause) |
+| Borrowed hope | Chapter 6 | Drawing hope from a past self who had fewer reasons for it |
+| The North Star reset | Chapter 6 | "Be a light" (passive, outward) replaced by "strong and majestic" (active, identity-based) |
+| The visibility principle | Chapter 6 | Sutherland — work becomes actionable when it's specific and visible; parallels McGonigal's specificity thesis |
+| Cost of delay | Chapter 6 | Sutherland — a fast, imperfect decision beats a slow, correct one that arrives too late |
 
 ---
 
@@ -69,8 +89,8 @@ This file tracks what each chapter introduces, what it references forward, and w
 | Mark Manson | Chapter 1 | Everything Is F*cked author | Cite: Manson 2019 |
 | Dr. Michael Gervais | Chapter 1 | Optimism can be trained | Confirmed PhD ✓ |
 | Senator Raphael Warnock | Chapter 1 | Easter 2026 framing | Ebenezer Baptist Church |
-| Jeff Sutherland | Chapter 2 | Scrum co-creator; trained Brian at 3M | Cite: Scrum Guide |
-| Michaele Gardner | Chapter 2 | ABS co-creator, described as "connector and catalyst" | Introduced briefly Ch 2; full treatment Ch 4 or 6 |
+| Jeff Sutherland | Chapter 2 | Scrum co-creator; trained Brian at 3M | Cite: Scrum Guide (still TBD, see Continuity Flags) and *Scrum* book (endnote 12, Ch4, reused Ch6). Personal relationship deepened via personal-stories #22: 10 years, 3M 2017, trainer credentialing, Tokyo conference, 2.5 years at Scrum Inc |
+| Michaele Gardner | Chapter 2 | ABS co-creator, described as "connector and catalyst" | Full treatment lands in Chapter 4 (ABS origin, North Star Workshop) |
 | Kaylee | Chapter 2 | Life Time trainer; circle member | Introduced Ch 2 — creatine story |
 | Dr. Lee | Chapter 2 | Brian's physician; circle member | Introduced Ch 2 — creatine validation |
 | Daniel Pink | Chapter 2 | Drive — autonomy, mastery, purpose | JD, not PhD — no "Dr." |
@@ -79,8 +99,18 @@ This file tracks what each chapter introduces, what it references forward, and w
 | Dr. Sanjay Gupta | Chapter 2 | Brain health, 90% statistic | Confirmed MD ✓ — Cite: Keep Sharp |
 | Dr. John Ratey | Chapter 3 | Spark — exercise and BDNF | Confirmed MD ✓ |
 | Jacob | Chapter 2 | Brian's son — mentioned briefly (drive home) | Full introduction when relevant |
-| Jim | Chapter 2 (Strong & Majestic post) | Trusted circle member | Introduce fully in Chapter 6 |
-| Emily | Not yet introduced | Brian's daughter | Introduce when relevant |
+| Jim | Chapter 2 (Strong & Majestic post) | Trusted circle member | Fully introduced Chapter 6 — Lac Seul fishing photo as confirmation receipt |
+| Emily | Chapter 6 | Brian's daughter | Introduced via the wedding scene (future photograph); not yet married or engaged |
+| Jane McGonigal | Chapter 4 | Neuroscience researcher, Episodic Future Thinking | Cite: *Imaginable* (endnote 14); reused Chapter 6 |
+| Chip Conley | Chapter 4 | Modern Elder Academy founder | Cite: *Wisdom at Work* (endnote 17) |
+| James Clear | Chapter 4 | Atomic Habits — identity-based habits | Cite: endnote 16 — **collision with Ch5's Robbins citation, needs resolution** |
+| Dr. Michael Gervais | Chapter 1 | Optimism can be trained | Deepened Chapter 4 (cereal box criteria) and Chapter 5 (FOPO) — cite: endnote 5 (First Rule of Mastery) and endnote 15 (Finding Your Best) |
+| Shirzad Chamine | Chapter 5 | Positive Intelligence saboteurs | Cite: endnote 19 — **not yet logged in sources.md** |
+| Brené Brown | Chapter 5 | Shame as the critic's deepest weapon | Cite: *Daring Greatly*, endnote 20 |
+| Cy Wakeman | Chapter 5 | Reality-based Leadership — shame counter-move | Cite: endnote 21 — referenced, not read in full by Brian |
+| Theodore Roosevelt | Chapter 5 | Man in the Arena | Cite: endnote 22 — verified primary source |
+| Mel Robbins | Chapter 5 | The 5 Second Rule | Cite: endnote 16 — **collision with Ch4's Clear citation, needs resolution** |
+| John Shedd | Chapter 6 | "Ships are safe in harbor..." | Cite: endnote 23 — attribution to be verified before print |
 
 ---
 
@@ -100,9 +130,33 @@ This file tracks what each chapter introduces, what it references forward, and w
 - Candow et al. (2025) — Creatine monohydrate (endnote 9)
 - Scrum Guide — Jeff Sutherland (endnote TBD — not yet added to endnotes.md)
 
-### Chapter 3 (planned)
-- Gupta, Dr. Sanjay — Keep Sharp (90% statistic, social connection)
-- Ratey, Dr. John J. — Spark (BDNF, exercise and brain)
+### Chapter 3
+- Gupta, Dr. Sanjay — Keep Sharp (90% statistic, social connection) (endnote 10)
+- Ratey, Dr. John J. — Spark (BDNF, exercise and brain) (endnote 11) — referenced, not read in full by Brian
+
+### Chapter 4
+- Sutherland, Jeff — Scrum (endnote 12) — reused Chapter 6
+- Snyder, C.R. — The Psychology of Hope, 1994 (endnote 13) — distinct from the endnote 1 Snyder citation
+- McGonigal, Jane — Imaginable (endnote 14) — reused Chapter 6
+- Gervais, Dr. Michael — Finding Your Best (endnote 15) — reused Chapter 5 for FOPO
+- Clear, James — Atomic Habits (endnote 16) — **collision with Chapter 5's Robbins citation, unresolved**
+- Conley, Chip — Wisdom at Work (endnote 17)
+- Gupta, Dr. Sanjay — Keep Sharp, second citation (endnote 18) — same book as endnote 10, different passage
+
+### Chapter 5
+- Gervais, Dr. Michael — Finding Your Best, FOPO (endnote 15, reused from Chapter 4)
+- Robbins, Mel — The 5 Second Rule (endnote 16) — **collision with Chapter 4's Clear citation, unresolved**
+- Chamine, Shirzad — Positive Intelligence (endnote 19) — **not yet logged in sources.md**
+- Brown, Brené — Daring Greatly (endnote 20)
+- Wakeman, Cy — Reality-based Leadership (endnote 21) — referenced, not read in full by Brian
+- Roosevelt, Theodore — Man in the Arena (endnote 22)
+
+### Chapter 6
+- Sinek, Simon — The Infinite Game (endnote 8, reused from Chapter 2)
+- Sutherland, Jeff — Scrum (endnote 12, reused from Chapter 4) — visibility principle, cost of delay
+- McGonigal, Jane — Imaginable (endnote 14, reused from Chapter 4)
+- Shedd, John A. — Salt from My Attic (endnote 23) — attribution to be verified before print
+- ABS Principle 8 carries no endnote — original framework material, not an external source (matches Chapter 4's treatment)
 
 ---
 
@@ -127,6 +181,35 @@ This file tracks what each chapter introduces, what it references forward, and w
 ### Chapter 2 references back to:
 - Chapter 1: agency and pathways; inner critic; February visit; opening question
 
+### Chapter 4 references forward to:
+- Chapter 5: inner critic full treatment
+- Chapter 6: the circle (Jim, Dr. Lee, Kaylee, Michaele — not named fully until Ch. 6); Pictures architecture deepened
+
+### Chapter 4 references back to:
+- Chapter 1: inner critic; ego protection mechanism
+- Chapter 2: receipts defined; agency/pathways; Hope Cycle; anchor introduced
+- Chapter 3: 90 percent; father's circadian decline; the hope practice
+
+### Chapter 5 references forward to:
+- Chapter 6: the circle introduced fully (Jim, Dr. Lee, Kaylee, Debby)
+- Chapter 8: drift concept (Hyper Achiever filling the gap)
+
+### Chapter 5 references back to:
+- Chapter 3: Whoop; the Hyper Vigilant and tracking; scale ambiguity
+- Chapter 4: Pictures; Jim's photo; the father; Scrum values as floor
+
+### Chapter 6 references forward to:
+- Chapter 8: receipts, reading the receipt, the keyword's backward-facing evidence
+- Chapter 10: Florida winters as planned macro recovery
+- Chapter 12: golf, breaking 80, Pebble Beach / Torrey Pines as the next horizon, physical capability as the ongoing horizon
+- Conclusion: Fort Snelling, "Rest easy, Dad" — reserved
+
+### Chapter 6 references back to:
+- Chapter 4: Pictures revealed, origin story, Gervais's three criteria, Jim's photo, ABS North Star Workshop, Jeff Sutherland's personal influence
+- Chapter 5: inner critic absent on the 18th hole (flow displacing it); inner advocate's posture toward outcomes
+- Chapter 1: hope vs. optimism (same relationship as "be a light" vs. "strong and majestic")
+- Chapter 2: Why Power; Sinek's infinite game
+
 ---
 
 ## Key Quotes Locked In
@@ -145,21 +228,38 @@ This file tracks what each chapter introduces, what it references forward, and w
 - "When nothing happens, nothing happens." (Chapter 2 — source unknown)
 - "The hope you were waiting for was never going to show up on its own. The one you're building? That one compounds." (Chapter 2)
 - "Rest easy, Dad. The work is done." (Personal stories — reserved for Conclusion)
+- "Go be the healthy person in those pictures." (Chapter 4)
+- "The keyword doesn't replace the work. It starts it." (Chapter 4)
+- "What you have built over decades is not a weight. It is an asset." (Chapter 4)
+- "Look back before you look forward. The foundation is already under you. The work is learning to stand on it." (Chapter 4)
+- "A named thing loses some of its power. Not all of it. Enough." (Chapter 5)
+- "The critic borrowed the voice. The advocate earned the answer." (Chapter 5)
+- "FOPO doesn't lose arguments. It loses its grip." (Chapter 5)
+- "Name it before it names you." (Chapter 5)
+- "The keyword doesn't point at a finish line. It points at a reason to keep playing." (Chapter 6)
+- "Vague hope stays in the future. Specific hope arrives in the present as fuel." (Chapter 6)
+- "Visibility is not a productivity trick. It is how any mind, in a boardroom or in bed at 5 am, decides to move." (Chapter 6)
+- "The camera doesn't revise the past the way the inner critic does." (Chapter 6)
+- "The practice doesn't maintain the keyword. The keyword maintains the practice." (Chapter 6)
+- "A rough keyword you actually say at 5 am beats a perfect one you are still refining on paper." (Chapter 6)
 
 ---
 
 ## Continuity Flags
 
-- The anchor/keyword (Pictures) must not be named before Chapter 4
-- Circle members must not be named before Chapter 6 — Jim, Emily named; Kaylee and Dr. Lee introduced in Chapter 2 as circle members
+- The anchor/keyword (Pictures) named starting Chapter 4, as planned
+- Circle members named fully in Chapter 6 — Jim (Lac Seul photo) and Emily (wedding scene) now on the page; Kaylee and Dr. Lee were introduced in Chapter 2 as circle members
 - Brian's father: do not name unless confirmed
 - Brian's mother: do not name unless confirmed
 - Fort Snelling / "Rest easy, Dad" story: reserved for the Conclusion — do not use before then
 - The 2006 conversation (stewardship promise): belongs in Chapter 3 as the fear underneath the infinite game
 - Daniel Pink: JD not PhD — never use "Dr." before his name
-- Scrum Guide endnote: not yet added to endnotes.md — add before Chapter 2 is finalized
+- Scrum Guide endnote: still not added to endnotes.md — this is separate from the Sutherland *Scrum* book citation (endnote 12); add before Chapter 2 is finalized
 - Governor Walz reference: in personal stories only, not in any chapter draft
 - Faith disclaimer on Warnock: maintain consistently if referenced again
+- **Endnote 16 collision (added July 19, 2026):** Chapter 4 assigns endnote 16 to Clear's *Atomic Habits*; Chapter 5 independently assigns the same number to Robbins's *The 5 Second Rule*. Both chapters are marked complete, so neither was silently renumbered. Needs Brian's decision on which keeps 16 and which gets the next open number.
+- **Chamine source gap (added July 19, 2026):** Chapter 5's endnote 19 (Positive Intelligence saboteurs) has no matching entry in sources.md. Add before finalizing.
+- **Chapter 6 endnote fix (added July 19, 2026):** The Chapter 6 draft originally numbered its Principle 8, Shedd, and Sutherland citations 17, 19, and 20 — all already taken by Chapter 4/5 sources. Corrected in the chapter-06.md draft: Principle 8 now carries no endnote (matches how Chapter 4 treats it), Sutherland reuses endnote 12, and Shedd is now endnote 23.
 
 ---
 
