@@ -1850,3 +1850,15 @@ That is Principle 8 in action: not what I accomplish, but who I am turning into.
 
 *Notes for writing: The North Star reset illustrates Principle 8 working on itself — the hope practice matured enough to outgrow its original anchor word and replace it with something more active and identity-based. The "be a light" vs. "strong and majestic" contrast maps directly onto the hope vs. optimism distinction from Chapter 1. The cereal box metaphor needs a brief grounding sentence on first use. Connects to Chapter 6 (ABS Principle 8, keyword evolution), Chapter 4 (ABS origin story, North Star Workshop), and the Strong and Majestic post.*
 
+---
+
+## #35 — What would you tell someone who can't find their keyword? What question would you ask them?
+
+I would pull on Agile Best Self Principle 8: being more over doing more. The question I would ask them is to describe who they are, not what they do or what they've accomplished.
+
+Then I would run that answer through Gervais's criteria, the same ones behind the cereal box: get it down to something short, something speakable under duress. Strip it down until it's small enough to hold onto in a hard moment. That's the process before the process, the work that happens before you ever get to the last and hardest part, landing on the actual keyword.
+
+And if none of that works, I would invite them to borrow mine. Pictures. Not because it will mean the same thing to them, but because sometimes the fastest way to find your own word is to stand inside someone else's for a while and feel where it doesn't quite fit.
+
+*Notes for writing: Connects Principle 8 (being over doing) directly to the mechanics of keyword-finding, giving Chapter 6 a practical, teachable answer to "how do I find mine" rather than just an origin story. Ties to the cereal box/Gervais criteria material already established in #21. Connects to Chapter 6 (keyword-finding process, reader application) and Chapter 4 (ABS origin, North Star Workshop, Gervais criteria).*
+
