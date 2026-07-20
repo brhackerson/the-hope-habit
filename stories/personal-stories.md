@@ -1862,3 +1862,33 @@ And if none of that works, I would invite them to borrow mine. Pictures. Not bec
 
 *Notes for writing: Connects Principle 8 (being over doing) directly to the mechanics of keyword-finding, giving Chapter 6 a practical, teachable answer to "how do I find mine" rather than just an origin story. Ties to the cereal box/Gervais criteria material already established in #21. Connects to Chapter 6 (keyword-finding process, reader application) and Chapter 4 (ABS origin, North Star Workshop, Gervais criteria).*
 
+---
+
+## #70 — What future photograph are you most hoping to be in?
+
+The one that comes to mind most is Emily's wedding. She's not married yet, not even engaged as far as I know, but the picture is already there: dressed up, surrounded by loved ones, joyful, Debby and I both looking amazing.
+
+There are others. Finishing a 5K looking strong. Finishing a round at a top course, Pebble Beach or Torrey Pines or somewhere like that. Debby and I retired, on a trip to Scandinavia or Italy.
+
+Honestly, it's a lot of fun to dream about these.
+
+*Notes for writing: A working list of the forward-facing photographs behind the keyword, not just the wedding scene already planned for Chapter 6. The 5K and top-course golf images connect to Chapter 12 (Hope Has a Target). The Scandinavia/Italy retirement trip connects to the retirement material also planned for Chapter 12. Note the tone here: unguarded, playful, "fun to dream about" — worth preserving that lightness rather than only the weightier wedding image. Connects to Chapter 6 (keyword, future photographs) and Chapter 12 (golf target, retirement picture).*
+
+---
+
+## #22 — What does Jeff Sutherland's work mean to you personally, beyond the professional context?
+
+I've gotten to know Jeff personally over the last ten years. I first learned the principles of Scrum from him in 2017 at 3M. Two years later he trained me himself to become a credentialed trainer in his program. Shortly after that, I shared the stage with him at a Scrum conference in Tokyo. Eventually I worked with him at Scrum Inc for about two and a half years. All of that gave me many opportunities for real conversation, including multiple meals at his home in the Boston area.
+
+His work put words around a few things I already cared about, before I had the language for them.
+
+The potential of people. When you get the organization and its bureaucracy out of people's way, it's amazing what they're capable of when they work together as a team.
+
+Visibility. When the work is visible, it's much easier to take action, especially when you're trying to break down a large, complex problem.
+
+The cost of delay. It's remarkable how often the simplest decisions keep getting put off in organizations. Sometimes that caution is warranted. But far too often, a fast, imperfect decision is worth more than a slow, overanalyzed correct one that arrives too late to matter. Speed matters.
+
+Hope in the values. I found hope in the Scrum values themselves, something I wrote about directly in "Hope Found In The Scrum Values."
+
+*Notes for writing: This reframes Jeff as more than a professional influence, ten years of personal relationship (3M training 2017, trainer credentialing, sharing a stage in Tokyo, 2.5 years at Scrum Inc, meals at his home). The four takeaways (potential of people, visibility, cost of delay, hope in the values) give Chapter 4/6 concrete language for why Scrum shows up as more than a career artifact. The fourth point connects directly to the published post "Hope Found In The Scrum Values" (June 15) and the Loose Deuce story already sourced from his book, pp. 45-48. Connects to Chapter 4 (Foundation, ABS/Scrum origin) and Chapter 6 (just cause, keyword evolution).*
+
