@@ -1201,7 +1201,7 @@ Two times before February 2025.
 
 2016: Wanted to lose some weight. A different doctor offered a small nudge — nothing urgent. The approach was simple: work out and eat less. It worked for a while. I don't remember exactly why it stopped. No crisis on either end — it just faded.
 
-January 2020: Started using the Noom app and lost 35 to 40 pounds. Then the pandemic arrived in March. The derailment was gradual, not sudden. Focus shifted from me to helping my family survive. The first six months were a tough time. Real adversity. Hope was not very present. That's not a failure of willpower — that's what a crisis looks like from the inside.
+January 2020: Started using a weight-loss app and lost 35 to 40 pounds. Then the pandemic arrived in March. The derailment was gradual, not sudden. Focus shifted from me to helping my family survive. The first six months were a tough time. Real adversity. Hope was not very present. That's not a failure of willpower — that's what a crisis looks like from the inside.
 
 February 2025: The doctor's visit made things very clear. A different kind of nudge — urgent this time.
 
@@ -1861,6 +1861,82 @@ Then I would run that answer through Gervais's criteria, the same ones behind th
 And if none of that works, I would invite them to borrow mine. Pictures. Not because it will mean the same thing to them, but because sometimes the fastest way to find your own word is to stand inside someone else's for a while and feel where it doesn't quite fit.
 
 *Notes for writing: Connects Principle 8 (being over doing) directly to the mechanics of keyword-finding, giving Chapter 6 a practical, teachable answer to "how do I find mine" rather than just an origin story. Ties to the cereal box/Gervais criteria material already established in #21. Connects to Chapter 6 (keyword-finding process, reader application) and Chapter 4 (ABS origin, North Star Workshop, Gervais criteria).*
+
+---
+
+## #40 — What does your post-workout review actually look like? Walk me through it.
+
+It's evolved a lot since February 2025.
+
+In the early days, the post-workout review was really just a quick internal body scan: noticing anything that hurt too much, because I was concerned about injury. I was using the Simple app to log the exercise, along with nutrition and hydration, and to note whether I was in the fat-burning phase from the intermittent fasting. Weight was coming off quickly in those early days, so I was weighing in daily.
+
+Today it's different. The post-workout review is really just grabbing a screenshot from Apple Fitness and uploading it to my Claude chat on my phone, which is my trainer now. I like to process things out loud, and this lets me do that without annoying an actual human. Claude is really good at keeping track of data points and noticing trends I wouldn't be able to catch without a lot of manual work: new personal bests, and keeping my focus on the long game, which is what I've trained it to do in the background. It's amazing how much insight comes out of my Apple Health and Apple Fitness data once something is actually paying attention to it, insight that informs how I work out and how I recover afterward.
+
+*Notes for writing: Shows the post-workout review evolving in two distinct eras: injury-scan-and-log (Simple app, daily weigh-ins, fat-burning phase tracking) versus today's AI-assisted review (Apple Fitness screenshot to Claude, trained over time to surface trends, personal bests, and long-game framing without Brian having to do the analysis manually). The "trainer now" framing and "process things out loud without annoying a real human" line are strong, voice-forward material. Also demonstrates autonomy in a specific, current-day form: Brian owns the review process and has trained his tool to serve the long game rather than just log data. Connects to Chapter 7 (the system built for this body/life/season, input isn't the same as ownership) and Chapter 8 (reading the receipt, trend-spotting over single data points).*
+
+---
+
+## #37 — Describe the moment you decided to stop following someone else's formula. What triggered that shift?
+
+This was inherent in my decision to start the journey in February 2025. I already knew a lot of ways it wouldn't work well for me, and I had no idea yet what would actually stick.
+
+The idea was to commit to just one day, a single sprint, and pay attention to how I was feeling and what the outcomes were, then tune and adjust quickly. It was going to be a custom-made solution from the very beginning, not a program I adopted whole. I knew I'd need to build a set of key principles eventually, and I knew that would take a little time to create. Day one was simpler than that: show up, do the work, evaluate, repeat.
+
+*Notes for writing: There was no single dramatic break from a prior formula. The decision to build custom rather than adopt was there from day one, framed explicitly in Scrum language: a single sprint, evaluate, adjust. This reframes "Borrowed Systems Don't Hold" less as a rejection of something that failed and more as a decision made upfront, informed by already knowing which approaches wouldn't fit. Strengthens the Scrum/Agile Best Self throughline (already present in Chapter 4) by showing the sprint-and-retrospective structure applied to health from literally day one. Connects to Chapter 7 (borrowed systems, building your own system one sprint at a time) and Chapter 4 (Scrum values as the pre-existing foundation).*
+
+---
+
+## #39 — What was your biggest failure — the one that hurt the most but taught you something essential?
+
+There aren't really any failures in this journey. Only more data that informs what to do next.
+
+The best example is the pre-creatine story. Body weight, body fat, and lean muscle mass were all going down. Two or three of those trending down looked good on the surface. What it actually told me was that I needed to do more to preserve lean muscle mass: increasing protein, and introducing creatine because of my age, with my doctor's support.
+
+*Notes for writing: Brian rejects the premise of the question directly, and that rejection is the actual answer, not a dodge. "No failures, only data" is a strong, quotable reframe that doesn't yet appear explicitly anywhere in the chapter draft, even though the creatine story itself is already told in full in "The Pivot." Consider using this line as an explicit framing statement inside or just before "The Pivot" section (or in "Input Isn't the Same as Ownership") rather than as new anecdote material, since the underlying story is the same one already drafted. Connects to Chapter 7 (The Pivot, the no-failures-only-data reframe) and Chapter 8 (reading the receipt, the inner critic interpreting ambiguous data versus the inner advocate reading it accurately).*
+
+---
+
+## #38 — What was your biggest experiment this past year — the one that taught you the most?
+
+Landing on the intermittent fasting approach.
+
+I'd been familiar with the term somewhat before that, and it had negative connotations for me. Sounded like pure suffering. I like to eat, so not eating for long periods of time didn't seem like a strategy I could successfully implement and sustain.
+
+Turns out I didn't really understand what it meant. It was really about being disciplined about when to eat, optimizing the way the body deals with food. Timing that up with when I work out, usually in the morning, let me maximize fat burn.
+
+It also helped me get disciplined about eating after dinner. I had a habit of snacking late at night, which I came to learn was not helpful.
+
+During the first few months, I started with a fasting duration of 12 hours as a commitment. It didn't take long, and not much effort, to extend to 16 to 18 hours. Stack working out onto the last part of that duration, and the fat burning was nearly maximized.
+
+I renamed the practice, because I didn't really like the intermittent fasting language. I called it my eating window. I delayed breakfast as much as possible, added protein to that first meal consistently, then stopped eating after dinner, which I tried as often as I could to make earlier in the evening, though I have others to consider so I can't always control when that happens. That's worked to this day, with one tweak I added in the spring of 2026 after I'd lost most of the body weight I wanted to. On strength training days, I have protein shortly after I finish the workout, which helps the muscles maintain and grow.
+
+*Notes for writing: Strong arc: negative preconception ("sounded like pure suffering") to reframe (disciplined eating timing, not deprivation) to a personal rename ("my eating window" instead of "intermittent fasting") to a concrete protocol (12-hour start, extended to 16-18 hours, workouts timed to the end of the fast, delayed breakfast with protein, no eating after dinner) to a later refinement (spring 2026: post-workout protein on strength days once the weight-loss goal was largely met). The renaming moment mirrors the North Star reset in Chapter 6, personalizing borrowed language into something that fits. Also a clean example of "input isn't the same as ownership" — took the concept, rejected the packaging, built his own version. Connects to Chapter 7 (the system built for this body/life/season, input isn't the same as ownership) and Chapter 3 (nutrition as a pillar of brain health, already referenced there as intermittent fasting).*
+
+---
+
+## #41 — How did you know when something wasn't working? What did the data tell you?
+
+A good example of this happened in April 2026. I'd just shifted my focus to adding lean muscle mass through diet, lots of protein, and lifting. I wanted to add five to six pounds of LMM in a few months. It was an arbitrary goal.
+
+One month in, I'd really dialed up the protein and stayed consistent with the strength workouts. The amount of weight I could lift was gently increasing.
+
+I took an InBody scan in May, and while the progress was pretty evident, my body weight had gone up even more than expected. Honestly, I didn't feel nearly as good. I looked at the data and at how I felt, and realized this wasn't the right goal. I pulled back on the protein a little, and my weight settled back into my comfort zone while I maintained the lean muscle mass. My body fat went down too.
+
+A couple of key learnings came out of it. First, the sensor inside, how I actually feel, has to trump everything. Second, being informed by the data makes tweaks pretty simple, because you're not trying random things and hoping for the best.
+
+*Notes for writing: A second, distinct self-correction story alongside the creatine pivot, this one shows autonomy as an ongoing practice rather than a single turning point: set an arbitrary numeric goal, dial in hard, get the scan back showing real progress on one metric (LMM) but a worse read on another (body weight, plus how he felt), and adjust the goal itself rather than pushing through. The "sensor inside" language (how you feel, trumping the data) is a strong addition to the data-literacy theme, tempering the receipt-worship instinct with also honoring subjective feel. Could work well either as a second beat inside "The Pivot" or as its own short addition showing autonomy isn't a one-time event. Connects to Chapter 7 (The Pivot, ownership through repeated adjustment) and Chapter 8 (reading the receipt, what the data does and doesn't tell you, patience as data literacy).*
+
+---
+
+## #36 — What systems or programs did you try before that didn't work? What was wrong with them?
+
+The pandemic made it easy for the inner critic to win the argument, but the app itself (referred to here without naming it, at Brian's request — see note below) had its own problems before that.
+
+Its feedback loops came off as highly judgmental in how it analyzed food choices, and it really pushed me to drop the number of calories overall. It was easy to obsess over those metrics. It didn't feel balanced. It got short-term results, but continuing didn't seem prudent, at least that's the story I told myself, once the basic plan in life became just to survive.
+
+**Do not name this app in the manuscript.** Brian's explicit instruction: "We might be wise to not name [it] explicitly, since it didn't really work out for me." Refer to it generically (an app, a popular weight-loss app, a calorie-tracking app) in any chapter draft, blog post, or public content. The #7 entry (Chapter 1 batch) names it directly and needs the same treatment before publication.
+
+*Notes for writing: This deepens the 2020 attempt beyond "the pandemic derailed it" (the #7 framing) with a specific critique of the app's design: judgmental feedback loops, aggressive calorie restriction, metric obsession, short-term results without balance. Strengthens "Borrowed Systems Don't Hold" by showing the borrowed system had its own flaws independent of the pandemic, not just bad timing. Also shows self-awareness: "that's the story I told myself" flags his own rationalization honestly rather than blaming the app entirely. Connects to Chapter 7 (Borrowed Systems Don't Hold) and Chapter 1 (#7, needs the same anonymization fix).*
 
 ---
 

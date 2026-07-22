@@ -1,7 +1,7 @@
 # Writing Rules
 ## Hope is Not a Feeling: It's a Practice Worth Building
 *By Brian Hackerson*
-*Last updated: June 5, 2026*
+*Last updated: July 19, 2026*
 
 ---
 
@@ -62,6 +62,7 @@ Personal story captures stay raw and unpolished. These rules do not apply to the
 - Consider how each post applies to someone facing real, permanent adversity — terminal illness, profound loss, irreversible conditions. When ambiguous adversity is the subject, acknowledge the distinction honestly. For real permanent adversity, hope meets it directly rather than waiting for a better receipt.
 - Before finalizing any draft, take a reader pass: read it as someone looking for something to grab onto to find hope in their life. Does the post offer that? Is the hope explicit, accessible, and real — or buried, implied, or only theoretical? If a struggling reader would finish the post and not know what to do next, the post is not done.
 - Political framing: name the emotional weight of difficult times without partisan attribution. The book's universal accessibility must be protected.
+- Naming products and technology: don't name a specific brand, app, or piece of technology in any chapter or post if Brian has anything negative to say about it or the experience with it. Refer to it generically instead (an app, a tracking device, a program). If it's unclear whether the mention is negative enough to warrant this, ask before naming it. Positive or neutral mentions (Life Time, Whoop, InBody, Apple Fitness) are fine to name directly.
 
 ---
 
