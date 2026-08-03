@@ -58,7 +58,7 @@ Also joy knowing there's a reservation for next year. Same time, same friends, s
 **The thread:**
 - Brown's male shame response: weakness, unworthiness, falling short
 - The inner critic's specific line: "You fell short. You should have known."
-- Cy Wakeman's counter-question: "What would great look like right now?"
+- Cy Wakeman's counter-question: "What does great look like?"
 - Roosevelt's passage: the man who comes short again and again, because there is no effort without error and shortcoming — and who at the worst, if he fails, at least fails while daring greatly
 - The hope practice as the arena you choose to enter every morning
 
@@ -170,6 +170,7 @@ When the outcome is out of your hands, the practice is not. Keep building it. Th
 | Hope Found In The Scrum Values | hopeisnotafeeling | June 15, 2026 | hope-found-in-scrum-values.md |
 | Joy Showed Up When I Stopped Chasing It | hopeisnotafeeling | June 23, 2026 | connecting-joy-and-hope.md |
 | The Hope Practice Doesn't Require a Favorable Outcome | hopeisnotafeeling | July 3, 2026 | release-isnt-surrender.md |
+| Start Before You're Ready | hopeisnotafeeling | July 26, 2026 | start-before-youre-ready.md |
 
 ---
 
@@ -234,4 +235,43 @@ Aim it honestly. Hope knows which direction to look.
 **Possible angle:** The hope practice keeps attacking. Not because every shot goes in. Because the practice knows the game is longer than any single miss.
 
 **Possible closing line:** Miss. Reset. Line up the next shot. That is the hope practice working exactly as intended.
+
+---
+
+### I Had the Will. I Didn't Have a Plan B.
+**Subtitle:** The hope practice needed a second route, not more willpower.
+**Substack:** hopeisnotafeeling.substack.com
+**Status:** Draft — July 22, 2026
+**File:** trouble-was-never-the-question.md
+
+**Core idea:** Every failed attempt before this one had agency — Brian wanted it enough every time. What was missing was pathways: the ability to find another route when the plan hit a wall. This time, trouble was expected as a certainty from the start, not a possibility to avoid, so a plateau or closed door became a fork instead of a verdict. Asking for help — coaches, research, AI — became part of the plan itself, not a sign the plan had failed.
+
+**Key connections:**
+- Snyder's agency/pathways distinction (Chapter 1) — agency without pathways is why past attempts collapsed at the first closed door
+- The Agile Manifesto's "responding to change over following a plan" — reused from "There Are No Failures, Only Data," but taken further here: changing the plan itself, not just your read of it
+- Question #9 in personal-stories.md — the plateau, "trouble was expected... not as a possibility, as a certainty," and AI as an unstick tool
+- The wall/redirect language from Chapter 2, echoed but not reused verbatim
+
+**Distinct from:** "There Are No Failures, Only Data" is about reading a single data point calmly before reacting. This one is about rebuilding the route itself when it closes — a different mechanism, same react/respond family.
+
+**Notes for drafting:** Title finalized after a few rounds — landed on the provocative-but-clear version over more abstract options ("Trouble Was Never the Question," "Wanting It Enough Was Never the Problem"). Draft complete; not yet reviewed for endnote numbering conflicts with the book.
+
+---
+
+### You Get What You Measure
+**Subtitle:** TBD
+**Substack:** hopeisnotafeeling.substack.com
+**Status:** Seed — July 26, 2026
+
+**Core idea:** The hope practice runs on empirical process control, the same discipline behind Scrum: transparency, inspection, and adaptation. You can't adapt the practice without accurate data, and stopping the measurement too soon breaks the whole loop. Measuring doesn't just track progress — it changes what you pay attention to. You get what you measure.
+
+**The story:** Stopped logging food for a stretch. Weight held steady, muscle mass still building, so it seemed like the system was working fine without the tracking. Then came a new goal, cutting another 10-15 lbs to reach ideal weight, and progress stalled. Reinstituting food logging immediately restarted the weight loss trajectory.
+
+**Key connections:**
+- Scrum's empirical process control (transparency, inspection, adaptation) — professional throughline already used in "Hope Found In The Scrum Values"
+- Receipts concept (Chapter 2) — you can't adapt without evidence
+- "There Are No Failures, Only Data" and "Start Before You're Ready" (Receipts Always Beat Plans) — this one goes further: the receipts have to keep coming, stopping the collection breaks the mechanism even if things look stable
+- Possible attribution needed for "you get what you measure" / "what gets measured gets managed" — commonly attributed to Peter Drucker, attribution disputed, verify before using
+
+**Notes for drafting:** Needs a title. Worth distinguishing from "Receipts Always Beat Plans" in "Start Before You're Ready" — that section is about having receipts at all; this one is about not stopping the collection once the practice feels stable, since stability can mask a stall until a harder goal exposes it.
 
