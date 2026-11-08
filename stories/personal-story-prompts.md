@@ -36,7 +36,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 ### Chapter 2: What Hope Actually Is
 
 12. ✓ Describe the morning the doctor's visit sank in. What did you do that day? What did you decide?
-13. What was the first small action you took? The very first one?
+13. ✓ What was the first small action you took? The very first one?
 14. ✓ When did you first feel like you had agency — like you were actually moving forward rather than just intending to?
 15. ✓ Was there a moment when you found a pathway you hadn't expected — a route that surprised you?
 
@@ -113,7 +113,7 @@ Answer as much or as little as feels right for each question. Some will unlock a
 ### Chapter 11: The Ritual That Found Me
 
 58. ✓ Tell me the full story of the first time you picked up a dumbbell corresponding to weight you'd lost. Where were you? What prompted it?
-59. What did it feel like to hold the 10 lb dumbbell? The 50? The 85?
+59. ✓ What did it feel like to hold the 10 lb dumbbell? The 50? The 85?
 60. When did you realize this had become a ritual — that it meant something beyond tracking progress?
 61. Describe the moment with the 85 lb dumbbell in as much detail as you can.
 62. What were you thinking during the ritual — what thoughts or feelings came up as you held each weight?

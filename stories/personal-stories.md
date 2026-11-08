@@ -1968,3 +1968,23 @@ Hope in the values. I found hope in the Scrum values themselves, something I wro
 
 *Notes for writing: This reframes Jeff as more than a professional influence, ten years of personal relationship (3M training 2017, trainer credentialing, sharing a stage in Tokyo, 2.5 years at Scrum Inc, meals at his home). The four takeaways (potential of people, visibility, cost of delay, hope in the values) give Chapter 4/6 concrete language for why Scrum shows up as more than a career artifact. The fourth point connects directly to the published post "Hope Found In The Scrum Values" (June 15) and the Loose Deuce story already sourced from his book, pp. 45-48. Connects to Chapter 4 (Foundation, ABS/Scrum origin) and Chapter 6 (just cause, keyword evolution).*
 
+---
+
+## #59 — What did it feel like to hold the 10 lb dumbbell? The 50? The 85?
+
+They all felt the same, because the reflection was the same. This is what I was carrying around with me. The 10, the 50, the 85, each one just a different size of the same message.
+
+The 85 was the one that made the point physically instead of just symbolically. It was heavy. I could barely pick it up with one hand.
+
+*Notes for writing: Pairs with #58 (the 80 lb moment at Life Time) but distinct from it, this is about the weight as a mirror rather than the ritual moment itself. The dumbbell becomes a stand-in for the daily, unbroken weight of carrying that much extra mass, no putting it down, no breaks. The 85 lb detail, barely liftable one-handed, is the concrete marker of scale. Connects to Chapter 11 (The Ritual That Found Me).*
+
+---
+
+## #13 — What was the first small action you took? The very first one?
+
+Getting up the next morning and going to the gym to train. Nothing more specific than that, no program, no plan for what came after.
+
+That first session was pure logistics: which machines to use, how much weight to start with, how to set each seat, what to remember for next time. None of it had anything to do with inspiration. I stumbled through it and walked out without making it bigger than it was.
+
+*Notes for writing: Derived from the published post "Hope Doesn't Need a Plan." The first action was deliberately unglamorous, logistics instead of declaration. Connects to Chapter 2 (What Hope Actually Is) and the "Show up once" section of the post itself.*
+
